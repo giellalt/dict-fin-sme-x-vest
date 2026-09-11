@@ -18767,6 +18767,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>omd.</t>
+      <xg>
+        <x>esimerkiksi</x>
+        <xt>ovdamearkka dihte</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -126816,8 +126820,11 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>= muun muassa</re>
-      <t>ee. (= earret eará)</t>
+      <t>ee.</t>
+      <xg>
+        <x>muun muassa</x>
+        <xt>earret eará</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -138957,8 +138964,11 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>= niin sanottu</re>
-      <t>ng. (= nu gohčoduvvon)</t>
+      <t>ng.</t>
+      <xg>
+        <x>niin sanottu</x>
+        <xt>nu gohčoduvvon</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -232701,8 +232711,11 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>= tai muuta sellaista</re>
-      <t>ded. (= dahje eará dakkár)</t>
+      <t>ded.</t>
+      <xg>
+        <x>tai muuta sellaista</x>
+        <xt>dahje eará dakkár</xt>
+      </xg>
     </tg>
   </mg>
 </e>
