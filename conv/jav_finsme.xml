@@ -406,12 +406,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áttán</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vanha aatami, paholainen</re>
-      <t>boares áttán, vuoras</t>
+      <xg>
+        <x>vanha aatami, paholainen</x>
+        <xt>boares áttán, vuoras</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -877,12 +875,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuorrádus ~ vuorrádus, váttes dilli, váttisvuođat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ojasta allikkoon</re>
-      <t>heađis vuorrádussii</t>
+      <xg>
+        <x>ojasta allikkoon</x>
+        <xt>heađis vuorrádussii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -1097,12 +1093,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(konkr.) vuovdái, borastuhkes, boreš, nealggár (-is), runzái, vuhppolas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian ahneena</re>
-      <t>vuovdášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian ahneena</x>
+        <xt>vuovdášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -1194,12 +1188,10 @@
     <tg xml:lang="fin">
       <t>gáržžet</t>
       <t>gáržžit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>asuu hyvin ahtaasti</re>
-      <t>ássá hui gáržžet</t>
+      <xg>
+        <x>asuu hyvin ahtaasti</x>
+        <xt>ássá hui gáržžet</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -1396,36 +1388,28 @@
   <mg>
     <tg xml:lang="fin">
       <t>áigi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sinä aikana</re>
-      <t>dan áigge</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>entisinä aikoina</re>
-      <t>ovdalaš áiggiid</t>
+      <xg>
+        <x>sinä aikana</x>
+        <xt>dan áigge</xt>
+      </xg>
+      <xg>
+        <x>entisinä aikoina</x>
+        <xt>ovdalaš áiggiid</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>hyvissä ajoin</re>
       <t>áiggil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>koko ajan</re>
-      <t>oppa áigge</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>ajan mittaan</re>
-      <t>áiggi mielde</t>
+      <xg>
+        <x>koko ajan</x>
+        <xt>oppa áigge</xt>
+      </xg>
+      <xg>
+        <x>ajan mittaan</x>
+        <xt>áiggi mielde</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -1456,18 +1440,14 @@
     <tg xml:lang="fin">
       <re>aikoja sitten</re>
       <t>dolin, áigá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ennen aikojaan</re>
-      <t>ovdal áiggiid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viime aikoina</re>
-      <t>dáid guhtaliid</t>
+      <xg>
+        <x>ennen aikojaan</x>
+        <xt>ovdal áiggiid</xt>
+      </xg>
+      <xg>
+        <x>viime aikoina</x>
+        <xt>dáid guhtaliid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -1874,12 +1854,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áloruonas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ainavihanta lehtipuu</re>
-      <t>áloruonas lastamuorra</t>
+      <xg>
+        <x>ainavihanta lehtipuu</x>
+        <xt>áloruonas lastamuorra</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -1980,12 +1958,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dušše, duššefal, beare, aivve</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli ainoastaan vaatimia</re>
-      <t>ledje aivve álddut</t>
+      <xg>
+        <x>oli ainoastaan vaatimia</x>
+        <xt>ledje aivve álddut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -2224,12 +2200,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gasttihit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä aivastutti</re>
-      <t>su gasttihii</t>
+      <xg>
+        <x>häntä aivastutti</x>
+        <xt>su gasttihii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -2503,12 +2477,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áigelohku</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ennen ajanlaskun alkua</re>
-      <t>ovdal áigelogu álggu</t>
+      <xg>
+        <x>ennen ajanlaskun alkua</x>
+        <xt>ovdal áigelogu álggu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -3166,12 +3138,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>akrobáhtalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>akrobaattinen esitys</re>
-      <t>akrobáhtalaš loaiddasteapmi</t>
+      <xg>
+        <x>akrobaattinen esitys</x>
+        <xt>akrobáhtalaš loaiddasteapmi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -4081,12 +4051,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuollehaddi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>alihintaan (adv.)</re>
-      <t>menddo hálbái</t>
+      <xg>
+        <x>alihintaan (adv.)</x>
+        <xt>menddo hálbái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -4821,12 +4789,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuolde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joulun alla</re>
-      <t>ovdalaš juovllaid</t>
+      <xg>
+        <x>joulun alla</x>
+        <xt>ovdalaš juovllaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -4868,12 +4834,10 @@
     <tg xml:lang="fin">
       <t>vuollai</t>
       <t>vuollái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pöydän alle</re>
-      <t>beavdde vuollai ~ beavddi vuollái</t>
+      <xg>
+        <x>pöydän alle</x>
+        <xt>beavdde vuollai ~ beavddi vuollái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -4884,24 +4848,20 @@
   <mg>
     <tg xml:lang="fin">
       <t>(lukumäärästä) vuollel</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>alle kolmekymmentä</re>
-      <t>vuollel golbmalogi</t>
+      <xg>
+        <x>alle kolmekymmentä</x>
+        <xt>vuollel golbmalogi</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>vähän alle</re>
       <t>vuollelaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vähän alle kolmekymmentä</re>
-      <t>vuollelaš golbmalogi</t>
+      <xg>
+        <x>vähän alle kolmekymmentä</x>
+        <xt>vuollelaš golbmalogi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -4952,12 +4912,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuollálagaid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>merkitä luvut allekkain</re>
-      <t>merket loguid vuollálagaid</t>
+      <xg>
+        <x>merkitä luvut allekkain</x>
+        <xt>merket loguid vuollálagaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -6384,12 +6342,10 @@
     <tg xml:lang="fin">
       <re>tuleva anoppi</re>
       <t>vuonesássa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kutsua jotakuta anopikseen</re>
-      <t>vuotnámastalit soapmásiin</t>
+      <xg>
+        <x>kutsua jotakuta anopikseen</x>
+        <xt>vuotnámastalit soapmásiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -6734,18 +6690,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>ándagassii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>anteeksi antaminen</re>
-      <t>ándagassii addojupmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>anteeksi saaminen</re>
-      <t>ándagassii oažžun</t>
+      <xg>
+        <x>anteeksi antaminen</x>
+        <xt>ándagassii addojupmi</xt>
+      </xg>
+      <xg>
+        <x>anteeksi saaminen</x>
+        <xt>ándagassii oažžun</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -7058,12 +7010,10 @@
     <tg xml:lang="fin">
       <re>tuleva appi</re>
       <t>vuohppasássa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kutsua jotakuta apekseen</re>
-      <t>vuohpastallat soapmásiin</t>
+      <xg>
+        <x>kutsua jotakuta apekseen</x>
+        <xt>vuohpastallat soapmásiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -7989,12 +7939,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>árvidit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyvä arvaamaan</re>
-      <t>árveš ~ árves</t>
+      <xg>
+        <x>hyvä arvaamaan</x>
+        <xt>árveš ~ árves</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -8103,12 +8051,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>árvu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää arvossa</re>
-      <t>atnit árvvus</t>
+      <xg>
+        <x>pitää arvossa</x>
+        <xt>atnit árvvus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -8129,18 +8075,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>árvosaš, veara, vearta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sen arvoinen asia</re>
-      <t>dan árvosaš ášši</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>näkemisen arvoinen</re>
-      <t>oaidnin veara</t>
+      <xg>
+        <x>sen arvoinen asia</x>
+        <xt>dan árvosaš ášši</xt>
+      </xg>
+      <xg>
+        <x>näkemisen arvoinen</x>
+        <xt>oaidnin veara</xt>
+      </xg>
       <xg>
         <x>ei ole sen arvoinen</x>
         <xt>ii leat dan veara</xt>
@@ -10563,12 +10505,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>veahkehit, ábuhit, helpet</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei auta (tehdä jotakin)</re>
-      <t>ii ábut (+ inf.), ii ávtte (+ inf.)</t>
+      <xg>
+        <x>ei auta (tehdä jotakin)</x>
+        <xt>ii ábut (+ inf.), ii ávtte (+ inf.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -11191,18 +11131,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>vehkiin</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun avulla</re>
-      <t>soapmása vehkiin</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkin avulla</re>
-      <t>mainna nu</t>
+      <xg>
+        <x>jonkun avulla</x>
+        <xt>soapmása vehkiin</xt>
+      </xg>
+      <xg>
+        <x>jonkin avulla</x>
+        <xt>mainna nu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -11604,12 +11540,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(pol.) blohkka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>entiset itäblokin maat</re>
-      <t>ovddeš nuortablohka riikkat</t>
+      <xg>
+        <x>entiset itäblokin maat</x>
+        <xt>ovddeš nuortablohka riikkat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -12912,12 +12846,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>evttolaš, eavttuvuloš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ehdollinen vankeustuomio</re>
-      <t>evttolaš giddagasduopmu</t>
+      <xg>
+        <x>ehdollinen vankeustuomio</x>
+        <xt>evttolaš giddagasduopmu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -12928,12 +12860,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eavttuheapme, absoluhtta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ehdoton vankeustuomio</re>
-      <t>eavttohis giddagasduopmu</t>
+      <xg>
+        <x>ehdoton vankeustuomio</x>
+        <xt>eavttohis giddagasduopmu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -13010,12 +12940,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>várra, ammal, giidiehtá, kánske</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ehkä tulee</re>
-      <t>soaitá ~ sáhttá ~ dáidá boahtit</t>
+      <xg>
+        <x>ehkä tulee</x>
+        <xt>soaitá ~ sáhttá ~ dáidá boahtit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -13172,12 +13100,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(esim. luonnovaroista) vátnut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jäkäliköt ovat ehtyneet</re>
-      <t>jeageleatnamat leat vátnon</t>
+      <xg>
+        <x>jäkäliköt ovat ehtyneet</x>
+        <xt>jeageleatnamat leat vátnon</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -13322,12 +13248,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ekologalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ekologinen lokero</re>
-      <t>ekologalaš lođá</t>
+      <xg>
+        <x>ekologinen lokero</x>
+        <xt>ekologalaš lođá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -13733,12 +13657,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jur.) agibeaiduopmu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sai elinkautisen</re>
-      <t>oaččui agibeaiduomu</t>
+      <xg>
+        <x>sai elinkautisen</x>
+        <xt>oaččui agibeaiduomu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -13989,12 +13911,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eallevaš, ealli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>elollinen luonto</re>
-      <t>eallevaš luondu</t>
+      <xg>
+        <x>elollinen luonto</x>
+        <xt>eallevaš luondu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -14045,12 +13965,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jámas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>eloton luonto</re>
-      <t>jápma luondu</t>
+      <xg>
+        <x>eloton luonto</x>
+        <xt>jápma luondu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -14744,12 +14662,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nissonahtes</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>emännätön talo</re>
-      <t>nissonahtes dállu</t>
+      <xg>
+        <x>emännätön talo</x>
+        <xt>nissonahtes dállu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -14770,12 +14686,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) eamidaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuli sinne emäntineen</re>
-      <t>bođii dohko eamidaš</t>
+      <xg>
+        <x>tuli sinne emäntineen</x>
+        <xt>bođii dohko eamidaš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -15200,12 +15114,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ovdohat, mearka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkin enteenä</re>
-      <t>man nu ovdasii</t>
+      <xg>
+        <x>jonkin enteenä</x>
+        <xt>man nu ovdasii</xt>
+      </xg>
       <xg>
         <x>nuo revontulet ovat pakkasten enteenä</x>
         <xt>diet guovssahasat leat buollašiid ovdasii</xt>
@@ -15343,12 +15255,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>boahtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ensi vuonna</re>
-      <t>boahtte jagi ~ jage</t>
+      <xg>
+        <x>ensi vuonna</x>
+        <xt>boahtte jagi ~ jage</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -15420,12 +15330,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuosttas ~ vuosttaš, vuosttamus ~ vuosttamuš, ovddimus ~ ovddimuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ensimmäisen asteen yhtälö</re>
-      <t>vuosttas vuoimmi ovttamahtodat</t>
+      <xg>
+        <x>ensimmäisen asteen yhtälö</x>
+        <xt>vuosttas vuoimmi ovttamahtodat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -16882,12 +16790,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>erenoamáš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>erittäin hyvin</re>
-      <t>erenoamáš bures</t>
+      <xg>
+        <x>erittäin hyvin</x>
+        <xt>erenoamáš bures</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -17203,12 +17109,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(toisistaan) earránaddat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Inarissa me erosimme toisistamme</re>
-      <t>Anáris moai earránattaime</t>
+      <xg>
+        <x>Inarissa me erosimme toisistamme</x>
+        <xt>Anáris moai earránattaime</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -18356,12 +18260,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>luládat, lullebiegga, máttabiegga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuuli etelästä</re>
-      <t>biekkai lulil ~ máttil</t>
+      <xg>
+        <x>tuuli etelästä</x>
+        <xt>biekkai lulil ~ máttil</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -19032,24 +18934,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>gaska</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viiden metrin etäisyydellä toisistaan</re>
-      <t>viđa mehtera gaskkaid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kilometrin etäisyydelle</re>
-      <t>kilomehtera duohkai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kilometrin etäisyydellä</re>
-      <t>kilomehtera duohken</t>
+      <xg>
+        <x>viiden metrin etäisyydellä toisistaan</x>
+        <xt>viđa mehtera gaskkaid</xt>
+      </xg>
+      <xg>
+        <x>kilometrin etäisyydelle</x>
+        <xt>kilomehtera duohkai</xt>
+      </xg>
+      <xg>
+        <x>kilometrin etäisyydellä</x>
+        <xt>kilomehtera duohken</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -21723,12 +21619,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(toista) cábmit, huškut, sealgádit, čorbmat, čiekčat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun hakkaamaksi</re>
-      <t>cápmáhallat (+ ill.), huškkohallat (+ ill.), čorpmahallat (+ill.), čievččahallat (+ ill.)</t>
+      <xg>
+        <x>joutua jonkun hakkaamaksi</x>
+        <xt>cápmáhallat (+ ill.), huškkohallat (+ ill.), čorpmahallat (+ill.), čievččahallat (+ ill.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -21772,12 +21666,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ohcamuš, ohcan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hakemus liitteineen</re>
-      <t>ohcamuš oktan čuvvosiiguin</t>
+      <xg>
+        <x>hakemus liitteineen</x>
+        <xt>ohcamuš oktan čuvvosiiguin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -22107,12 +21999,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suoldnái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hallainen puronvarsi</re>
-      <t>suoldnás ájaguorra</t>
+      <xg>
+        <x>hallainen puronvarsi</x>
+        <xt>suoldnás ájaguorra</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -22495,12 +22385,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hállu, hálo, miella, háliidus, lustu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuntea halua johonkin</re>
-      <t>háliiduvvat (+ ill.)</t>
+      <xg>
+        <x>tuntea halua johonkin</x>
+        <xt>háliiduvvat (+ ill.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -23227,12 +23115,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suvrutkeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hapattamaton leipä</re>
-      <t>suvrutkeahtes láibi</t>
+      <xg>
+        <x>hapattamaton leipä</x>
+        <xt>suvrutkeahtes láibi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -23335,12 +23221,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(hius) vuokta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>harmaat hapset</re>
-      <t>čurges vuovttat</t>
+      <xg>
+        <x>harmaat hapset</x>
+        <xt>čurges vuovttat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -24844,12 +24728,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(asiasta) suohtas, hávski, somá, heahkas ~ heahkas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hauskoja uutisia</re>
-      <t>heahkka ságat</t>
+      <xg>
+        <x>hauskoja uutisia</x>
+        <xt>heahkka ságat</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -25110,12 +24992,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áicu, áiccastat, fuopmášupmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>havaintojeni mukaan</re>
-      <t>dađe mielde go ieš lean fuobmán</t>
+      <xg>
+        <x>havaintojeni mukaan</x>
+        <xt>dađe mielde go ieš lean fuobmán</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -26721,12 +26601,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakuta kohtaan) njuorrat (+ guovdu), njuorranit (+ guovdu)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sydämeni heltyi</re>
-      <t>mus njuorai váibmu</t>
+      <xg>
+        <x>sydämeni heltyi</x>
+        <xt>mus njuorai váibmu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -26893,12 +26771,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuoiŋŋanas, vuoiŋŋahat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>samaan hengenvetoon</re>
-      <t>seamma vuoigŋamii</t>
+      <xg>
+        <x>samaan hengenvetoon</x>
+        <xt>seamma vuoigŋamii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -27047,12 +26923,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>heagga, vuoigŋa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Pyhä Henki</re>
-      <t>Bassi Vuoigŋa</t>
+      <xg>
+        <x>Pyhä Henki</x>
+        <xt>Bassi Vuoigŋa</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -27872,12 +27746,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váimmohámat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>herttamainen kuvio</re>
-      <t>váimmohámat figuvra</t>
+      <xg>
+        <x>herttamainen kuvio</x>
+        <xt>váimmohámat figuvra</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -28151,18 +28023,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>bottoš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli siellä hetkisen</re>
-      <t>lei doppe bottoža ~ oatnelanbotta ~ oanehassii ~ oanehaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pysähtyi sinne hetkiseksi</re>
-      <t>orustii dohko bottožii ~ oatnelanboddii ~ oanehassii ~ oanehaš</t>
+      <xg>
+        <x>oli siellä hetkisen</x>
+        <xt>lei doppe bottoža ~ oatnelanbotta ~ oanehassii ~ oanehaš</xt>
+      </xg>
+      <xg>
+        <x>pysähtyi sinne hetkiseksi</x>
+        <xt>orustii dohko bottožii ~ oatnelanboddii ~ oanehassii ~ oanehaš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -28305,12 +28173,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>heastafápmu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viiden hevosvoiman perämoottori</re>
-      <t>viđa heastta fanasmohtor</t>
+      <xg>
+        <x>viiden hevosvoiman perämoottori</x>
+        <xt>viđa heastta fanasmohtor</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -28321,12 +28187,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>njoahci, hiđis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian hitaana</re>
-      <t>njoazášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian hitaana</x>
+        <xt>njoazášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -29160,12 +29024,10 @@
     <tg xml:lang="fin">
       <re>(lähteä hiihtämään)</re>
       <t>čuoigalit, čuoigát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>käväistä hiihtämällä</re>
-      <t>(jossakin) čuoiggadit</t>
+      <xg>
+        <x>käväistä hiihtämällä</x>
+        <xt>(jossakin) čuoiggadit</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -29435,12 +29297,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hiivvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hiivatin hyvä</re>
-      <t>oalle buorre</t>
+      <xg>
+        <x>hiivatin hyvä</x>
+        <xt>oalle buorre</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -29491,12 +29351,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(hiki hatussa) bivastatgállus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>touhusi siellä hiki hatussa</re>
-      <t>doamai doppe bivastatgállus</t>
+      <xg>
+        <x>touhusi siellä hiki hatussa</x>
+        <xt>doamai doppe bivastatgállus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -29557,12 +29415,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hillján jaskat, jávoheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian hiljaisena</re>
-      <t>hiljášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian hiljaisena</x>
+        <xt>hiljášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -30084,12 +29940,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>skavvehit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hipaisten (ohi, yli)</re>
-      <t>skavát (meaddil, badjel)</t>
+      <xg>
+        <x>hipaisten (ohi, yli)</x>
+        <xt>skavát (meaddil, badjel)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -30100,18 +29954,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>skavvehit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hipoen (ohi, yli)</re>
-      <t>skavát (meaddil, badjel)</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>maata hipoen</re>
-      <t>eatnan labi</t>
+      <xg>
+        <x>hipoen (ohi, yli)</x>
+        <xt>skavát (meaddil, badjel)</xt>
+      </xg>
+      <xg>
+        <x>maata hipoen</x>
+        <xt>eatnan labi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -30947,12 +30797,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dikšut, hoaidit, hoitát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ottaa hoitaakseen</re>
-      <t>váldit badjelasas</t>
+      <xg>
+        <x>ottaa hoitaakseen</x>
+        <xt>váldit badjelasas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -31063,12 +30911,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ordnašuvvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>asia on hoitumassa</re>
-      <t>ášši lea ordnašuvvamin</t>
+      <xg>
+        <x>asia on hoitumassa</x>
+        <xt>ášši lea ordnašuvvamin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -32004,18 +31850,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>oaivejorggis, oaivejoran</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä huimasi</re>
-      <t>son lei oaivejorgásis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä rupesi huimaaman</re>
-      <t>son šattai oaivejorgásii</t>
+      <xg>
+        <x>häntä huimasi</x>
+        <xt>son lei oaivejorgásis</xt>
+      </xg>
+      <xg>
+        <x>häntä rupesi huimaaman</x>
+        <xt>son šattai oaivejorgásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -32223,12 +32065,10 @@
     <tg xml:lang="fin">
       <re>tehdä joku hullummaksi</re>
       <t>jalludit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian hulluna</re>
-      <t>jallašit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian hulluna</x>
+        <xt>jallašit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -32395,12 +32235,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>juhkaluhtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>humalluttava juoma</re>
-      <t>juhkaluhtti jugus</t>
+      <xg>
+        <x>humalluttava juoma</x>
+        <xt>juhkaluhtti jugus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -32942,18 +32780,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>sakka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>huomattavasti suurempi</re>
-      <t>sakka stuorát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>huomattavasti kauempana</re>
-      <t>sakka guhkkelis</t>
+      <xg>
+        <x>huomattavasti suurempi</x>
+        <xt>sakka stuorát</xt>
+      </xg>
+      <xg>
+        <x>huomattavasti kauempana</x>
+        <xt>sakka guhkkelis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -33128,12 +32962,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>latnjaliekkas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>säilytettävä huoneenlämmössä</re>
-      <t>galgá seailluhuvvot latnjalieggasis</t>
+      <xg>
+        <x>säilytettävä huoneenlämmössä</x>
+        <xt>galgá seailluhuvvot latnjalieggasis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -33276,12 +33108,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(ihmisestä) silli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian huonokuntoisena</re>
-      <t>silášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian huonokuntoisena</x>
+        <xt>silášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -34264,12 +34094,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hávskodat, hearva, lusta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>huvin vuoksi, huvikseen</re>
-      <t>hearvva dihte</t>
+      <xg>
+        <x>huvin vuoksi, huvikseen</x>
+        <xt>hearvva dihte</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -34468,12 +34296,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>modji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pidätellä hymyään</re>
-      <t>mojiid goddalit</t>
+      <xg>
+        <x>pidätellä hymyään</x>
+        <xt>mojiid goddalit</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -34969,18 +34795,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>šattolaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyväkasvuinen maa</re>
-      <t>šattolaš eana</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyväkasvuinen vuosi</re>
-      <t>šattolaš jahki</t>
+      <xg>
+        <x>hyväkasvuinen maa</x>
+        <xt>šattolaš eana</xt>
+      </xg>
+      <xg>
+        <x>hyväkasvuinen vuosi</x>
+        <xt>šattolaš jahki</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -36007,12 +35829,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(asiasta, muistikuvista) geađđi, seađđi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>muistaa hämärästi</re>
-      <t>geađi ~ seađi čađa muitit</t>
+      <xg>
+        <x>muistaa hämärästi</x>
+        <xt>geađi ~ seađi čađa muitit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -36928,12 +36748,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>duššit, joavdelasat, duhátduššit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kertoili hölynpölyä</re>
-      <t>muitalattai daid duhátduššiid</t>
+      <xg>
+        <x>kertoili hölynpölyä</x>
+        <xt>muitalattai daid duhátduššiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -37211,12 +37029,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuolakeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>höyläämätön lauta</re>
-      <t>vuolakeahtes fiellu</t>
+      <xg>
+        <x>höyläämätön lauta</x>
+        <xt>vuolakeahtes fiellu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -37277,12 +37093,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(esim. ruoan valmistuksessa) lievladit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>höyryttää vihanneksia</re>
-      <t>lievladit ruotnasiid</t>
+      <xg>
+        <x>höyryttää vihanneksia</x>
+        <xt>lievladit ruotnasiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -37447,12 +37261,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ideanttalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>identtiset kaksoset</re>
-      <t>ideanttalaš jumežat</t>
+      <xg>
+        <x>identtiset kaksoset</x>
+        <xt>ideanttalaš jumežat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -37627,12 +37439,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>imašlaš, ovddolaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ihmeellisen kaunis</re>
-      <t>imaš čáppis ~ čáppat</t>
+      <xg>
+        <x>ihmeellisen kaunis</x>
+        <xt>imaš čáppis ~ čáppat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -37657,12 +37467,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>imašmánná</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Mozart oli ihmelapsi</re>
-      <t>Mozart lei imašmánná</t>
+      <xg>
+        <x>Mozart oli ihmelapsi</x>
+        <xt>Mozart lei imašmánná</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -38035,12 +37843,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>agibeaivvisge, goassige</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kuka ikinä tuleekin</re>
-      <t>gii ihkinassii bođešge</t>
+      <xg>
+        <x>kuka ikinä tuleekin</x>
+        <xt>gii ihkinassii bođešge</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -38502,12 +38308,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hilbat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla ilkikurinen (jollekulle)</re>
-      <t>hilbošit (soapmásiin)</t>
+      <xg>
+        <x>olla ilkikurinen (jollekulle)</x>
+        <xt>hilbošit (soapmásiin)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -38598,12 +38402,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áibmu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>raitis ilma</re>
-      <t>dearvvas ~ dearvvaš áibmu</t>
+      <xg>
+        <x>raitis ilma</x>
+        <xt>dearvvas ~ dearvvaš áibmu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -38614,12 +38416,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(sää) dálki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaunis ilma</re>
-      <t>čáppa dálki</t>
+      <xg>
+        <x>kaunis ilma</x>
+        <xt>čáppa dálki</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -38802,18 +38602,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>almmiguovlu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mihin ilmansuuntaan?</re>
-      <t>guđe almmiguvlui? gosa guvlui?</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>millä ilmansuunnalla?</re>
-      <t>guđe almmiguovllus? gos guovllos?</t>
+      <xg>
+        <x>mihin ilmansuuntaan?</x>
+        <xt>guđe almmiguvlui? gosa guvlui?</xt>
+      </xg>
+      <xg>
+        <x>millä ilmansuunnalla?</x>
+        <xt>guđe almmiguovllus? gos guovllos?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -39427,12 +39223,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eahketbodda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli siellä iltakauden</re>
-      <t>lei doppe eahketbotta</t>
+      <xg>
+        <x>oli siellä iltakauden</x>
+        <xt>lei doppe eahketbotta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -39483,12 +39277,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eahketrohkos</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lukea iltarukous</re>
-      <t>sivdnidit nohkkat</t>
+      <xg>
+        <x>lukea iltarukous</x>
+        <xt>sivdnidit nohkkat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -40030,12 +39822,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>fasttášit, ilgadin atnit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>inhoan häntä</re>
-      <t>mus lea garra vuostemiella sutnje</t>
+      <xg>
+        <x>inhoan häntä</x>
+        <xt>mus lea garra vuostemiella sutnje</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -40156,12 +39946,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mokta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häneltä lopahti innostus</re>
-      <t>sus ravggai bunci</t>
+      <xg>
+        <x>häneltä lopahti innostus</x>
+        <xt>sus ravggai bunci</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -40363,12 +40151,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(kiel.) čuorvvassátni, interjekšuvdna</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>voi kuinka hauskaa!</re>
-      <t>vuoi man somá!</t>
+      <xg>
+        <x>voi kuinka hauskaa!</x>
+        <xt>vuoi man somá!</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -40449,12 +40235,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mokta, indu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla innoissaan</re>
-      <t>leat movtta</t>
+      <xg>
+        <x>olla innoissaan</x>
+        <xt>leat movtta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -40829,12 +40613,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>luovus, bođuid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sanoa irti</re>
-      <t>cealkit eret</t>
+      <xg>
+        <x>sanoa irti</x>
+        <xt>cealkit eret</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -42130,12 +41912,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>iešsorbmen, iešsoardin</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tehdä itsemurha</re>
-      <t>sorbmet ~ soardit iežas</t>
+      <xg>
+        <x>tehdä itsemurha</x>
+        <xt>sorbmet ~ soardit iežas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -42519,12 +42299,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nuorttadat, nuortebiegga, ovsttán</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuuli idästä</re>
-      <t>biekkai nuorttil ~ ovsttal</t>
+      <xg>
+        <x>tuuli idästä</x>
+        <xt>biekkai nuorttil ~ ovsttal</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -42953,12 +42731,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>veadjit, nagodit ~ nagadit, nahkat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jaksaa nostaa</re>
-      <t>bihtit loktet</t>
+      <xg>
+        <x>jaksaa nostaa</x>
+        <xt>bihtit loktet</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -43052,12 +42828,10 @@
     <tg xml:lang="fin">
       <re>(pitävä)</re>
       <t>coakci;</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kuv. saada jalansijaa</re>
-      <t>coavcci oažžut</t>
+      <xg>
+        <x>kuv. saada jalansijaa</x>
+        <xt>coavcci oažžut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -43105,12 +42879,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>juolgi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jalat yhdessä</re>
-      <t>oktii julggiid</t>
+      <xg>
+        <x>jalat yhdessä</x>
+        <xt>oktii julggiid</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -43129,12 +42901,10 @@
     <tg xml:lang="fin">
       <re>jäädä jalkoihin</re>
       <t>duolbmašuvvat</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun jalkoihin</re>
-      <t>duolmmahallat soapmásii</t>
+      <xg>
+        <x>joutua jonkun jalkoihin</x>
+        <xt>duolmmahallat soapmásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -43408,18 +43178,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(kallisarvoinen) divrras</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jalo lehtipuu</re>
-      <t>divrras lastamuorra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jalot ajatukset</re>
-      <t>divrras jurdagat</t>
+      <xg>
+        <x>jalo lehtipuu</x>
+        <xt>divrras lastamuorra</xt>
+      </xg>
+      <xg>
+        <x>jalot ajatukset</x>
+        <xt>divrras jurdagat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -45551,12 +45317,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(olla aikaa tehdä jotakin) astat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joudatko käymään luonani?</re>
-      <t>asttatgo fitnat mu luhtte?</t>
+      <xg>
+        <x>joudatko käymään luonani?</x>
+        <xt>asttatgo fitnat mu luhtte?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -46712,12 +46476,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(juominen) juhkan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitkällinen juopottelu</re>
-      <t>guhkálaš juhkan</t>
+      <xg>
+        <x>pitkällinen juopottelu</x>
+        <xt>guhkálaš juhkan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -47235,12 +46997,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>olus, báljo, jur</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei juurikaan lisäänny</re>
-      <t>ii olus lassán, ii báljo lassán, ii jur lassán</t>
+      <xg>
+        <x>ei juurikaan lisäänny</x>
+        <xt>ii olus lassán, ii báljo lassán, ii jur lassán</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -47760,12 +47520,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gordnečalbmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>päästä jyvälle</re>
-      <t>geahčái beassat</t>
+      <xg>
+        <x>päästä jyvälle</x>
+        <xt>geahčái beassat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -48599,12 +48357,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(psyk.) jierástuddat, gealdagasas leat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä jännitti</re>
-      <t>son jierástuttai, son lei gealdagasas</t>
+      <xg>
+        <x>häntä jännitti</x>
+        <xt>son jierástuttai, son lei gealdagasas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -48935,12 +48691,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jierbmi, jearga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>täysissä järjissään</re>
-      <t>olles jirpmiid alde</t>
+      <xg>
+        <x>täysissä järjissään</x>
+        <xt>olles jirpmiid alde</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -49260,12 +49014,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jeatká</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyvä jätkä</re>
-      <t>garra bojá, oalle lunta</t>
+      <xg>
+        <x>hyvä jätkä</x>
+        <xt>garra bojá, oalle lunta</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -51325,12 +51077,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gávccátlohkái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kahdeksatta kymmentä käyvä henkilö</re>
-      <t>gávccátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>kahdeksatta kymmentä käyvä henkilö</x>
+        <xt>gávccátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -51351,12 +51101,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guovttá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kahden kesken</re>
-      <t>guovttá gaskan</t>
+      <xg>
+        <x>kahden kesken</x>
+        <xt>guovttá gaskan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -51579,12 +51327,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guovdat, beallái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jakaa kahtia</re>
-      <t>juohkit guovdat ~ beallái</t>
+      <xg>
+        <x>jakaa kahtia</x>
+        <xt>juohkit guovdat ~ beallái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -51850,18 +51596,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(+ superl.) buot (+ superl.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaikkein paras</re>
-      <t>buot buoremus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaikkein huonoimmin</re>
-      <t>buot fuonimusat</t>
+      <xg>
+        <x>kaikkein paras</x>
+        <xt>buot buoremus</xt>
+      </xg>
+      <xg>
+        <x>kaikkein huonoimmin</x>
+        <xt>buot fuonimusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -51920,12 +51662,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>buohkanassii, oktiibuot</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaiken kaikkiaan</re>
-      <t>buot buohkanassii</t>
+      <xg>
+        <x>kaiken kaikkiaan</x>
+        <xt>buot buohkanassii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -52066,12 +51806,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gáibmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kutsua (jotakuta) kaimakseen</re>
-      <t>gáimmástallat (soapmásiin)</t>
+      <xg>
+        <x>kutsua (jotakuta) kaimakseen</x>
+        <xt>gáimmástallat (soapmásiin)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -52082,12 +51820,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(keskenään) gáimmežat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olemme kaimaksia</re>
-      <t>letne gáimmežat</t>
+      <xg>
+        <x>olemme kaimaksia</x>
+        <xt>letne gáimmežat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -56409,12 +56145,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>skoarihit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vene karahti rantaan</re>
-      <t>fanas skoarihii gáddái</t>
+      <xg>
+        <x>vene karahti rantaan</x>
+        <xt>fanas skoarihii gáddái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -56695,12 +56429,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>botkkistit, gávggistit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>unet karisivat silmistäni</re>
-      <t>mus nahkárat ravge</t>
+      <xg>
+        <x>unet karisivat silmistäni</x>
+        <xt>mus nahkárat ravge</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -56711,12 +56443,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>botkalit, gávgalit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>karistaa (joku) kannoiltaan</re>
-      <t>guođđit (soapmása) maŋábeallai</t>
+      <xg>
+        <x>karistaa (joku) kannoiltaan</x>
+        <xt>guođđit (soapmása) maŋábeallai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -57192,12 +56922,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>garvit, garvvašit, beasadit (+ lok.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ruveta karttamaan (jotakin)</re>
-      <t>báltut (+ lok.), spárkat (+ lok.)</t>
+      <xg>
+        <x>ruveta karttamaan (jotakin)</x>
+        <xt>báltut (+ lok.), spárkat (+ lok.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -57994,12 +57722,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(lasta) bajásgeassit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ottaa kasvatettavakseen</re>
-      <t>bibmui váldit</t>
+      <xg>
+        <x>ottaa kasvatettavakseen</x>
+        <xt>bibmui váldit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -58161,12 +57887,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šaddi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kasvava kuu, yläkuu</re>
-      <t>šaddi mánnu</t>
+      <xg>
+        <x>kasvava kuu, yläkuu</x>
+        <xt>šaddi mánnu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -58860,12 +58584,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nohkavašvuohta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>elämän katoavaisuus</re>
-      <t>eallima nohkavašvuohta</t>
+      <xg>
+        <x>elämän katoavaisuus</x>
+        <xt>eallima nohkavašvuohta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59076,12 +58798,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(abstr.) gokčevaš, gokči, vuđolaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kattava selvittelytyö</re>
-      <t>gokčevas čielggadanbargu</t>
+      <xg>
+        <x>kattava selvittelytyö</x>
+        <xt>gokčevas čielggadanbargu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59361,12 +59081,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guvssi dievva</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joi kauhallisen vettä</re>
-      <t>jugai guvssi dievva čázi</t>
+      <xg>
+        <x>joi kauhallisen vettä</x>
+        <xt>jugai guvssi dievva čázi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59377,12 +59095,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gáfat, issoras</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kauhean iso</re>
-      <t>gáfat stuoris</t>
+      <xg>
+        <x>kauhean iso</x>
+        <xt>gáfat stuoris</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59598,12 +59314,10 @@
     <tg xml:lang="fin">
       <t>teleskohppa</t>
       <t>teleskohpa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaukoputkella katsellä tähtiä</re>
-      <t>teleskohpain geahčadit násttiid</t>
+      <xg>
+        <x>kaukoputkella katsellä tähtiä</x>
+        <xt>teleskohpain geahčadit násttiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59781,12 +59495,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vašši</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kantaa kaunaa</re>
-      <t>vaši guoddit</t>
+      <xg>
+        <x>kantaa kaunaa</x>
+        <xt>vaši guoddit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59954,12 +59666,10 @@
     <tg xml:lang="fin">
       <re>tehdä kauppaa</re>
       <t>hánddaldit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaupan päällisiksi</re>
-      <t>gávppi ala</t>
+      <xg>
+        <x>kaupan päällisiksi</x>
+        <xt>gávppi ala</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -59970,12 +59680,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(kauppaliike) gávpi, buvda, hánddal, rámbuvri, krambuvda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää kauppaliikettä</re>
-      <t>doallat ~ jorahit gávppi</t>
+      <xg>
+        <x>pitää kauppaliikettä</x>
+        <xt>doallat ~ jorahit gávppi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -60705,12 +60413,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šaddat, bohciidit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kehkeytyi pitkä keskustelu</re>
-      <t>šattai guhkes ságastallan</t>
+      <xg>
+        <x>kehkeytyi pitkä keskustelu</x>
+        <xt>šattai guhkes ságastallan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -60853,12 +60559,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>rápmi, máidnu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oma kehu haisee</re>
-      <t>iežas rápmi hakso</t>
+      <xg>
+        <x>oma kehu haisee</x>
+        <xt>iežas rápmi hakso</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -62547,12 +62251,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>várra, kánske, ammal, giidiehtá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kenties tulee</re>
-      <t>soaitá ~ sáhttá ~ dáidá boahtit</t>
+      <xg>
+        <x>kenties tulee</x>
+        <xt>soaitá ~ sáhttá ~ dáidá boahtit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -62901,12 +62603,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(saman tien, oitis) ovttatmano</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tekaisi sen kerralla valmiiksi</re>
-      <t>gergestii dan ovttatmano</t>
+      <xg>
+        <x>tekaisi sen kerralla valmiiksi</x>
+        <xt>gergestii dan ovttatmano</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -63516,30 +63216,22 @@
   <mg>
     <tg xml:lang="fin">
       <t>gaskan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kesken työn</re>
-      <t>gaskan barggu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kesken syönnin</re>
-      <t>gaskan bora</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>työ jäi kesken</re>
-      <t>bargu bázii gaskan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kahden kesken</re>
-      <t>guovttá gaskan</t>
+      <xg>
+        <x>kesken työn</x>
+        <xt>gaskan barggu</xt>
+      </xg>
+      <xg>
+        <x>kesken syönnin</x>
+        <xt>gaskan bora</xt>
+      </xg>
+      <xg>
+        <x>työ jäi kesken</x>
+        <xt>bargu bázii gaskan</xt>
+      </xg>
+      <xg>
+        <x>kahden kesken</x>
+        <xt>guovttá gaskan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -64398,12 +64090,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gierdannávccat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>luonnon kestokyky</re>
-      <t>luonddu gierdannávccat</t>
+      <xg>
+        <x>luonnon kestokyky</x>
+        <xt>luonddu gierdannávccat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -64444,12 +64134,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(esineestä) gierdil, bistevaš, nanus ~ nanus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kestävä kehitys</re>
-      <t>bistevaš ~ gierdilis ~ suvdilis ovdáneapmi</t>
+      <xg>
+        <x>kestävä kehitys</x>
+        <xt>bistevaš ~ gierdilis ~ suvdilis ovdáneapmi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -64602,18 +64290,14 @@
     <tg xml:lang="fin">
       <re>tulla kesä</re>
       <t>geassut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tänä kesänä</re>
-      <t>dán gease ~ dán geasi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ensi kesänä</re>
-      <t>boahtte gease ~ boahtte geasi</t>
+      <xg>
+        <x>tänä kesänä</x>
+        <xt>dán gease ~ dán geasi</xt>
+      </xg>
+      <xg>
+        <x>ensi kesänä</x>
+        <xt>boahtte gease ~ boahtte geasi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -64712,12 +64396,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>geassebadji, geassebodda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli poissa kesäkauden</re>
-      <t>jávkkai geassebotta</t>
+      <xg>
+        <x>oli poissa kesäkauden</x>
+        <xt>jávkkai geassebotta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -65464,12 +65146,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giđđa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tänä keväänä</re>
-      <t>dán giđa</t>
+      <xg>
+        <x>tänä keväänä</x>
+        <xt>dán giđa</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -66002,12 +65682,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giella</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>millä kielellä</re>
-      <t>man gillii, mainna gielain</t>
+      <xg>
+        <x>millä kielellä</x>
+        <xt>man gillii, mainna gielain</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -66674,12 +66352,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(opettajasta tms.) johtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiertävä sairaanhoitaja</re>
-      <t>johtti buohccedivššár</t>
+      <xg>
+        <x>kiertävä sairaanhoitaja</x>
+        <xt>johtti buohccedivššár</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -66690,12 +66366,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jonkin ympäri) johtit birra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiersi Afrikan</re>
-      <t>jođii Afrihká birra</t>
+      <xg>
+        <x>kiersi Afrikan</x>
+        <xt>jođii Afrihká birra</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -67778,12 +67452,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hoahppu, doapma, gáhčču</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiireen vilkkaa</re>
-      <t>doama doama, hoahpohoahpus</t>
+      <xg>
+        <x>kiireen vilkkaa</x>
+        <xt>doama doama, hoahpohoahpus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -67944,12 +67616,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šiitemeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiistaton tosiasia</re>
-      <t>šiitemeahttun duohtaášši</t>
+      <xg>
+        <x>kiistaton tosiasia</x>
+        <xt>šiitemeahttun duohtaášši</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -67980,12 +67650,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šiitemeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiistämätön tosiasia</re>
-      <t>šiitemeahttun duohtaášši</t>
+      <xg>
+        <x>kiistämätön tosiasia</x>
+        <xt>šiitemeahttun duohtaášši</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -68023,12 +67691,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giittehahtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiitettävät arvosanat</re>
-      <t>giittehahtti árvosánit</t>
+      <xg>
+        <x>kiitettävät arvosanat</x>
+        <xt>giittehahtti árvosánit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -68069,12 +67735,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giittus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>paljon kiitoksia</re>
-      <t>giittos eatnat, ollu giitu</t>
+      <xg>
+        <x>paljon kiitoksia</x>
+        <xt>giittos eatnat, ollu giitu</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -68121,12 +67785,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giitámuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei ole kiittämistä</re>
-      <t>ii leat giitámuš</t>
+      <xg>
+        <x>ei ole kiittämistä</x>
+        <xt>ii leat giitámuš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -68147,12 +67809,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>giitemeahttun, giittoheapme, gutneheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiittämätön lurjus</re>
-      <t>gutnehis gukčá</t>
+      <xg>
+        <x>kiittämätön lurjus</x>
+        <xt>gutnehis gukčá</xt>
+      </xg>
       <xg>
         <x>tuo kiittämätön lurjus ei virkannut sanaakaan, vain otti ja lähti</x>
         <xt>diet gutnehis gukčá ii jienádan ii sánige, eambbo válddii ja vulggii</xt>
@@ -68671,12 +68331,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gilvalahttit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kilpailuttaa tarjouksia</re>
-      <t>gilvalahttit fálaldagaid</t>
+      <xg>
+        <x>kilpailuttaa tarjouksia</x>
+        <xt>gilvalahttit fálaldagaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -68985,12 +68643,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>-ge, -nai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänkin oli siellä</re>
-      <t>songe lei doppe, sonnai lei doppe, son maid lei doppe</t>
+      <xg>
+        <x>hänkin oli siellä</x>
+        <xt>songe lei doppe, sonnai lei doppe, son maid lei doppe</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -69369,12 +69025,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(pakkasesta) ruosti (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kireä pakkanen</re>
-      <t>ruosti buolaš</t>
+      <xg>
+        <x>kireä pakkanen</x>
+        <xt>ruosti buolaš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -69411,12 +69065,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čavgut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiristeli niitä pultteja</re>
-      <t>čavggui daid boalttuid</t>
+      <xg>
+        <x>kiristeli niitä pultteja</x>
+        <xt>čavggui daid boalttuid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -69910,12 +69562,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čálekeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kirjoittamattomat lait</re>
-      <t>čálekeahtes lágat</t>
+      <xg>
+        <x>kirjoittamattomat lait</x>
+        <xt>čálekeahtes lágat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -69976,12 +69626,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čállinmáhtuheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kirjoitustaidoton henkilö</re>
-      <t>čállinmáhtuhis olmmoš</t>
+      <xg>
+        <x>kirjoitustaidoton henkilö</x>
+        <xt>čállinmáhtuhis olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -70162,18 +69810,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(äänestä, järjestä tms.) šearus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lasten kirkkaat äänet</re>
-      <t>mánáid šearusis jienat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kirkas ajatuksenkulku</re>
-      <t>šearusis jurddajohtin</t>
+      <xg>
+        <x>lasten kirkkaat äänet</x>
+        <xt>mánáid šearusis jienat</xt>
+      </xg>
+      <xg>
+        <x>kirkas ajatuksenkulku</x>
+        <xt>šearusis jurddajohtin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -71171,12 +70815,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adj.) hánis, coazzi, gáhcci, divas, giddat, cuhcálas, geazzi, gahci, sniiggár, snoakkis, visu, knáhpis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian kitsaana</re>
-      <t>hánášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian kitsaana</x>
+        <xt>hánášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -73229,18 +72871,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>stuoru, sturrosaš (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>auton kokoinen kivenjärkäle</re>
-      <t>biilla sturrosaš bákti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nämä ovat samankokoisia</re>
-      <t>dát leat ovtta stuoru</t>
+      <xg>
+        <x>auton kokoinen kivenjärkäle</x>
+        <xt>biilla sturrosaš bákti</xt>
+      </xg>
+      <xg>
+        <x>nämä ovat samankokoisia</x>
+        <xt>dát leat ovtta stuoru</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -73783,12 +73421,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>goalmmát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kolmanneksi paras</re>
-      <t>goalmmádin buoremus</t>
+      <xg>
+        <x>kolmanneksi paras</x>
+        <xt>goalmmádin buoremus</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -73805,12 +73441,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>goalmmátlohkái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kolmattakymmentä vuotta käyvä henkilö</re>
-      <t>goalmmátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>kolmattakymmentä vuotta käyvä henkilö</x>
+        <xt>goalmmátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -74891,12 +74525,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>goasge</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kuten kuningas konsanaan</re>
-      <t>dego gonagas goasge</t>
+      <xg>
+        <x>kuten kuningas konsanaan</x>
+        <xt>dego gonagas goasge</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -75451,12 +75083,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(pallon kiinniotto ilmasta) liiru</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ottaa koppi</re>
-      <t>váldit liirru</t>
+      <xg>
+        <x>ottaa koppi</x>
+        <xt>váldit liirru</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -75910,12 +75540,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>divvun, divuhus, divodus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viedä korjaukseen</re>
-      <t>divuhussii doalvut</t>
+      <xg>
+        <x>viedä korjaukseen</x>
+        <xt>divuhussii doalvut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -76920,12 +76548,10 @@
     <tg xml:lang="fin">
       <re>ruveta soimaan korvista</re>
       <t>šordot, šordašuvvat, šordohallat</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>hänen korvansa rupesivat soimaan</re>
-      <t>son šordašuvai</t>
+      <xg>
+        <x>hänen korvansa rupesivat soimaan</x>
+        <xt>son šordašuvai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -78753,12 +78379,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakuta) garastallat (soapmásiin)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kovisteli lastaan</re>
-      <t>garastalai mánáinis</t>
+      <xg>
+        <x>kovisteli lastaan</x>
+        <xt>garastalai mánáinis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -79665,12 +79289,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(luonnonolosuhteena) goikkádat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitkällinen kuivuus</re>
-      <t>guhkálaš goikkádat</t>
+      <xg>
+        <x>pitkällinen kuivuus</x>
+        <xt>guhkálaš goikkádat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -80849,12 +80471,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>geažes</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viiden vuoden kuluttua</re>
-      <t>viđa jagi geažes</t>
+      <xg>
+        <x>viiden vuoden kuluttua</x>
+        <xt>viđa jagi geažes</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -81753,12 +81373,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gudni</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>antaa (jonkun) kuulla kunniansa</re>
-      <t>dieđihit (soapmásii)</t>
+      <xg>
+        <x>antaa (jonkun) kuulla kunniansa</x>
+        <xt>dieđihit (soapmásii)</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -82399,12 +82017,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jápmemeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kuolematon sielu</re>
-      <t>jápmemeahttun siellu</t>
+      <xg>
+        <x>kuolematon sielu</x>
+        <xt>jápmemeahttun siellu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -83432,24 +83048,20 @@
   <mg>
     <tg xml:lang="fin">
       <t>čotta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kurkun täydeltä, kurkku suorana</re>
-      <t>čoddat vehkui</t>
+      <xg>
+        <x>kurkun täydeltä, kurkku suorana</x>
+        <xt>čoddat vehkui</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>kurkusta alas</re>
       <t>čottaráigge</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mennä (ruoasta) väärään kurkkuun</re>
-      <t>mannat boasttočoddagii</t>
+      <xg>
+        <x>mennä (ruoasta) väärään kurkkuun</x>
+        <xt>mannat boasttočoddagii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -84375,12 +83987,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guđátlohkái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kuudettakymmentä käyvä henkilö</re>
-      <t>guđátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>kuudettakymmentä käyvä henkilö</x>
+        <xt>guđátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -84597,18 +84207,14 @@
     <tg xml:lang="fin">
       <re>alkaa kuulla</re>
       <t>gullát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaikkien kuullen</re>
-      <t>buohkaid gullut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei ollut kuulevinaan</re>
-      <t>ii dahkan gullin</t>
+      <xg>
+        <x>kaikkien kuullen</x>
+        <xt>buohkaid gullut</xt>
+      </xg>
+      <xg>
+        <x>ei ollut kuulevinaan</x>
+        <xt>ii dahkan gullin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -84657,12 +84263,10 @@
     <tg xml:lang="fin">
       <re>kuuloetäisyydelle</re>
       <t>gulámuddui;</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>he olivat kuuloetäisyydellä toisistaan</re>
-      <t>soai leigga gullolagaid</t>
+      <xg>
+        <x>he olivat kuuloetäisyydellä toisistaan</x>
+        <xt>soai leigga gullolagaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -86110,12 +85714,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakuta) lávgut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kylvetti lastaan</re>
-      <t>lávggui mánás</t>
+      <xg>
+        <x>kylvetti lastaan</x>
+        <xt>lávggui mánás</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -86126,12 +85728,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gilvit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kylvää valheita</re>
-      <t>giellásiiguin johtit, giellásiid gilvit</t>
+      <xg>
+        <x>kylvää valheita</x>
+        <xt>giellásiiguin johtit, giellásiid gilvit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -86162,18 +85762,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>gilli, siida</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun luo kylään</re>
-      <t>soapmása guossái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun luona kylässä</re>
-      <t>soapmása guossis</t>
+      <xg>
+        <x>jonkun luo kylään</x>
+        <xt>soapmása guossái</xt>
+      </xg>
+      <xg>
+        <x>jonkun luona kylässä</x>
+        <xt>soapmása guossis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -86393,18 +85989,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>gazza</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kynsin hampain</re>
-      <t>gaccaid bániid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua rajuilman kynsiin</re>
-      <t>fáhtehallat garradálkái</t>
+      <xg>
+        <x>kynsin hampain</x>
+        <xt>gaccaid bániid</xt>
+      </xg>
+      <xg>
+        <x>joutua rajuilman kynsiin</x>
+        <xt>fáhtehallat garradálkái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -87177,18 +86769,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>fárru, sáhttu, gikta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun kyydissä</re>
-      <t>soapmása fárus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun kyytiin</re>
-      <t>soapmása fárrui</t>
+      <xg>
+        <x>jonkun kyydissä</x>
+        <xt>soapmása fárus</xt>
+      </xg>
+      <xg>
+        <x>jonkun kyytiin</x>
+        <xt>soapmása fárrui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -87275,12 +86863,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(meinata aikovansa) geahkat, geagadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sanoi aikovansa sinne lähteä</re>
-      <t>geagai dohko vuolgit</t>
+      <xg>
+        <x>sanoi aikovansa sinne lähteä</x>
+        <xt>geagai dohko vuolgit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -88329,12 +87915,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(rel.) báhkkon</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Jumalan kymmenen käskyä</re>
-      <t>Ipmila logi báhkkoma</t>
+      <xg>
+        <x>Jumalan kymmenen käskyä</x>
+        <xt>Ipmila logi báhkkoma</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -88360,12 +87944,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>reaidaruhta, kontánta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>maksaa käteisellä</re>
-      <t>máksit reaida</t>
+      <xg>
+        <x>maksaa käteisellä</x>
+        <xt>máksit reaida</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -88522,12 +88104,10 @@
     <tg xml:lang="fin">
       <re>lähteä kävelemään</re>
       <t>vázzilit, vázzát</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>käydä jossakin kävellen</re>
-      <t>váccašit gos nu</t>
+      <xg>
+        <x>käydä jossakin kävellen</x>
+        <xt>váccašit gos nu</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -89194,18 +88774,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(geogr.) jorggihangierdu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Pohjoinen eli Kravun kääntöpiiri</re>
-      <t>Davvi jorggihangierdu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Eteläinen eli Kauriin kääntöpiiri</re>
-      <t>Lulli jorggihangierdu</t>
+      <xg>
+        <x>Pohjoinen eli Kravun kääntöpiiri</x>
+        <xt>Davvi jorggihangierdu</xt>
+      </xg>
+      <xg>
+        <x>Eteläinen eli Kauriin kääntöpiiri</x>
+        <xt>Lulli jorggihangierdu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -89535,12 +89111,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>geaffi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian köyhänä</re>
-      <t>geafášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian köyhänä</x>
+        <xt>geafášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -90137,12 +89711,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>skeaŋka, attáldat, láhji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Jumalan lahja (yleensä ruoka)</re>
-      <t>Ipmil(a) láhji</t>
+      <xg>
+        <x>Jumalan lahja (yleensä ruoka)</x>
+        <xt>Ipmil(a) láhji</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -90412,12 +89984,10 @@
     <tg xml:lang="fin">
       <re>olla jossakin laihana</re>
       <t>ruoidnát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian laihana</re>
-      <t>ruoinnašit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian laihana</x>
+        <xt>ruoinnašit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -90566,12 +90136,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(tavalla) lahkai, lágiin, ládje</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sillä lailla</re>
-      <t>dan lahkai, dainna lágiin, dan ládje</t>
+      <xg>
+        <x>sillä lailla</x>
+        <xt>dan lahkai, dainna lágiin, dan ládje</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -91291,12 +90859,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lágaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>laiton teko</re>
-      <t>lágahis dahku</t>
+      <xg>
+        <x>laiton teko</x>
+        <xt>lágahis dahku</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -96834,12 +96400,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>rábmái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>on sellainen leventelevä kaveri</re>
-      <t>lea dakkáraš rábmásdiŋga</t>
+      <xg>
+        <x>on sellainen leventelevä kaveri</x>
+        <xt>lea dakkáraš rábmásdiŋga</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -97956,12 +97520,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lihkastat, lihkasteapmi, lihkadus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla liikkeellä</re>
-      <t>leat jođus</t>
+      <xg>
+        <x>olla liikkeellä</x>
+        <xt>leat jođus</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -98194,12 +97756,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lihkadeaddji, johtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiertävä näyttely</re>
-      <t>johtti čájáhus</t>
+      <xg>
+        <x>kiertävä näyttely</x>
+        <xt>johtti čájáhus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -98418,12 +97978,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čuovus. mielddus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hakemuksen liitteenä</re>
-      <t>ohcamuša čuovusin</t>
+      <xg>
+        <x>hakemuksen liitteenä</x>
+        <xt>ohcamuša čuovusin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -98544,12 +98102,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lihtodit, lihtodaddat, searvvadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>liittoutua jonkun seuraan</re>
-      <t>skihppodit soapmásiin, skihppot soapmásiin</t>
+      <xg>
+        <x>liittoutua jonkun seuraan</x>
+        <xt>skihppodit soapmásiin, skihppot soapmásiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -98895,12 +98451,10 @@
     <tg xml:lang="fin">
       <re>kastella nahkavaate likomäräksi</re>
       <t>šnjalčadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>liikkua läpimärissä nahkavaatteissa</re>
-      <t>šnjalččahit; (likomärkä myös: šnjalžžas, šnjarvvas, šnjirvvas)</t>
+      <xg>
+        <x>liikkua läpimärissä nahkavaatteissa</x>
+        <xt>šnjalččahit; (likomärkä myös: šnjalžžas, šnjarvvas, šnjirvvas)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -99740,12 +99294,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) šnjorrosii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vuotaa liristen</re>
-      <t>šnjorrosii golgat</t>
+      <xg>
+        <x>vuotaa liristen</x>
+        <xt>šnjorrosii golgat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -101446,12 +100998,10 @@
     <tg xml:lang="fin">
       <re>loppumaisillaan</re>
       <t>noga noga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häneltä pääsi rahat loppumaan</re>
-      <t>son nohkkui ruđain</t>
+      <xg>
+        <x>häneltä pääsi rahat loppumaan</x>
+        <xt>son nohkkui ruđain</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -101620,12 +101170,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nohkki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kohta loppuva perintöni</re>
-      <t>mu fargga nohkki árbi</t>
+      <xg>
+        <x>kohta loppuva perintöni</x>
+        <xt>mu fargga nohkki árbi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -102055,18 +101603,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>logahussii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>antoi kirjan luettavaksi</re>
-      <t>attii girjji logahussii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sai kirjan luetuksi</re>
-      <t>oaččui girjji logahussii</t>
+      <xg>
+        <x>antoi kirjan luettavaksi</x>
+        <xt>attii girjji logahussii</xt>
+      </xg>
+      <xg>
+        <x>sai kirjan luetuksi</x>
+        <xt>oaččui girjji logahussii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -102467,12 +102011,10 @@
     <tg xml:lang="fin">
       <re>(jota ei voi lukea, esim. kirjasta)</re>
       <t>lohkameahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lukemattoman monta</re>
-      <t>lohkameahttun máŋga</t>
+      <xg>
+        <x>lukemattoman monta</x>
+        <xt>lohkameahttun máŋga</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -103068,12 +102610,10 @@
     <tg xml:lang="fin">
       <re>tulla lumisokeaksi</re>
       <t>suddot</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tulin lumisokeaksi</re>
-      <t>mus suddojedje čalmmit</t>
+      <xg>
+        <x>tulin lumisokeaksi</x>
+        <xt>mus suddojedje čalmmit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -103395,12 +102935,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>-luohkkálaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viidesluokkalaiset lähtivät luokkaretkelle</re>
-      <t>viđátluohkkálaččat vulge luohkkámátkái</t>
+      <xg>
+        <x>viidesluokkalaiset lähtivät luokkaretkelle</x>
+        <xt>viđátluohkkálaččat vulge luohkkámátkái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -103501,12 +103039,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sivdnideapmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>maailman luominen</re>
-      <t>máilmmi sivdnideapmi</t>
+      <xg>
+        <x>maailman luominen</x>
+        <xt>máilmmi sivdnideapmi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -104737,12 +104273,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lobiheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>luvaton pyynti</re>
-      <t>lobihis bivdu</t>
+      <xg>
+        <x>luvaton pyynti</x>
+        <xt>lobihis bivdu</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -104905,12 +104439,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oanehisoajatbáidi, soadjelahbáidi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hihaton paita,</re>
-      <t>soajehis ~ soajahis báidi</t>
+      <xg>
+        <x>hihaton paita,</x>
+        <xt>soajehis ~ soajahis báidi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -105229,12 +104761,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hearvái, hervii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lystikäs kaveri</re>
-      <t>hearvás ~ herves verdde</t>
+      <xg>
+        <x>lystikäs kaveri</x>
+        <xt>hearvás ~ herves verdde</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -105557,12 +105087,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>lagabui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lähes sata</re>
-      <t>lagabui čuođi</t>
+      <xg>
+        <x>lähes sata</x>
+        <xt>lagabui čuođi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -106243,12 +105771,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakuta) ráŋgut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun läksyttämäksi</re>
-      <t>ráŋggohallat soapmásii</t>
+      <xg>
+        <x>joutua jonkun läksyttämäksi</x>
+        <xt>ráŋggohallat soapmásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -106658,12 +106184,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oarjjádat, oarjebiegga, viesttarbiegga, viesttar</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuuli lännestä</re>
-      <t>biekkai oarjjil ~ viestaris ~ veasttal</t>
+      <xg>
+        <x>tuuli lännestä</x>
+        <xt>biekkai oarjjil ~ viestaris ~ veasttal</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -108233,12 +107757,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>riikkaguoibmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tapasi siellä maanmiehiään</re>
-      <t>deaivvai doppe riikkaguimmiidis</t>
+      <xg>
+        <x>tapasi siellä maanmiehiään</x>
+        <xt>deaivvai doppe riikkaguimmiidis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -110001,12 +109523,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mávssihit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>maksatti muille velkojaan</re>
-      <t>mávssihii earáide velggiidis</t>
+      <xg>
+        <x>maksatti muille velkojaan</x>
+        <xt>mávssihii earáide velggiidis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -110269,12 +109789,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sadji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sijata vuode</re>
-      <t>saji láhčit</t>
+      <xg>
+        <x>sijata vuode</x>
+        <xt>saji láhčit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -110437,12 +109955,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(poliittisesti) moderáhtta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>maltillinen oikeisto</re>
-      <t>mášolaš olgeš bealli</t>
+      <xg>
+        <x>maltillinen oikeisto</x>
+        <xt>mášolaš olgeš bealli</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -110533,12 +110049,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jábmiidáibmu, gollevárri</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>manan majoille</re>
-      <t>gollevári duohkai</t>
+      <xg>
+        <x>manan majoille</x>
+        <xt>gollevári duohkai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -112044,12 +111558,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(koko lailla) opparat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>melkoisen, koko lailla kaukana</re>
-      <t>opparat guhkkin</t>
+      <xg>
+        <x>melkoisen, koko lailla kaukana</x>
+        <xt>opparat guhkkin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -114396,12 +113908,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mielaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mielettömän kallis</re>
-      <t>mielahis divrras</t>
+      <xg>
+        <x>mielettömän kallis</x>
+        <xt>mielahis divrras</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -114412,36 +113922,28 @@
   <mg>
     <tg xml:lang="fin">
       <t>miella</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minun mieleeni</re>
-      <t>mu miela mielde</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>mieltäni vasten</re>
-      <t>mu miela vuostá</t>
+      <xg>
+        <x>minun mieleeni</x>
+        <xt>mu miela mielde</xt>
+      </xg>
+      <xg>
+        <x>mieltäni vasten</x>
+        <xt>mu miela vuostá</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>lähtömielessä</re>
       <t>vuolginnammii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>juolahti mieleeni</re>
-      <t>gavihii mu oaivái</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>, minun tekee mieli</re>
-      <t>mus lea miella</t>
+      <xg>
+        <x>juolahti mieleeni</x>
+        <xt>gavihii mu oaivái</xt>
+      </xg>
+      <xg>
+        <x>, minun tekee mieli</x>
+        <xt>mus lea miella</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -114470,18 +113972,14 @@
     <tg xml:lang="fin">
       <re>palauttaa mieleensä</re>
       <t>muitát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>muistua mieleen</re>
-      <t>govddiidit millii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää mielessä</re>
-      <t>atnit mielas</t>
+      <xg>
+        <x>muistua mieleen</x>
+        <xt>govddiidit millii</xt>
+      </xg>
+      <xg>
+        <x>pitää mielessä</x>
+        <xt>atnit mielas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -114836,12 +114334,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>smiehttamuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>on paljon mietittävää</re>
-      <t>lea ollu smiehttamuš</t>
+      <xg>
+        <x>on paljon mietittävää</x>
+        <xt>lea ollu smiehttamuš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -115051,12 +114547,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mikroskohpalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mikroskooppisen pienet punasolut</re>
-      <t>binnabánna ruksesseallat</t>
+      <xg>
+        <x>mikroskooppisen pienet punasolut</x>
+        <xt>binnabánna ruksesseallat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -115342,12 +114836,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gosa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minne hyvänsä</re>
-      <t>gosa beare ~ fal ~ ihkinassii</t>
+      <xg>
+        <x>minne hyvänsä</x>
+        <xt>gosa beare ~ fal ~ ihkinassii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -115358,12 +114850,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gosage</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei lähtenyt minnekään</re>
-      <t>ii vuolgán gosage</t>
+      <xg>
+        <x>ei lähtenyt minnekään</x>
+        <xt>ii vuolgán gosage</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -115525,12 +115015,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mihttu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ajan mittaan</re>
-      <t>áiggi mielde, guhki vuollai</t>
+      <xg>
+        <x>ajan mittaan</x>
+        <xt>áiggi mielde, guhki vuollai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -115884,12 +115372,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>moaitámuš, láitámuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei ole moittimista</re>
-      <t>ii leat moaitámuš ~ láitámuš</t>
+      <xg>
+        <x>ei ole moittimista</x>
+        <xt>ii leat moaitámuš ~ láitámuš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -116016,12 +115502,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>máŋgii, máŋgga háve, máŋgga geardde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vaikka kuinka monesti</re>
-      <t>vaikko man gallii</t>
+      <xg>
+        <x>vaikka kuinka monesti</x>
+        <xt>vaikko man gallii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -116116,12 +115600,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>máŋggalahtot</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>monijäseninen toimikunta</re>
-      <t>máŋggalahtot doaibmagoddi</t>
+      <xg>
+        <x>monijäseninen toimikunta</x>
+        <xt>máŋggalahtot doaibmagoddi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -116276,12 +115758,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(monisatapäinen) máŋggačuođat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>monisatapäinen ihmisjoukko</re>
-      <t>máŋggačuođat olmmošjoavku</t>
+      <xg>
+        <x>monisatapäinen ihmisjoukko</x>
+        <xt>máŋggačuođat olmmošjoavku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -116292,12 +115772,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>máŋggačilggot</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>moniselitteinen tulkinta asiasta</re>
-      <t>máŋggačilggot dulkojupmi áššis</t>
+      <xg>
+        <x>moniselitteinen tulkinta asiasta</x>
+        <xt>máŋggačilggot dulkojupmi áššis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -116917,12 +116395,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dološ (attr.), áigasaš (attr.) ~ áigahaš (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nuo muinaiset tapahtumat</re>
-      <t>diet dološ dáhpáhusat</t>
+      <xg>
+        <x>nuo muinaiset tapahtumat</x>
+        <xt>diet dološ dáhpáhusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -117299,12 +116775,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>fárrui, mielde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>otti minut mukaansa</re>
-      <t>válddii mu fárrosis</t>
+      <xg>
+        <x>otti minut mukaansa</x>
+        <xt>válddii mu fárrosis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -117315,12 +116789,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mielde, fárus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuoda mukanaan</re>
-      <t>buktit mielddis</t>
+      <xg>
+        <x>tuoda mukanaan</x>
+        <xt>buktit mielddis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -117806,12 +117278,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ođđaáigásaš, dálá bivnnuhis vuogi mielde dahkkojuvvon</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>muodikkaasti pukeutunut</re>
-      <t>dálá bivnnuhis bivttasvuogi mielde gárvodan</t>
+      <xg>
+        <x>muodikkaasti pukeutunut</x>
+        <xt>dálá bivnnuhis bivttasvuogi mielde gárvodan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -118019,12 +117489,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hápmi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>muodon vuoksi</re>
-      <t>hámi dihte</t>
+      <xg>
+        <x>muodon vuoksi</x>
+        <xt>hámi dihte</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -118712,12 +118180,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adj.) čáhppat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli mustanaan väkeä</re>
-      <t>ledje čáhppadin olbmot</t>
+      <xg>
+        <x>oli mustanaan väkeä</x>
+        <xt>ledje čáhppadin olbmot</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -120437,12 +119903,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>maŋŋit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>myöhään illalla</re>
-      <t>maŋŋit eahkedis, maŋŋiteahket</t>
+      <xg>
+        <x>myöhään illalla</x>
+        <xt>maŋŋit eahkedis, maŋŋiteahket</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -121622,12 +121086,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ránnjážat ~ kránnjážat, ránnážat ~ ránnežat, siidaguimmežat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olemme naapuruksia</re>
-      <t>letne ránnjážat</t>
+      <xg>
+        <x>olemme naapuruksia</x>
+        <xt>letne ránnjážat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -121895,12 +121357,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>náitosii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mennä naimisiin (jonkun kanssa)</re>
-      <t>náitalit (soapmásiin)</t>
+      <xg>
+        <x>mennä naimisiin (jonkun kanssa)</x>
+        <xt>náitalit (soapmásiin)</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -122215,18 +121675,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(geogr.) poláragierdu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Pohjoinen napapiiri</re>
-      <t>Davvi poláragierdu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Eteläinen napapiiri</re>
-      <t>Lulli poláragierdu</t>
+      <xg>
+        <x>Pohjoinen napapiiri</x>
+        <xt>Davvi poláragierdu</xt>
+      </xg>
+      <xg>
+        <x>Eteläinen napapiiri</x>
+        <xt>Lulli poláragierdu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -122287,12 +121743,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>boaloheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>napiton paita</re>
-      <t>boalohis báidi</t>
+      <xg>
+        <x>napiton paita</x>
+        <xt>boalohis báidi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -122323,12 +121777,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>boallu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ommella nappi</re>
-      <t>boalu njađđit</t>
+      <xg>
+        <x>ommella nappi</x>
+        <xt>boalu njađđit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -123472,12 +122924,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>njealjátlohkái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>neljättäkymmentä vuotta käyvä henkilö</re>
-      <t>njealjátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>neljättäkymmentä vuotta käyvä henkilö</x>
+        <xt>njealjátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -125080,12 +124530,10 @@
     <tg xml:lang="fin">
       <re>nimittää virkaan</re>
       <t>nammadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nimittää joksikin</re>
-      <t>navdit juonin</t>
+      <xg>
+        <x>nimittää joksikin</x>
+        <xt>navdit juonin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -125366,12 +124814,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guorbbas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>niukkaravinteinen kasvupaikka</re>
-      <t>guorba šaddansadji</t>
+      <xg>
+        <x>niukkaravinteinen kasvupaikka</x>
+        <xt>guorba šaddansadji</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -126794,12 +126240,10 @@
     <tg xml:lang="fin">
       <t>nuorvvu</t>
       <t>nuorvu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänellä oli nuha</re>
-      <t>sus lei nuorvvu ~ nuorvu, son lei nurvos ~ nuorvvus</t>
+      <xg>
+        <x>hänellä oli nuha</x>
+        <xt>sus lei nuorvvu ~ nuorvu, son lei nurvos ~ nuorvvus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -127376,12 +126820,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nuorra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian nuorena</re>
-      <t>nuorašit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian nuorena</x>
+        <xt>nuorašit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -128437,30 +127879,24 @@
   <mg>
     <tg xml:lang="fin">
       <t>ektui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>siihen nähden</re>
-      <t>dan ektui</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>minuun nähden (verrattuna)</re>
-      <t>mu ektui;</t>
+      <xg>
+        <x>siihen nähden</x>
+        <xt>dan ektui</xt>
+      </xg>
+      <xg>
+        <x>minuun nähden (verrattuna)</x>
+        <xt>mu ektui;</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>(jonkun) nähden</re>
       <t>(soapmása) oaidnut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minun nähteni</re>
-      <t>mu oaidnut, oainnedettiin</t>
+      <xg>
+        <x>minun nähteni</x>
+        <xt>mu oaidnut, oainnedettiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -128632,12 +128068,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oainnus, oidnolat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>näillä näkymin</re>
-      <t>dálá dilis, dálá dieđuid mielde</t>
+      <xg>
+        <x>näillä näkymin</x>
+        <xt>dálá dilis, dálá dieđuid mielde</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -128754,12 +128188,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>hápmásaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun näköinen</re>
-      <t>soapmása hápmái ~ vuohkái ~ muhtui</t>
+      <xg>
+        <x>jonkun näköinen</x>
+        <xt>soapmása hápmái ~ vuohkái ~ muhtui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -128820,12 +128252,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nealggis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli nälissään</re>
-      <t>lei nelgon, lei nealggis</t>
+      <xg>
+        <x>oli nälissään</x>
+        <xt>lei nelgon, lei nealggis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -128856,18 +128286,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>nealgi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla nälässä</re>
-      <t>leat nealggis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minulla on nälkä</re>
-      <t>mus lea nealgi</t>
+      <xg>
+        <x>olla nälässä</x>
+        <xt>leat nealggis</xt>
+      </xg>
+      <xg>
+        <x>minulla on nälkä</x>
+        <xt>mus lea nealgi</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -128914,12 +128340,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nälkävuosi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitkä kuin nälkävuosi</re>
-      <t>guhkki dego nealgejahki</t>
+      <xg>
+        <x>pitkä kuin nälkävuosi</x>
+        <xt>guhkki dego nealgejahki</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -129358,12 +128782,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>roahppánit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nääntyä nälkään</re>
-      <t>jápmit nealgái</t>
+      <xg>
+        <x>nääntyä nälkään</x>
+        <xt>jápmit nealgái</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -130204,24 +129626,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>olgeš gieđa bealli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oikealla puolella</re>
-      <t>olgeš gieđa bealde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oikealle puolelle</re>
-      <t>olgeš gieđa beallai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oikeaa puolta</re>
-      <t>olgeš gieđa beale</t>
+      <xg>
+        <x>oikealla puolella</x>
+        <xt>olgeš gieđa bealde</xt>
+      </xg>
+      <xg>
+        <x>oikealle puolelle</x>
+        <xt>olgeš gieđa beallai</xt>
+      </xg>
+      <xg>
+        <x>oikeaa puolta</x>
+        <xt>olgeš gieđa beale</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -130302,12 +129718,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>olgešbeallásaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oikeanpuoleinen liikenne</re>
-      <t>olgešbeallásaš johtalus</t>
+      <xg>
+        <x>oikeanpuoleinen liikenne</x>
+        <xt>olgešbeallásaš johtalus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -130389,12 +129803,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>riekta, rievttuid, vuoiga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oikein hyvä</re>
-      <t>oalle buorre, riekta buorre</t>
+      <xg>
+        <x>oikein hyvä</x>
+        <xt>oalle buorre, riekta buorre</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -130915,12 +130327,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuhttokeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>on oireeton</re>
-      <t>ii vuhtto</t>
+      <xg>
+        <x>on oireeton</x>
+        <xt>ii vuhtto</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -131178,12 +130588,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakin) vuoksit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oksentaa verta</re>
-      <t>vuoksi vara</t>
+      <xg>
+        <x>oksentaa verta</x>
+        <xt>vuoksi vara</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -131195,12 +130603,10 @@
     <tg xml:lang="fin">
       <re>minua oksettaa</re>
       <t>mu vuovssiha, mus gákkaha váimmu, mus moiddoda váimmu, mus lea váibmu neavri</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minua rupesi oksettamaan</re>
-      <t>mus váibmui suhppii, mus váibmu neavrrui, mun vuovssastuvven</t>
+      <xg>
+        <x>minua rupesi oksettamaan</x>
+        <xt>mus váibmui suhppii, mus váibmu neavrrui, mun vuovssastuvven</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -131317,12 +130723,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dovdomassii, čielgasit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oleellisesti enemmän</re>
-      <t>sakka ~ mealgat ~ arvat ~ dovdomassii eanet</t>
+      <xg>
+        <x>oleellisesti enemmän</x>
+        <xt>sakka ~ mealgat ~ arvat ~ dovdomassii eanet</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -131370,12 +130774,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dušši, duššálaš, joavdelas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>puhua olemattomia</re>
-      <t>hállat duššiid, joavdelasaid, neahkameahttumiid</t>
+      <xg>
+        <x>puhua olemattomia</x>
+        <xt>hállat duššiid, joavdelasaid, neahkameahttumiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -131971,12 +131373,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oamedovdu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyvällä omallatunnolla</re>
-      <t>buriin oamedovdduin</t>
+      <xg>
+        <x>hyvällä omallatunnolla</x>
+        <xt>buriin oamedovdduin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -133979,18 +133379,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>oassi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kolmeen osaan</re>
-      <t>golmma sadjái ~ oassái</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>osa kerrallaan</re>
-      <t>osiid mielde</t>
+      <xg>
+        <x>kolmeen osaan</x>
+        <xt>golmma sadjái ~ oassái</xt>
+      </xg>
+      <xg>
+        <x>osa kerrallaan</x>
+        <xt>osiid mielde</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -134167,12 +133563,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(suhteen) hárrái, oasil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuon asian osalta</re>
-      <t>dien ášši hárrái ~ oasil</t>
+      <xg>
+        <x>tuon asian osalta</x>
+        <xt>dien ášši hárrái ~ oasil</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -134996,12 +134390,10 @@
     <tg xml:lang="fin">
       <re>lähempänä ovea oleva</re>
       <t>uvssat</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>lähimpänä ovea oleva</re>
-      <t>uvssamuš ~ uvssamus;</t>
+      <xg>
+        <x>lähimpänä ovea oleva</x>
+        <xt>uvssamuš ~ uvssamus;</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -135567,12 +134959,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bahás, bahuid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli pahasti loukkaantunut</re>
-      <t>lei bahuid roasmmohuvvan</t>
+      <xg>
+        <x>oli pahasti loukkaantunut</x>
+        <xt>lei bahuid roasmmohuvvan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -137863,12 +137253,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jokin kehonosa) suvččagahttit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hän palellutti korvansa</re>
-      <t>son suvččagahtii beljiidis, sus suvččagedje bealjit</t>
+      <xg>
+        <x>hän palellutti korvansa</x>
+        <xt>son suvččagahtii beljiidis, sus suvččagedje bealjit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -140583,12 +139971,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ruitu, báhti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pata kattilaa soimaa</re>
-      <t>ruitu ruittu giektá</t>
+      <xg>
+        <x>pata kattilaa soimaa</x>
+        <xt>ruitu ruittu giektá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -142008,12 +141394,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>benne</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei pennin penniä</re>
-      <t>ii buollán bennege</t>
+      <xg>
+        <x>ei pennin penniä</x>
+        <xt>ii buollán bennege</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -142473,12 +141857,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áibbas, hui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>perin tavallista</re>
-      <t>hui dábálaš</t>
+      <xg>
+        <x>perin tavallista</x>
+        <xt>hui dábálaš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -143339,12 +142721,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuođul, jelgii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sopimuksen perusteella</re>
-      <t>soahpamuša vuođul ~ jelgii</t>
+      <xg>
+        <x>sopimuksen perusteella</x>
+        <xt>soahpamuša vuođul ~ jelgii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -143375,12 +142755,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuođoheapme vuođuheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>perusteeton vaatimus</re>
-      <t>vuođohis gáibádus</t>
+      <xg>
+        <x>perusteeton vaatimus</x>
+        <xt>vuođohis gáibádus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -143431,12 +142809,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(johonkin) vuođđuduvvat (masa nu)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mihin tämä perustuu?</re>
-      <t>mii lea dán vuođđun?, masa dát vuođđuduvvá?</t>
+      <xg>
+        <x>mihin tämä perustuu?</x>
+        <xt>mii lea dán vuođđun?, masa dát vuođđuduvvá?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -143661,12 +143037,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eret</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mistä olet peräisin?</re>
-      <t>gos don leat eret?</t>
+      <xg>
+        <x>mistä olet peräisin?</x>
+        <xt>gos don leat eret?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -143918,12 +143292,10 @@
     <tg xml:lang="fin">
       <re>perässäni</re>
       <t>mu maŋis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänen perässään</re>
-      <t>su maŋis</t>
+      <xg>
+        <x>hänen perässään</x>
+        <xt>su maŋis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -144056,12 +143428,10 @@
     <tg xml:lang="fin">
       <re>perääni</re>
       <t>mu maŋŋái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänen peräänsä</re>
-      <t>su maŋŋái</t>
+      <xg>
+        <x>hänen peräänsä</x>
+        <xt>su maŋŋái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -144230,12 +143600,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bassan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pani paitansa pesuun</re>
-      <t>bijai báiddi bassalussii</t>
+      <xg>
+        <x>pani paitansa pesuun</x>
+        <xt>bijai báiddi bassalussii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -144625,12 +143993,10 @@
     <tg xml:lang="fin">
       <re>tulla petetyksi</re>
       <t>behttot</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua (jonkun) pettämäksi</re>
-      <t>beahtahallat (soapmásii)</t>
+      <xg>
+        <x>joutua (jonkun) pettämäksi</x>
+        <xt>beahtahallat (soapmásii)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -144681,12 +144047,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bealgesáhttu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>matkustaa peukalokyydillä</re>
-      <t>johtit belggiin, liftet</t>
+      <xg>
+        <x>matkustaa peukalokyydillä</x>
+        <xt>johtit belggiin, liftet</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -146270,12 +145634,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(rangaistukseksi) risset, durget, addit duorggaid ~ roaiskkaid ~ spižáid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua (jonkun) risuttamaksi</re>
-      <t>rissehallat (soapmásii)</t>
+      <xg>
+        <x>joutua (jonkun) risuttamaksi</x>
+        <xt>rissehallat (soapmásii)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -147090,12 +146452,10 @@
     <tg xml:lang="fin">
       <re>pilalle</re>
       <t>billái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mennä pilalle</re>
-      <t>mannat billái, billašuvvat</t>
+      <xg>
+        <x>mennä pilalle</x>
+        <xt>mannat billái, billašuvvat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -147175,12 +146535,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bilidit, billistit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pilata maine</re>
-      <t>gutni njeaidit</t>
+      <xg>
+        <x>pilata maine</x>
+        <xt>gutni njeaidit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -147231,12 +146589,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bilku</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää pilkkana</re>
-      <t>atnit bilkun</t>
+      <xg>
+        <x>pitää pilkkana</x>
+        <xt>atnit bilkun</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -148383,12 +147739,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guhkki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yhtä pitkät</re>
-      <t>ovtta guhku</t>
+      <xg>
+        <x>yhtä pitkät</x>
+        <xt>ovtta guhku</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -148638,12 +147992,10 @@
     <tg xml:lang="fin">
       <t>guhket</t>
       <t>guhkit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>selitti pitkästi</re>
-      <t>čilgii guhket</t>
+      <xg>
+        <x>selitti pitkästi</x>
+        <xt>čilgii guhket</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -149702,12 +149054,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>davádat, davvebiegga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuuli pohjoisesta</re>
-      <t>biekkai davil</t>
+      <xg>
+        <x>tuuli pohjoisesta</x>
+        <xt>biekkai davil</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -151253,12 +150603,10 @@
     <tg xml:lang="fin">
       <re>(tunturissa)</re>
       <t>badjesiida</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>paimentaa porojaan jonkun kanssa samassa porokylässä</re>
-      <t>siiddastallat (+ kom.)</t>
+      <xg>
+        <x>paimentaa porojaan jonkun kanssa samassa porokylässä</x>
+        <xt>siiddastallat (+ kom.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -152611,12 +151959,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>presennet</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kattoi heinäsuovan pressulla</re>
-      <t>lovddii stávrrá presennegiin</t>
+      <xg>
+        <x>kattoi heinäsuovan pressulla</x>
+        <xt>lovddii stávrrá presennegiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -153397,18 +152743,14 @@
     <tg xml:lang="fin">
       <re>(valmisteltu puhe)</re>
       <t>sáhka, sáhkavuorru, sárdni</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun puheilla</re>
-      <t>soapmása ságain</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun puheille</re>
-      <t>soapmása ságaide</t>
+      <xg>
+        <x>jonkun puheilla</x>
+        <xt>soapmása ságain</xt>
+      </xg>
+      <xg>
+        <x>jonkun puheille</x>
+        <xt>soapmása ságaide</xt>
+      </xg>
     </tg>
   </mg>
 </e></p>
@@ -155291,12 +154633,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>beallejámas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pelästyi puolikuoliaaksi</re>
-      <t>suorganii beallejámas</t>
+      <xg>
+        <x>pelästyi puolikuoliaaksi</x>
+        <xt>suorganii beallejámas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -156408,12 +155748,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>muorra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitkä puu</re>
-      <t>alla muorra</t>
+      <xg>
+        <x>pitkä puu</x>
+        <xt>alla muorra</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -156856,12 +156194,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(ihmisen käyttäytymisessä) vuohkku</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hän työskentelee puuskittain</re>
-      <t>son bargá vuohkuid mielde ~ vuhkohagaid</t>
+      <xg>
+        <x>hän työskentelee puuskittain</x>
+        <xt>son bargá vuohkuid mielde ~ vuhkohagaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -156954,12 +156290,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vátni, vátnivuohta, heahti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>puutetta nähden</re>
-      <t>váni čađa</t>
+      <xg>
+        <x>puutetta nähden</x>
+        <xt>váni čađa</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -158485,18 +157819,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>geasašit oaivvi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minua pyörryttää</re>
-      <t>mus jorrá oaivi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minua rupesi pyörryttämään</re>
-      <t>šadden oaivejorgásii</t>
+      <xg>
+        <x>minua pyörryttää</x>
+        <xt>mus jorrá oaivi</xt>
+      </xg>
+      <xg>
+        <x>minua rupesi pyörryttämään</x>
+        <xt>šadden oaivejorgásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -159075,12 +158405,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>beaivečuovga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>päivän valolla</re>
-      <t>čuovgga bále</t>
+      <xg>
+        <x>päivän valolla</x>
+        <xt>čuovgga bále</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -159425,12 +158753,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oaivi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pää alaspäin</re>
-      <t>vulos oivviid</t>
+      <xg>
+        <x>pää alaspäin</x>
+        <xt>vulos oivviid</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -159565,12 +158891,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(postp.) geahčai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>peninkulman päähän</re>
-      <t>miilla geahčai</t>
+      <xg>
+        <x>peninkulman päähän</x>
+        <xt>miilla geahčai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -160229,12 +159553,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(postp.) geahčen, duohken</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>peninkulman päässä</re>
-      <t>miilla geahčen</t>
+      <xg>
+        <x>peninkulman päässä</x>
+        <xt>miilla geahčen</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -160275,12 +159597,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>geažes</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>parin päivän päästä</re>
-      <t>moatte beaivvi geažes</t>
+      <xg>
+        <x>parin päivän päästä</x>
+        <xt>moatte beaivvi geažes</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -161153,12 +160473,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dušši</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>puhui pötyä</re>
-      <t>hálai duššiid</t>
+      <xg>
+        <x>puhui pötyä</x>
+        <xt>hálai duššiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -161569,12 +160887,10 @@
     <tg xml:lang="fin">
       <re>(esim. päätään)</re>
       <t>ruohkkat;</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun raapimaksi</re>
-      <t>ruohkahallat soapmásii;</t>
+      <xg>
+        <x>joutua jonkun raapimaksi</x>
+        <xt>ruohkahallat soapmásii;</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -163245,12 +162561,10 @@
     <tg xml:lang="fin">
       <re>(hirsirakennusta)</re>
       <t>ceahkkut, cehkodit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>rakentaa rauhaa</re>
-      <t>duddjot ráfi</t>
+      <xg>
+        <x>rakentaa rauhaa</x>
+        <xt>duddjot ráfi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -163559,12 +162873,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ráŋggáštanvuloš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>rangaistava teko</re>
-      <t>ráŋggáštanvuloš dahku</t>
+      <xg>
+        <x>rangaistava teko</x>
+        <xt>ráŋggáštanvuloš dahku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -166079,12 +165391,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(vesistä) njivlut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vesien rehevöityminen</re>
-      <t>čáziid njivlun</t>
+      <xg>
+        <x>vesien rehevöityminen</x>
+        <xt>čáziid njivlun</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -166743,12 +166053,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>republikánalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>republikaaninen puolue</re>
-      <t>republikánalaš bellodat</t>
+      <xg>
+        <x>republikaaninen puolue</x>
+        <xt>republikánalaš bellodat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -166799,12 +166107,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>reserváhtta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Pohjois-Amerikan intiaanireservaatit</re>
-      <t>Davvi-Amerihká indiánareserváhtat</t>
+      <xg>
+        <x>Pohjois-Amerikan intiaanireservaatit</x>
+        <xt>Davvi-Amerihká indiánareserváhtat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -167149,12 +166455,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>reviira</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>lintureviirit ovat käymässä vähiin</re>
-      <t>loddereviirrat leat vátnugoahtán</t>
+      <xg>
+        <x>lintureviirit ovat käymässä vähiin</x>
+        <xt>loddereviirrat leat vátnugoahtán</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -167386,12 +166690,10 @@
     <tg xml:lang="fin">
       <re>tulla riettaammaksi</re>
       <t>nuoskut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian riettaana</re>
-      <t>nuoskkášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian riettaana</x>
+        <xt>nuoskkášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -168362,12 +167664,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>rihkkasmeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>rikkumaton rauha</re>
-      <t>rihkkasmeahttun ráfi</t>
+      <xg>
+        <x>rikkumaton rauha</x>
+        <xt>rihkkasmeahttun ráfi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -169027,12 +168327,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čoalas, čoalasvihki, njárbadas, čoavjedávda, luhčadávda, lužas, lužohat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänellä oli ripuli</re>
-      <t>son lei čoallasis ~ njárbadasas</t>
+      <xg>
+        <x>hänellä oli ripuli</x>
+        <xt>son lei čoallasis ~ njárbadasas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -169215,12 +168513,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ruossa, rista</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kädet ristissä</re>
-      <t>risttas gieđaid</t>
+      <xg>
+        <x>kädet ristissä</x>
+        <xt>risttas gieđaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -169443,12 +168739,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ruossalasvuohta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tiedot ovat ristiriidassa</re>
-      <t>dieđut mannet ruossalassii</t>
+      <xg>
+        <x>tiedot ovat ristiriidassa</x>
+        <xt>dieđut mannet ruossalassii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -170253,12 +169547,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(eräs kirjallisuuden tuote) romána</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>historiallinen romaani</re>
-      <t>historjjálaš romána</t>
+      <xg>
+        <x>historiallinen romaani</x>
+        <xt>historjjálaš romána</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -170269,12 +169561,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>románalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>romaaniset kielet</re>
-      <t>románalaš gielat</t>
+      <xg>
+        <x>romaaniset kielet</x>
+        <xt>románalaš gielat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -170345,12 +169635,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>romantihkalaš, románttalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>romanttinen rakkaustarina</re>
-      <t>romantihkalaš ráhkisvuođamuitalus</t>
+      <xg>
+        <x>romanttinen rakkaustarina</x>
+        <xt>romantihkalaš ráhkisvuođamuitalus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -171656,12 +170944,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>muorrái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>runsaspuinen metsä</re>
-      <t>muorrás vuovdi</t>
+      <xg>
+        <x>runsaspuinen metsä</x>
+        <xt>muorrás vuovdi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -171672,12 +170958,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bibmui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>runsasravinteinen kasvupaikka</re>
-      <t>bibmos šaddansadji</t>
+      <xg>
+        <x>runsasravinteinen kasvupaikka</x>
+        <xt>bibmos šaddansadji</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -172049,12 +171333,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bibmui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ruokaisa talo</re>
-      <t>bibmos dállu</t>
+      <xg>
+        <x>ruokaisa talo</x>
+        <xt>bibmos dállu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -172367,12 +171649,10 @@
     <tg xml:lang="fin">
       <re>roaiskkát</re>
       <t>selkäsauna</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sai selkäsaunan</re>
-      <t>oaččui roiskkáid</t>
+      <xg>
+        <x>sai selkäsaunan</x>
+        <xt>oaččui roiskkáid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -172459,12 +171739,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ruosttaheapme, ruosttokeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ruostumaton teräs</re>
-      <t>ruosttokeahtes stálli</t>
+      <xg>
+        <x>ruostumaton teräs</x>
+        <xt>ruosttokeahtes stálli</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -175016,12 +174294,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>reavgguhit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä röyhtäytti toden teolla</re>
-      <t>su nu reavgguhii</t>
+      <xg>
+        <x>häntä röyhtäytti toden teolla</x>
+        <xt>su nu reavgguhii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -175159,18 +174435,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>rádjai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>silmiin saakka</re>
-      <t>čalmmiid rádjai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>maanantaihin asti</re>
-      <t>vuossárgga rádjai</t>
+      <xg>
+        <x>silmiin saakka</x>
+        <xt>čalmmiid rádjai</xt>
+      </xg>
+      <xg>
+        <x>maanantaihin asti</x>
+        <xt>vuossárgga rádjai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -175313,12 +174585,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sámevulgosaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>saamelaisperäiset paikannimet</re>
-      <t>sámevulgosaš báikenamat</t>
+      <xg>
+        <x>saamelaisperäiset paikannimet</x>
+        <xt>sámevulgosaš báikenamat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -175866,12 +175136,10 @@
     <tg xml:lang="fin">
       <re>saattaa loppuun</re>
       <t>gearggahit, gerget</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>saattaa voimaan</re>
-      <t>bidjat fápmui</t>
+      <xg>
+        <x>saattaa voimaan</x>
+        <xt>bidjat fápmui</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -175948,12 +175216,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>juvssahahtti, olahahtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>saavutettavat palvelut</re>
-      <t>juvssahahtti bálvalusat</t>
+      <xg>
+        <x>saavutettavat palvelut</x>
+        <xt>juvssahahtti bálvalusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -176172,12 +175438,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suohkut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pyry sakenee</re>
-      <t>borga suohku</t>
+      <xg>
+        <x>pyry sakenee</x>
+        <xt>borga suohku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -177379,12 +176643,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(+ subst.) dat seamma</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>samainen vuosi</re>
-      <t>dat seamma jahki</t>
+      <xg>
+        <x>samainen vuosi</x>
+        <xt>dat seamma jahki</xt>
+      </xg>
       <xg>
         <x>se oli samainen vuosi, kun menin naimisiin</x>
         <xt>dat lei dat seamma jahki, go náitalin</xt>
@@ -178078,12 +177340,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sátneheahti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänelle tuli sanapula</re>
-      <t>son nohkkui sániin</t>
+      <xg>
+        <x>hänelle tuli sanapula</x>
+        <xt>son nohkkui sániin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -178134,12 +177394,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(sananmukainen) sátnedárkil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sanatarkka käännös</re>
-      <t>sátnedárkilis jorgalus</t>
+      <xg>
+        <x>sanatarkka käännös</x>
+        <xt>sátnedárkilis jorgalus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -179030,12 +178288,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čuohtásaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>satapäinen tokka</re>
-      <t>čuohtásaš čora</t>
+      <xg>
+        <x>satapäinen tokka</x>
+        <xt>čuohtásaš čora</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -179374,12 +178630,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) sávnnjil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>on tältä kohtaa saumalla</re>
-      <t>lea dákko sávnnjil</t>
+      <xg>
+        <x>on tältä kohtaa saumalla</x>
+        <xt>lea dákko sávnnjil</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -179850,12 +179104,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>semihtalaš, semalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>seemiläiset kielet</re>
-      <t>semihtalaš gielat</t>
+      <xg>
+        <x>seemiläiset kielet</x>
+        <xt>semihtalaš gielat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -180283,12 +179535,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čieža</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>seitsemän kertaa</re>
-      <t>čieža geardde, čihččii</t>
+      <xg>
+        <x>seitsemän kertaa</x>
+        <xt>čieža geardde, čihččii</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -180510,12 +179760,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>seahkesogat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sekarotuinen kissa</re>
-      <t>seahkesogat bussá</t>
+      <xg>
+        <x>sekarotuinen kissa</x>
+        <xt>seahkesogat bussá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -180794,12 +180042,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sihke</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sekä - että</re>
-      <t>sihke - ja</t>
+      <xg>
+        <x>sekä - että</x>
+        <xt>sihke - ja</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -181580,12 +180826,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) selggolassii ~ sealggálassii, selggos, gávotgaccaid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kaatui selälleen</re>
-      <t>gahčai selggolassii</t>
+      <xg>
+        <x>kaatui selälleen</x>
+        <xt>gahčai selggolassii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -181612,12 +180856,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>selggolas (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kädet selän takana</re>
-      <t>selggolas gieđaid</t>
+      <xg>
+        <x>kädet selän takana</x>
+        <xt>selggolas gieđaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -182334,12 +181576,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>servvoštallat, ovttastallat, olbmástallat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>alkaa seurustella (jonkun kanssa)</re>
-      <t>álgalit (soapmásiin)</t>
+      <xg>
+        <x>alkaa seurustella (jonkun kanssa)</x>
+        <xt>álgalit (soapmásiin)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -182350,12 +181590,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>servvoštallan, ovttastallan, olbmástallan</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>aloittaa seurustelu (jonkun kanssa)</re>
-      <t>álgalit (soapmásiin)</t>
+      <xg>
+        <x>aloittaa seurustelu (jonkun kanssa)</x>
+        <xt>álgalit (soapmásiin)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -182404,24 +181642,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) sulaid ~ sulain</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viiden seutuvilla</re>
-      <t>viđa sulain</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>niillä tienoilla</re>
-      <t>dakko sulaid</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kolmen kilon paikkeilla</re>
-      <t>golmma kilo sulaid</t>
+      <xg>
+        <x>viiden seutuvilla</x>
+        <xt>viđa sulain</xt>
+      </xg>
+      <xg>
+        <x>niillä tienoilla</x>
+        <xt>dakko sulaid</xt>
+      </xg>
+      <xg>
+        <x>kolmen kilon paikkeilla</x>
+        <xt>golmma kilo sulaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -182593,12 +181825,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(med.) gierddahandikšu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>allergian hoito siedätyshoidolla</re>
-      <t>allergiija dikšun gierddadandivššuin</t>
+      <xg>
+        <x>allergian hoito siedätyshoidolla</x>
+        <xt>allergiija dikšun gierddadandivššuin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -183661,12 +182891,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nuoski, durjjas, sturjjas, durddas, durdái, durggas, šlurvvas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian siivottomana</re>
-      <t>nuoskkášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian siivottomana</x>
+        <xt>nuoskkášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -183763,12 +182991,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sadjásaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>johtajan sijainen</re>
-      <t>sadjásaš hoavda</t>
+      <xg>
+        <x>johtajan sijainen</x>
+        <xt>sadjásaš hoavda</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -184359,12 +183585,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dalle</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>silloin tällöin</re>
-      <t>duollet dálle</t>
+      <xg>
+        <x>silloin tällöin</x>
+        <xt>duollet dálle</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -184376,12 +183600,10 @@
     <tg xml:lang="fin">
       <t>dalá</t>
       <t>daláš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>silloiset tapahtumat</re>
-      <t>dalá dáhpáhusat</t>
+      <xg>
+        <x>silloiset tapahtumat</x>
+        <xt>dalá dáhpáhusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -184515,12 +183737,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(alkeellinen ansapyydys) njohcu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pyytää silmuksella kaloja</re>
-      <t>njohcut guliid</t>
+      <xg>
+        <x>pyytää silmuksella kaloja</x>
+        <xt>njohcut guliid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -185396,18 +184616,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>dohko</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sinne tänne</re>
-      <t>duohkut deike</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sinne päin</re>
-      <t>dohko guvlui</t>
+      <xg>
+        <x>sinne tänne</x>
+        <xt>duohkut deike</xt>
+      </xg>
+      <xg>
+        <x>sinne päin</x>
+        <xt>dohko guvlui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -185956,18 +185172,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(mieli, olemus) sivvu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>selkäpiitäni karmii</re>
-      <t>sivvu mus soaigá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuntuu luissa ja ytimissä</re>
-      <t>čađa sivu manná</t>
+      <xg>
+        <x>selkäpiitäni karmii</x>
+        <xt>sivvu mus soaigá</xt>
+      </xg>
+      <xg>
+        <x>tuntuu luissa ja ytimissä</x>
+        <xt>čađa sivu manná</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -186783,12 +185995,10 @@
     <tg xml:lang="fin">
       <t>dađe</t>
       <t>dađi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mitä - sitä</re>
-      <t>mađe - dađe, mađi - dađi</t>
+      <xg>
+        <x>mitä - sitä</x>
+        <xt>mađe - dađe, mađi - dađi</xt>
+      </xg>
       <xg>
         <x>mitä varhemmin, sitä parempi</x>
         <xt>mađe árabut, dađe buoret</xt>
@@ -187561,12 +186771,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>soađemaŋáš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sodanjälkeinen jälleenrakentaminen</re>
-      <t>soađemaŋáš ođđasithuksen</t>
+      <xg>
+        <x>sodanjälkeinen jälleenrakentaminen</x>
+        <xt>soađemaŋáš ođđasithuksen</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -187741,12 +186949,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>soaibmat (+ akk.), bealkkehit (+akk.), cielahit (+ akk.), dierdidit (+ akk), attástallat (+ ill.), attašit (+ ill.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun soimaamaksi</re>
-      <t>soaimmahallat soapmásii</t>
+      <xg>
+        <x>joutua jonkun soimaamaksi</x>
+        <xt>soaimmahallat soapmásii</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -188063,12 +187269,10 @@
     <tg xml:lang="fin">
       <re>(silmistä, lumisokeaksi)</re>
       <t>suddot, suddat</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>sokaistui (keväthangilla)</re>
-      <t>sus suddojedje čalmmit</t>
+      <xg>
+        <x>sokaistui (keväthangilla)</x>
+        <xt>sus suddojedje čalmmit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -188079,12 +187283,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>čalmmeheapme, čuovggaheapme, sohken, sovkken, vátnačalmmat, skuonjas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sokea täplä (silmässä)</re>
-      <t>čuovggahis dielku</t>
+      <xg>
+        <x>sokea täplä (silmässä)</x>
+        <xt>čuovggahis dielku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -188367,12 +187569,10 @@
     <tg xml:lang="fin">
       <re>solmia avioliitto</re>
       <t>náitalit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>solmia rauha</re>
-      <t>dahkat ráfi</t>
+      <xg>
+        <x>solmia rauha</x>
+        <xt>dahkat ráfi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -188998,12 +188198,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>doaresjurdda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>soraääniäkin on kuulunut</re>
-      <t>doaresjurdagatge leat gullon</t>
+      <xg>
+        <x>soraääniäkin on kuulunut</x>
+        <xt>doaresjurdagatge leat gullon</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -189186,12 +188384,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suorbmafaggi, suorbmaroahkki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vetää sormikoukkua</re>
-      <t>suorbmafakki ~ suorbmaroahki geassit</t>
+      <xg>
+        <x>vetää sormikoukkua</x>
+        <xt>suorbmafakki ~ suorbmaroahki geassit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -190467,12 +189663,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>soabatmeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sovittamaton riita-asia</re>
-      <t>soabatmeahttun riidoášši</t>
+      <xg>
+        <x>sovittamaton riita-asia</x>
+        <xt>soabatmeahttun riidoášši</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -191079,12 +190273,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gaskavuohta, gorri, veardi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>siinä suhteessa</re>
-      <t>dan dáfus</t>
+      <xg>
+        <x>siinä suhteessa</x>
+        <xt>dan dáfus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -191305,12 +190497,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suige</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei suinkaan</re>
-      <t>ii heađisge</t>
+      <xg>
+        <x>ei suinkaan</x>
+        <xt>ii heađisge</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -191457,12 +190647,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guita, dássálagaid, luohttalagaid, luohtta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olemme nyt sujut</re>
-      <t>moai letne dál guita</t>
+      <xg>
+        <x>olemme nyt sujut</x>
+        <xt>moai letne dál guita</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -191806,12 +190994,10 @@
     <tg xml:lang="fin">
       <re>sukulaiset keskenään</re>
       <t>fulkkežat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kohdella jotakuta sukulaisenaan</re>
-      <t>fuolkkástallat soapmásiin</t>
+      <xg>
+        <x>kohdella jotakuta sukulaisenaan</x>
+        <xt>fuolkkástallat soapmásiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -192515,12 +191701,10 @@
     <tg xml:lang="fin">
       <re>saada, löytää suoja</re>
       <t>suojáiduvvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>päästä suojaan</re>
-      <t>suodjásii beassat</t>
+      <xg>
+        <x>päästä suojaan</x>
+        <xt>suodjásii beassat</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -192966,12 +192150,10 @@
     <tg xml:lang="fin">
       <re>maistua liian suolaiselta</re>
       <t>sálttiidit;</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>melko suolainen</re>
-      <t>sálttisis (attr.)</t>
+      <xg>
+        <x>melko suolainen</x>
+        <xt>sálttisis (attr.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -193012,12 +192194,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuorda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kauhean suolainen</re>
-      <t>sálttis dego vuorda</t>
+      <xg>
+        <x>kauhean suolainen</x>
+        <xt>sálttis dego vuorda</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -193498,12 +192678,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suotna</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minulla vetää suonta</re>
-      <t>mus geassá suona</t>
+      <xg>
+        <x>minulla vetää suonta</x>
+        <xt>mus geassá suona</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -193836,12 +193014,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>njuolggočiegat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suorakulmainen kolmio</re>
-      <t>njuolggočiegat golmmačiegahas</t>
+      <xg>
+        <x>suorakulmainen kolmio</x>
+        <xt>njuolggočiegat golmmačiegahas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -194921,12 +194097,10 @@
     <tg xml:lang="fin">
       <re>soittaa suutaan</re>
       <t>njálmmuštit</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>suu kiinni!</re>
-      <t>doala njálmmát!</t>
+      <xg>
+        <x>suu kiinni!</x>
+        <xt>doala njálmmát!</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -195039,12 +194213,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>njálmmálaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suullinen kielitaito</re>
-      <t>njálmmálaš giellamáhttu</t>
+      <xg>
+        <x>suullinen kielitaito</x>
+        <xt>njálmmálaš giellamáhttu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195085,12 +194257,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ravdameahttun, ravddaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suunnaton ilo</re>
-      <t>lohkameahttun illu</t>
+      <xg>
+        <x>suunnaton ilo</x>
+        <xt>lohkameahttun illu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195218,30 +194388,22 @@
     <tg xml:lang="fin">
       <re>(suuntaisuus)</re>
       <t>hálti</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>siihen suuntaan</re>
-      <t>dohko guvlui</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>, sillä suunnalla, siltä suunnalta</re>
-      <t>doppe guovllos</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mihin suuntaan?</re>
-      <t>gosa guvlui</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>millä suunnalla?, miltä suunnalta?</re>
-      <t>gos guovllos?</t>
+      <xg>
+        <x>siihen suuntaan</x>
+        <xt>dohko guvlui</xt>
+      </xg>
+      <xg>
+        <x>, sillä suunnalla, siltä suunnalta</x>
+        <xt>doppe guovllos</xt>
+      </xg>
+      <xg>
+        <x>mihin suuntaan?</x>
+        <xt>gosa guvlui</xt>
+      </xg>
+      <xg>
+        <x>millä suunnalla?, miltä suunnalta?</x>
+        <xt>gos guovllos?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195655,18 +194817,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>stuoru, sturrosaš (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sivun suuruinen ilmoitus</re>
-      <t>siiddu sturrosaš almmuhus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nämä ovat samansuuruisia</re>
-      <t>dát leat ovtta stuoru</t>
+      <xg>
+        <x>sivun suuruinen ilmoitus</x>
+        <xt>siiddu sturrosaš almmuhus</xt>
+      </xg>
+      <xg>
+        <x>nämä ovat samansuuruisia</x>
+        <xt>dát leat ovtta stuoru</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195830,12 +194988,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>suhttadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä suututti</re>
-      <t>son lei suhtus</t>
+      <xg>
+        <x>häntä suututti</x>
+        <xt>son lei suhtus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195930,12 +195086,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nálálaš, sogalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suvullinen lisääntyminen</re>
-      <t>sogalaš lassáneapmi</t>
+      <xg>
+        <x>suvullinen lisääntyminen</x>
+        <xt>sogalaš lassáneapmi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -195946,12 +195100,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>sogaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suvuton lisääntyminen</re>
-      <t>sogahis lassáneapmi</t>
+      <xg>
+        <x>suvuton lisääntyminen</x>
+        <xt>sogahis lassáneapmi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -196026,12 +195178,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) váimmovuođus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kiitti häntä sydämensä pohjasta</re>
-      <t>giittii su váimmovuođus</t>
+      <xg>
+        <x>kiitti häntä sydämensä pohjasta</x>
+        <xt>giittii su váimmovuođus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -197147,12 +196297,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>riegádit, šaddat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>milloin olet syntynyt?</re>
-      <t>goas leat riegádan?</t>
+      <xg>
+        <x>milloin olet syntynyt?</x>
+        <xt>goas leat riegádan?</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -197868,12 +197016,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jur.) stevnnet, sivahus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nostaa syyte asiassa</re>
-      <t>čuoččáldahttit ášši</t>
+      <xg>
+        <x>nostaa syyte asiassa</x>
+        <xt>čuoččáldahttit ášši</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -200011,12 +199157,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šáhkka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>šakki ja matti</re>
-      <t>šáhkka ja máhtta</t>
+      <xg>
+        <x>šakki ja matti</x>
+        <xt>šáhkka ja máhtta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -200266,12 +199410,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>duvllá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>taannoiset tapahtumat</re>
-      <t>duvllá dáhpáhusat</t>
+      <xg>
+        <x>taannoiset tapahtumat</x>
+        <xt>duvllá dáhpáhusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -200457,12 +199599,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>beare, ihkinassii, fal</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>missä tahansa</re>
-      <t>gos beare ~ ihkinassii ~ fal</t>
+      <xg>
+        <x>missä tahansa</x>
+        <xt>gos beare ~ ihkinassii ~ fal</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -200473,12 +199613,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áiggokeahtes (attr.), dáhtokeahtes (attr.), siđakeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tahaton teko</re>
-      <t>dáhtokeahtes dahku</t>
+      <xg>
+        <x>tahaton teko</x>
+        <xt>dáhtokeahtes dahku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -200963,12 +200101,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dáigi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vaivata taikinaa</re>
-      <t>dáiggi duhppet</t>
+      <xg>
+        <x>vaivata taikinaa</x>
+        <xt>dáiggi duhppet</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -201982,12 +201118,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) duppallohkkii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sulki oven takalukkoon</re>
-      <t>giddii uvssa duppallohkkii</t>
+      <xg>
+        <x>sulki oven takalukkoon</x>
+        <xt>giddii uvssa duppallohkkii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -202018,12 +201152,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bađalassii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mätkähti takamuksilleen</re>
-      <t>deaškkihii bađalassii</t>
+      <xg>
+        <x>mätkähti takamuksilleen</x>
+        <xt>deaškkihii bađalassii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -202090,12 +201222,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ovdánmeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>takapajuinen seutu</re>
-      <t>ovdánmeahttun guovlu</t>
+      <xg>
+        <x>takapajuinen seutu</x>
+        <xt>ovdánmeahttun guovlu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -202677,12 +201807,10 @@
     <tg xml:lang="fin">
       <re>(kerran, nopeasti)</re>
       <t>duolmmastit, duolbmalit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun tallaamaksi</re>
-      <t>duolmmahallat soapmásii</t>
+      <xg>
+        <x>joutua jonkun tallaamaksi</x>
+        <xt>duolmmahallat soapmásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -203221,12 +202349,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dálvelosáš, dálvečielgi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>talvenselkä on taittumaisillaan</re>
-      <t>dálvečielgi lea doddjomin</t>
+      <xg>
+        <x>talvenselkä on taittumaisillaan</x>
+        <xt>dálvečielgi lea doddjomin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -203263,12 +202389,10 @@
     <tg xml:lang="fin">
       <re>tehdä talvi</re>
       <t>dálvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tänä talvena</re>
-      <t>dán dálvve ~ dán dálvvi</t>
+      <xg>
+        <x>tänä talvena</x>
+        <xt>dán dálvve ~ dán dálvvi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -203778,12 +202902,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dáhpi, láhki, vuohki, vierru</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nopeimmalla mahdollisella tavalla</re>
-      <t>johtileamos ~ jođáneamos lági mielde</t>
+      <xg>
+        <x>nopeimmalla mahdollisella tavalla</x>
+        <xt>johtileamos ~ jođáneamos lági mielde</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -203984,12 +203106,10 @@
     <tg xml:lang="fin">
       <re>tulla tapetuksi</re>
       <t>goddot, goddohallat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun tappamaksi</re>
-      <t>gottáhallat soapmásii</t>
+      <xg>
+        <x>joutua jonkun tappamaksi</x>
+        <xt>gottáhallat soapmásii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -204020,12 +203140,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>goddi, goddevaš, goddil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tappava tauti</re>
-      <t>goddi dávda</t>
+      <xg>
+        <x>tappava tauti</x>
+        <xt>goddi dávda</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -204357,12 +203475,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>fállat iežas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tarjoutui työhön</re>
-      <t>fálai iežas bargui</t>
+      <xg>
+        <x>tarjoutui työhön</x>
+        <xt>fálai iežas bargui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -204794,12 +203910,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ulbmil, ulbmi, dárkkuhus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>siinä tarkoituksessa</re>
-      <t>dan nammii, dainna ulbmiliin</t>
+      <xg>
+        <x>siinä tarkoituksessa</x>
+        <xt>dan nammii, dainna ulbmiliin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -204978,12 +204092,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(muuten kuin suustaan, kalasta) njahppasit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>koukkuun tarttuneena</re>
-      <t>(muusta kohdasta kuin suustaan) njahppagasas, njahppasis</t>
+      <xg>
+        <x>koukkuun tarttuneena</x>
+        <xt>(muusta kohdasta kuin suustaan) njahppagasas, njahppasis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -205031,12 +204143,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>njoammun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sain tartunnan</re>
-      <t>munnje njoamui dávda</t>
+      <xg>
+        <x>sain tartunnan</x>
+        <xt>munnje njoamui dávda</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -205561,12 +204671,10 @@
     <tg xml:lang="fin">
       <t>lubma</t>
       <t>lumma</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kädet taskussa</re>
-      <t>lubmalas gieđaid</t>
+      <xg>
+        <x>kädet taskussa</x>
+        <xt>lubmalas gieđaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -206527,18 +205635,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>dahkan, dahkamuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli paljon tekemistä</re>
-      <t>lei ollu dahkamuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla tekemisissä jonkun kanssa</re>
-      <t>leat dahkamušas soapmásiin</t>
+      <xg>
+        <x>oli paljon tekemistä</x>
+        <xt>lei ollu dahkamuš</xt>
+      </xg>
+      <xg>
+        <x>olla tekemisissä jonkun kanssa</x>
+        <xt>leat dahkamušas soapmásiin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -206911,12 +206015,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>telepáhtalaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>telepaattiset kyvyt</re>
-      <t>telepáhtalaš attáldagat</t>
+      <xg>
+        <x>telepaattiset kyvyt</x>
+        <xt>telepáhtalaš attáldagat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -209022,12 +208124,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>diehtemeahttunvuohta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>teki tietämättömyyttään</re>
-      <t>dagai diehtemeahttunvuođastis</t>
+      <xg>
+        <x>teki tietämättömyyttään</x>
+        <xt>dagai diehtemeahttunvuođastis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -209038,12 +208138,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>diehtemeahttun</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tekeytyi tietämättömäksi</re>
-      <t>dahkaluttai diehtemeahttumin</t>
+      <xg>
+        <x>tekeytyi tietämättömäksi</x>
+        <xt>dahkaluttai diehtemeahttumin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -209054,12 +208152,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>diehttevaš, diehtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tietävänsorttinen kaveri</re>
-      <t>diehttis verdde</t>
+      <xg>
+        <x>tietävänsorttinen kaveri</x>
+        <xt>diehttis verdde</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -211495,12 +210591,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>earis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jutteli toisen kanssa</re>
-      <t>háleštii earrásiin</t>
+      <xg>
+        <x>jutteli toisen kanssa</x>
+        <xt>háleštii earrásiin</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -211643,12 +210737,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nuppissorjavaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>toisenvarainen eliö</re>
-      <t>nuppissorjavaš ealán</t>
+      <xg>
+        <x>toisenvarainen eliö</x>
+        <xt>nuppissorjavaš ealán</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -212143,12 +211235,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oaivveheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tolkuton teko</re>
-      <t>oaivvehis dahku</t>
+      <xg>
+        <x>tolkuton teko</x>
+        <xt>oaivvehis dahku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -212558,12 +211648,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>skuldot, moaitit, ráŋgut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun torumaksi, saada joltakulta toruja</re>
-      <t>skuldohallat (soapmásii)</t>
+      <xg>
+        <x>joutua jonkun torumaksi, saada joltakulta toruja</x>
+        <xt>skuldohallat (soapmásii)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -213812,18 +212900,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>sakka, čađa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuiki tarpeellinen</re>
-      <t>sakka dárbbašlaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuiki tuttu</re>
-      <t>čađa oahpis</t>
+      <xg>
+        <x>tuiki tarpeellinen</x>
+        <xt>sakka dárbbašlaš</xt>
+      </xg>
+      <xg>
+        <x>tuiki tuttu</x>
+        <xt>čađa oahpis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -213864,12 +212948,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(lumen, hiekan) soiccas ~ coiccas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ruveta tupruamaan, ryöppyämään</re>
-      <t>soicát ~ coicát, soiccáskit ~ coiccáskit</t>
+      <xg>
+        <x>ruveta tupruamaan, ryöppyämään</x>
+        <xt>soicát ~ coicát, soiccáskit ~ coiccáskit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -214376,12 +213458,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dahppasii, dahppagassii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>suu tukkoon!</re>
-      <t>doala njálmmát!</t>
+      <xg>
+        <x>suu tukkoon!</x>
+        <xt>doala njálmmát!</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -214949,12 +214029,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>boađi boađi, gahča gahča</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hän on tuloillaan</re>
-      <t>son lea boađi boađi</t>
+      <xg>
+        <x>hän on tuloillaan</x>
+        <xt>son lea boađi boađi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -216575,30 +215653,24 @@
     <tg xml:lang="fin">
       <re>tuolla kaukana</re>
       <t>doppe</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuolla puolella</re>
-      <t>don bealde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuolle puolelle</re>
-      <t>don beallai</t>
+      <xg>
+        <x>tuolla puolella</x>
+        <xt>don bealde</xt>
+      </xg>
+      <xg>
+        <x>tuolle puolelle</x>
+        <xt>don beallai</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>tuota puolta</re>
       <t>duoppil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuolla tavalla</re>
-      <t>duon láhkai, nuo</t>
+      <xg>
+        <x>tuolla tavalla</x>
+        <xt>duon láhkai, nuo</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -216878,12 +215950,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>varas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuore kangasmetsä</re>
-      <t>lákta guolbbavuovdi</t>
+      <xg>
+        <x>tuore kangasmetsä</x>
+        <xt>lákta guolbbavuovdi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -218145,12 +217215,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>duskkeheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuskaton leikkaus</re>
-      <t>duskkehis čuohpadus</t>
+      <xg>
+        <x>tuskaton leikkaus</x>
+        <xt>duskkehis čuohpadus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -218213,12 +217281,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(Raamatun) seahčagas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>potkia tutkainta vastaan (tehdä turhaa vastarintaa)</re>
-      <t>čiekčat seahčagasa vuostá</t>
+      <xg>
+        <x>potkia tutkainta vastaan (tehdä turhaa vastarintaa)</x>
+        <xt>čiekčat seahčagasa vuostá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -218519,12 +217585,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oahpes olbmot (pl), oahppásat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänen tuttapiirissään</re>
-      <t>su oahppásiid siste</t>
+      <xg>
+        <x>hänen tuttapiirissään</x>
+        <xt>su oahppásiid siste</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -218786,18 +217850,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(mieliala) miellaláhki, miella, latnja, gopma, giira</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla huonolla tuulella</re>
-      <t>leat heajos mielas ~ lanjas ~ gomas ~ giirras</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tulla huonolle tuulelle</re>
-      <t>šaddat heajos millii ~ latnjii ~ gopmii ~ giirii</t>
+      <xg>
+        <x>olla huonolla tuulella</x>
+        <xt>leat heajos mielas ~ lanjas ~ gomas ~ giirras</xt>
+      </xg>
+      <xg>
+        <x>tulla huonolle tuulelle</x>
+        <xt>šaddat heajos millii ~ latnjii ~ gopmii ~ giirii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -218893,12 +217953,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(ajatus) jurdda</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yksissä tuumin</re>
-      <t>oktii ráđiid</t>
+      <xg>
+        <x>yksissä tuumin</x>
+        <xt>oktii ráđiid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -219099,12 +218157,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>doavki, duihmi, áddemeahttun, dáidemeahttun, umáhttu, oktageardán, jorbbas, gáiccas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta tyhmänä</re>
-      <t>doavkkášit ~ duihmmášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta tyhmänä</x>
+        <xt>doavkkášit ~ duihmmášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -219698,12 +218754,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gallehuvvon</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tyydytetty rasva</re>
-      <t>gallehuvvon buoidi</t>
+      <xg>
+        <x>tyydytetty rasva</x>
+        <xt>gallehuvvon buoidi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -219714,12 +218768,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>galletkeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tyydyttämätön rasva</re>
-      <t>galletkeahtes buoidi</t>
+      <xg>
+        <x>tyydyttämätön rasva</x>
+        <xt>galletkeahtes buoidi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -220053,12 +219105,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>siida</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>rauhan tyyssija</re>
-      <t>ráfi siida</t>
+      <xg>
+        <x>rauhan tyyssija</x>
+        <xt>ráfi siida</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -221147,12 +220197,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dalle</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>silloin tällöin</re>
-      <t>duollet dálle</t>
+      <xg>
+        <x>silloin tällöin</x>
+        <xt>duollet dálle</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -221201,24 +220249,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>dát bealli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tällä puolella</re>
-      <t>dán bealde</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tälle puolelle</re>
-      <t>dán beallai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tätä puolta</re>
-      <t>dán beale</t>
+      <xg>
+        <x>tällä puolella</x>
+        <xt>dán bealde</xt>
+      </xg>
+      <xg>
+        <x>tälle puolelle</x>
+        <xt>dán beallai</xt>
+      </xg>
+      <xg>
+        <x>tätä puolta</x>
+        <xt>dán beale</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -221916,24 +220958,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>dievas, ollis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>täysi lehti</re>
-      <t>olles lasta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>täydessä karvassa</re>
-      <t>olles guolggas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>täydessä kasvussa</re>
-      <t>olles šattus</t>
+      <xg>
+        <x>täysi lehti</x>
+        <xt>olles lasta</xt>
+      </xg>
+      <xg>
+        <x>täydessä karvassa</x>
+        <xt>olles guolggas</xt>
+      </xg>
+      <xg>
+        <x>täydessä kasvussa</x>
+        <xt>olles šattus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -222287,12 +221323,10 @@
     <tg xml:lang="fin">
       <re>juuri täällä</re>
       <t>dáppánaga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>siellä täällä</re>
-      <t>duoppet dáppe, duoppil dáppil, duokkot dákko</t>
+      <xg>
+        <x>siellä täällä</x>
+        <xt>duoppet dáppe, duoppil dáppil, duokkot dákko</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -222505,12 +221539,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>roavis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>törkeä teko</re>
-      <t>roava dahku</t>
+      <xg>
+        <x>törkeä teko</x>
+        <xt>roava dahku</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -222798,12 +221830,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>uhkideaddji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>uhkaava tilanne</re>
-      <t>uhkideaddji dilli</t>
+      <xg>
+        <x>uhkaava tilanne</x>
+        <xt>uhkideaddji dilli</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -223407,12 +222437,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>baján</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ukkonen jyrisi</re>
-      <t>baján čearggui</t>
+      <xg>
+        <x>ukkonen jyrisi</x>
+        <xt>baján čearggui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -223677,12 +222705,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>olgguldas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ulkoinen muisti</re>
-      <t>olgguldas muitu</t>
+      <xg>
+        <x>ulkoinen muisti</x>
+        <xt>olgguldas muitu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -224489,12 +223515,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gitta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>silmät ummessa</re>
-      <t>gitta čalmmiid, čalmmit gitta</t>
+      <xg>
+        <x>silmät ummessa</x>
+        <xt>gitta čalmmiid, čalmmit gitta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -224603,12 +223627,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oppas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hän kahlaili umpilumessa</re>
-      <t>son gálašii obbasis</t>
+      <xg>
+        <x>hän kahlaili umpilumessa</x>
+        <xt>son gálašii obbasis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -224950,12 +223972,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jotakin johonkin) vajálduhttit ~ vajáldahttit, vadjáluhttit, eaippárgahttit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>unohti kirjan kouluun</re>
-      <t>vajálduhtii girjji skuvlii</t>
+      <xg>
+        <x>unohti kirjan kouluun</x>
+        <xt>vajálduhtii girjji skuvlii</xt>
+      </xg>
       <xg>
         <x>unohti tuoda kirjan kouluun</x>
         <xt>vajálduhtii buktit girjji skuvlii</xt>
@@ -224997,12 +224017,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vajálduvakeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>unohtumattomat muistot</re>
-      <t>vajálduvakeahtes muittut</t>
+      <xg>
+        <x>unohtumattomat muistot</x>
+        <xt>vajálduvakeahtes muittut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -225686,12 +224704,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>eanebut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yhä useammat</re>
-      <t>eanebut ja eanebut</t>
+      <xg>
+        <x>yhä useammat</x>
+        <xt>eanebut ja eanebut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -225702,12 +224718,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dávjjit, dávjjibut</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yhä useammin</re>
-      <t>dávjjit ja dávjjit</t>
+      <xg>
+        <x>yhä useammin</x>
+        <xt>dávjjit ja dávjjit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -225775,12 +224789,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dávjá, máŋgii, máŋgga háve</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hyvin usein</re>
-      <t>dávjjet dávjá</t>
+      <xg>
+        <x>hyvin usein</x>
+        <xt>dávjjet dávjá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -226748,12 +225760,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ođasmuvakeahtes (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>uusiutumaton luonnonvara</re>
-      <t>ođasmuvakeahtes luondduriggodat</t>
+      <xg>
+        <x>uusiutumaton luonnonvara</x>
+        <xt>ođasmuvakeahtes luondduriggodat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -226764,12 +225774,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ođasmuvvi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>uusiutuva luonnonvara</re>
-      <t>ođasmuvvi luondduriggodat</t>
+      <xg>
+        <x>uusiutuva luonnonvara</x>
+        <xt>ođasmuvvi luondduriggodat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -226800,12 +225808,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ođas, sáhka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tämänpäiväiset uutiset</re>
-      <t>otná ođđasat, otná ságat</t>
+      <xg>
+        <x>tämänpäiväiset uutiset</x>
+        <xt>otná ođđasat, otná ságat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -227522,12 +226528,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>várevuolli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vaaran alla</re>
-      <t>várevuolde ~ vári vuolde</t>
+      <xg>
+        <x>vaaran alla</x>
+        <xt>várevuolde ~ vári vuolde</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -227598,12 +226602,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váreduohki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vaaran takana</re>
-      <t>váreduohken ~ vári duohken</t>
+      <xg>
+        <x>vaaran takana</x>
+        <xt>váreduohken ~ vári duohken</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -228430,18 +227432,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>muddu, áigodat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>elämän vaiheet</re>
-      <t>eallima áigodagat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kahden vaiheilla</re>
-      <t>guoktil guovtti</t>
+      <xg>
+        <x>elämän vaiheet</x>
+        <xt>eallima áigodagat</xt>
+      </xg>
+      <xg>
+        <x>kahden vaiheilla</x>
+        <xt>guoktil guovtti</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -228814,12 +227812,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váikkuheapmi, váikkuhus</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkin vaikutuksen alaiseksi</re>
-      <t>báinnahallat masa nu</t>
+      <xg>
+        <x>joutua jonkin vaikutuksen alaiseksi</x>
+        <xt>báinnahallat masa nu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -228880,12 +227876,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váile ~ váili, vádjit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viittä vaille kuusi (kellosta)</re>
-      <t>vihtta váile guhtta</t>
+      <xg>
+        <x>viittä vaille kuusi (kellosta)</x>
+        <xt>vihtta váile guhtta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -229228,12 +228222,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váivi, giksi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vaivan arvoista</re>
-      <t>váivvi veara</t>
+      <xg>
+        <x>vaivan arvoista</x>
+        <xt>váivvi veara</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -229832,12 +228824,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bissovaš, fásta (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vakituinen virka</re>
-      <t>fásta virgi</t>
+      <xg>
+        <x>vakituinen virka</x>
+        <xt>fásta virgi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -229868,12 +228858,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(tilavuusmittana, 17,4 litraa) skeahppu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vakan vetävä astia</re>
-      <t>skehpposaš lihtti</t>
+      <xg>
+        <x>vakan vetävä astia</x>
+        <xt>skehpposaš lihtti</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -230042,12 +229030,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>válli, vuortnis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vannoa vala</re>
-      <t>vuordnut váli ~ vuordnása</t>
+      <xg>
+        <x>vannoa vala</x>
+        <xt>vuordnut váli ~ vuordnása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -230095,12 +229081,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(selventävä) čuvgejeaddji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>valaiseva esimerkki</re>
-      <t>čuvgejeaddji ovdamearka</t>
+      <xg>
+        <x>valaiseva esimerkki</x>
+        <xt>čuvgejeaddji ovdamearka</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -230265,12 +229249,10 @@
     <tg xml:lang="fin">
       <re>emävalhe</re>
       <t>čáhppes gielis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>levittää valheita</re>
-      <t>giellásiiguin johtit, giellásiid gilvit</t>
+      <xg>
+        <x>levittää valheita</x>
+        <xt>giellásiiguin johtit, giellásiid gilvit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -231037,12 +230019,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>áibbas, ollásit, mihá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oli vallan toisin</re>
-      <t>lei áibbas nuppeláhkai</t>
+      <xg>
+        <x>oli vallan toisin</x>
+        <xt>lei áibbas nuppeláhkai</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -231204,12 +230184,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ráđđejeaddji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vallitseva ominaisuus</re>
-      <t>ráđđejeaddji iešvuohta</t>
+      <xg>
+        <x>vallitseva ominaisuus</x>
+        <xt>ráđđejeaddji iešvuohta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -231230,12 +230208,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuolásteaddji, vuolušteaddji, váldi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Vilhelm Valloittaja</re>
-      <t>Vilhelm Vuolásteaddji</t>
+      <xg>
+        <x>Vilhelm Valloittaja</x>
+        <xt>Vilhelm Vuolásteaddji</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -232005,12 +230981,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>stáhtaráđđi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>valtioneuvoston kanslia</re>
-      <t>stáhtaráđi kansliija</t>
+      <xg>
+        <x>valtioneuvoston kanslia</x>
+        <xt>stáhtaráđi kansliija</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -232525,12 +231499,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>boaris</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta liian vanhana</re>
-      <t>boarášit soapmása</t>
+      <xg>
+        <x>pitää jotakuta liian vanhana</x>
+        <xt>boarášit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -232541,12 +231513,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(kulunut) oamis</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakin liian kuluneena</re>
-      <t>oamášit juoidá</t>
+      <xg>
+        <x>pitää jotakin liian kuluneena</x>
+        <xt>oamášit juoidá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -232557,12 +231527,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(ihmisestä) vuoras</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pitää jotakuta melko vanhana</re>
-      <t>vuorašit soapmása</t>
+      <xg>
+        <x>pitää jotakuta melko vanhana</x>
+        <xt>vuorašit soapmása</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -233442,12 +232410,10 @@
         <x>pöytä huojuu kolmen jalan varassa</x>
         <xt>beavdi juovzu golmma juolggi veagas</xt>
       </xg>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>elää korkotulojensa varassa</re>
-      <t>eallit reantoboađuidis veagas</t>
+      <xg>
+        <x>elää korkotulojensa varassa</x>
+        <xt>eallit reantoboađuidis veagas</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -233737,12 +232703,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>uhccivuohta, unnivuohta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>varhaislapsuudesta lähtien</re>
-      <t>uhccivuođa ~ unnivuođa rájes</t>
+      <xg>
+        <x>varhaislapsuudesta lähtien</x>
+        <xt>uhccivuođa ~ unnivuođa rájes</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -234163,12 +233127,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(jostakin) váruhit (+ lok.), várret (+ lok.), váraštit (+ lok.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>varoitti tulemasta</re>
-      <t>váruhii ~ várrii boahtimis</t>
+      <xg>
+        <x>varoitti tulemasta</x>
+        <xt>váruhii ~ várrii boahtimis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -234335,12 +233297,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nađaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>varreton viikate</re>
-      <t>nađahis liššá</t>
+      <xg>
+        <x>varreton viikate</x>
+        <xt>nađahis liššá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -234646,12 +233606,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ráhkkanit, rustát ~ rustet</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>varustautua matkaan</re>
-      <t>rustát ~ rustet mátkái</t>
+      <xg>
+        <x>varustautua matkaan</x>
+        <xt>rustát ~ rustet mátkái</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -234792,12 +233750,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gurutbeallásaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vasemmanpuoleinen liikenne</re>
-      <t>gurutbeallásaš johtalus</t>
+      <xg>
+        <x>vasemmanpuoleinen liikenne</x>
+        <xt>gurutbeallásaš johtalus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -235064,18 +234020,14 @@
     <tg xml:lang="fin">
       <t>vuostá</t>
       <t>vuostái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>väittää vastaan</re>
-      <t>nágget vuostái</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>ottaa vastaan</re>
-      <t>váldit vuostái, vuostáiváldit</t>
+      <xg>
+        <x>väittää vastaan</x>
+        <xt>nágget vuostái</xt>
+      </xg>
+      <xg>
+        <x>ottaa vastaan</x>
+        <xt>váldit vuostái, vuostáiváldit</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -235088,12 +234040,10 @@
     <tg xml:lang="fin">
       <re>(tulemisesta)</re>
       <t>ovddal</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>tuli häntä vastaan</re>
-      <t>bođii su ovddal</t>
+      <xg>
+        <x>tuli häntä vastaan</x>
+        <xt>bođii su ovddal</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -235742,12 +234692,10 @@
     <tg xml:lang="fin">
       <t>vuostá</t>
       <t>vuostái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vastoin lakia</re>
-      <t>lága vuostá</t>
+      <xg>
+        <x>vastoin lakia</x>
+        <xt>lága vuostá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -236380,18 +235328,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>(hakea tukea joltakin) doarjalit (+ ill.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vetosin asiassa häneen</re>
-      <t>bidjen ášši su ovdii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vetosin häneen</re>
-      <t>doarjalin sutnje</t>
+      <xg>
+        <x>vetosin asiassa häneen</x>
+        <xt>bidjen ášši su ovdii</xt>
+      </xg>
+      <xg>
+        <x>vetosin häneen</x>
+        <xt>doarjalin sutnje</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -237527,12 +236471,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>varrasohkar</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>veren sokeriarvot</re>
-      <t>vara sohkarárvvut</t>
+      <xg>
+        <x>veren sokeriarvot</x>
+        <xt>vara sohkarárvvut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -237613,12 +236555,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>varaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>veretön vallankaappaus</re>
-      <t>varahis válderihpan</t>
+      <xg>
+        <x>veretön vallankaappaus</x>
+        <xt>varahis válderihpan</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -237697,12 +236637,10 @@
     <tg xml:lang="fin">
       <re>vuotaa verta</re>
       <t>vardit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mennä (jollekulle) veriin</re>
-      <t>cieggat (soapmásii) varrii</t>
+      <xg>
+        <x>mennä (jollekulle) veriin</x>
+        <xt>cieggat (soapmásii) varrii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -237773,12 +236711,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>varrái, varrii, varra-, varraváldi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>verinen vääryys</re>
-      <t>varraváldi vearrivuohta</t>
+      <xg>
+        <x>verinen vääryys</x>
+        <xt>varraváldi vearrivuohta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -237819,12 +236755,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>jápma varra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>tuli verirakko</re>
-      <t>varra jámii</t>
+      <xg>
+        <x>tuli verirakko</x>
+        <xt>varra jámii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -238301,12 +237235,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vearuvuloš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>verotettavat ansiot</re>
-      <t>vearuvuloš dietnasat</t>
+      <xg>
+        <x>verotettavat ansiot</x>
+        <xt>vearuvuloš dietnasat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -238327,12 +237259,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vearoheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>verottomat tulot</re>
-      <t>vearohis boađut</t>
+      <xg>
+        <x>verottomat tulot</x>
+        <xt>vearohis boađut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -238433,12 +237363,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vearroevre</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kunnan nykyinen veroäyri</re>
-      <t>gieldda dálá vearroevre</t>
+      <xg>
+        <x>kunnan nykyinen veroäyri</x>
+        <xt>gieldda dálá vearroevre</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -239814,12 +238742,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vuogga</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>erilaisia lohivieheitä</re>
-      <t>dolgevuogga (dolgi), basteoaivi (baste, bastevuogga), muorraguolli, silkeguolli ~ silhguolli, devon</t>
+      <xg>
+        <x>erilaisia lohivieheitä</x>
+        <xt>dolgevuogga (dolgi), basteoaivi (baste, bastevuogga), muorraguolli, silkeguolli ~ silhguolli, devon</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -239916,12 +238842,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dájuhit, fillet, jorbet, jorget, jorggiidahttit, hálahit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua (jonkun) viekoittelemaksi</re>
-      <t>fillehallat (soapmásii)</t>
+      <xg>
+        <x>joutua (jonkun) viekoittelemaksi</x>
+        <xt>fillehallat (soapmásii)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -239933,12 +238857,10 @@
     <tg xml:lang="fin">
       <t>vel</t>
       <t>velá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei vielä</re>
-      <t>ii vel, ii vuos</t>
+      <xg>
+        <x>ei vielä</x>
+        <xt>ii vel, ii vuos</xt>
+      </xg>
     </tg>
   </mg>
    <mg>
@@ -240885,12 +239807,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(aavistus, haju) oatna</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>saada vihiä</re>
-      <t>oana oažžut</t>
+      <xg>
+        <x>saada vihiä</x>
+        <xt>oana oažžut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -241034,12 +239954,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vašálaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olivat vihollisia keskenään</re>
-      <t>leigga baholagaid</t>
+      <xg>
+        <x>olivat vihollisia keskenään</x>
+        <xt>leigga baholagaid</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -241180,12 +240098,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>viđátlohkái</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viidettäkymmentä käyvä henkilö</re>
-      <t>viđátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>viidettäkymmentä käyvä henkilö</x>
+        <xt>viđátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -241396,12 +240312,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vahkkosaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viikkottainen tapahtuma</re>
-      <t>vahkkosaš dáhpáhus</t>
+      <xg>
+        <x>viikkottainen tapahtuma</x>
+        <xt>vahkkosaš dáhpáhus</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -241643,12 +240557,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>maŋimuš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viime hetkessä</re>
-      <t>maŋimuš bottus</t>
+      <xg>
+        <x>viime hetkessä</x>
+        <xt>maŋimuš bottus</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -241685,24 +240597,18 @@
     <tg xml:lang="fin">
       <re>viime vuoteen asti</re>
       <t>diimmážii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viime kesänä</re>
-      <t>mannan gease, diimmá gease</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viime yönä</re>
-      <t>mannan ija</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viime viikolla</re>
-      <t>mannan vahkus</t>
+      <xg>
+        <x>viime kesänä</x>
+        <xt>mannan gease, diimmá gease</xt>
+      </xg>
+      <xg>
+        <x>viime yönä</x>
+        <xt>mannan ija</xt>
+      </xg>
+      <xg>
+        <x>viime viikolla</x>
+        <xt>mannan vahkus</xt>
+      </xg>
     </tg>
   </mg>
 </e>>
@@ -241791,12 +240697,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>diimmágeasáš, mannangeasáš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viimekesäiset muistot</re>
-      <t>diimmágeasáš muittut</t>
+      <xg>
+        <x>viimekesäiset muistot</x>
+        <xt>diimmágeasáš muittut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -242051,12 +240955,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>viissástallat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei kannata viisastella</re>
-      <t>ii gánnet viissástallat</t>
+      <xg>
+        <x>ei kannata viisastella</x>
+        <xt>ii gánnet viissástallat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -242225,18 +241127,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>skavát</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viistäen ohi</re>
-      <t>skavát meattá</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viistäen yli</re>
-      <t>skavát badjel</t>
+      <xg>
+        <x>viistäen ohi</x>
+        <xt>skavát meattá</xt>
+      </xg>
+      <xg>
+        <x>viistäen yli</x>
+        <xt>skavát badjel</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -242549,12 +241447,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ájihit, skebmet</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>joutua jonkun tai jonkin viivästyttämäksi</re>
-      <t>skebmehallat (+ ill.)</t>
+      <xg>
+        <x>joutua jonkun tai jonkin viivästyttämäksi</x>
+        <xt>skebmehallat (+ ill.)</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -242803,12 +241699,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>šattolaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>viljava vuosi</re>
-      <t>šattolaš jahki</t>
+      <xg>
+        <x>viljava vuosi</x>
+        <xt>šattolaš jahki</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -242959,12 +241853,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vilput, vilšut, liđgut, čalbmebealástallat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jatkuvasti vilkuillen</re>
-      <t>vilppu vilppu</t>
+      <xg>
+        <x>jatkuvasti vilkuillen</x>
+        <xt>vilppu vilppu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -243287,12 +242179,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>galmmas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hänellä oli vilu</re>
-      <t>sus lei galmmas, son goalui</t>
+      <xg>
+        <x>hänellä oli vilu</x>
+        <xt>sus lei galmmas, son goalui</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -243754,12 +242644,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>virgi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nimittää virkaan</re>
-      <t>nammadit virgái, virgádit</t>
+      <xg>
+        <x>nimittää virkaan</x>
+        <xt>nammadit virgái, virgádit</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -243966,12 +242854,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>virgelohpi</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olla virkavapaalla</re>
-      <t>leat virgelobis</t>
+      <xg>
+        <x>olla virkavapaalla</x>
+        <xt>leat virgelobis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -244353,12 +243239,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(aate-, muoti-) rávnnjáldat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nykyinen vihreä aatevirtaus</re>
-      <t>dálá ruonárávnnjáldat</t>
+      <xg>
+        <x>nykyinen vihreä aatevirtaus</x>
+        <xt>dálá ruonárávnnjáldat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -245040,12 +243924,10 @@
     <tg xml:lang="fin">
       <re>(nopeasti)</re>
       <t>vuoiddastit;</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>voidella leipä</re>
-      <t>vuodjaláibbi njuvdit;</t>
+      <xg>
+        <x>voidella leipä</x>
+        <xt>vuodjaláibbi njuvdit;</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -245667,24 +244549,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>seaŋga, oađđensadji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>sijata vuode</re>
-      <t>láhčit saji</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>nousta vuoteesta</re>
-      <t>lihkkat bajás</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vuoteen omana</re>
-      <t>seaŋgga buorrin</t>
+      <xg>
+        <x>sijata vuode</x>
+        <xt>láhčit saji</xt>
+      </xg>
+      <xg>
+        <x>nousta vuoteesta</x>
+        <xt>lihkkat bajás</xt>
+      </xg>
+      <xg>
+        <x>vuoteen omana</x>
+        <xt>seaŋgga buorrin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -245930,12 +244806,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(nousuvesi) ulli</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vuoksi ja luode</re>
-      <t>ulli ja fiervá</t>
+      <xg>
+        <x>vuoksi ja luode</x>
+        <xt>ulli ja fiervá</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -246417,12 +245291,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vurrolas (attr.), lotnolas (attr.)</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>kierrätyskäytössä olevat elinkeinot</re>
-      <t>lotnolas ealáhusat</t>
+      <xg>
+        <x>kierrätyskäytössä olevat elinkeinot</x>
+        <xt>lotnolas ealáhusat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247129,12 +246001,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>nohkki</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>meidän vähenevät luonnonvaramme</re>
-      <t>min nohkki luondduriggodagat</t>
+      <xg>
+        <x>meidän vähenevät luonnonvaramme</x>
+        <xt>min nohkki luondduriggodagat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247165,12 +246035,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>geahpedangelbbolaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vähennyskelpoiset tulot</re>
-      <t>geahpedangelbbolaš boađut</t>
+      <xg>
+        <x>vähennyskelpoiset tulot</x>
+        <xt>geahpedangelbbolaš boađut</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247341,12 +246209,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>luomeheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vähähillainen vuosi</re>
-      <t>luomehis jahki</t>
+      <xg>
+        <x>vähähillainen vuosi</x>
+        <xt>luomehis jahki</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247491,12 +246357,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>(adv.) uhcánii, unnánii, buoril</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei hevin anna periksi</re>
-      <t>ii buoril vuollán</t>
+      <xg>
+        <x>ei hevin anna periksi</x>
+        <xt>ii buoril vuollán</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247507,12 +246371,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>muohtaheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vähäluminen talvi</re>
-      <t>muohtahis dálvi</t>
+      <xg>
+        <x>vähäluminen talvi</x>
+        <xt>muohtahis dálvi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -247569,12 +246431,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mielkkeheapme</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vähämaitoinen lehmä</re>
-      <t>mielkkehis gussa</t>
+      <xg>
+        <x>vähämaitoinen lehmä</x>
+        <xt>mielkkehis gussa</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -248770,12 +247630,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>dohkkehahtti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>välttävä arvosana</re>
-      <t>dohkkehahtti árvosátni</t>
+      <xg>
+        <x>välttävä arvosana</x>
+        <xt>dohkkehahtti árvosátni</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -249220,12 +248078,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>váibadit, dolkadit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>häntä väsytti</re>
-      <t>sus ledje váibasat</t>
+      <xg>
+        <x>häntä väsytti</x>
+        <xt>sus ledje váibasat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -249623,12 +248479,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>vearrivuohta, verrodat, boasttuvuohta</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>verinen vääryys</re>
-      <t>varraváldi vearrivuohta</t>
+      <xg>
+        <x>verinen vääryys</x>
+        <xt>varraváldi vearrivuohta</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -249948,12 +248802,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ovccátlohkai</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yhdeksättäkymmentä käyvä henkilö</re>
-      <t>ovccátlohjahkásaš olmmoš</t>
+      <xg>
+        <x>yhdeksättäkymmentä käyvä henkilö</x>
+        <xt>ovccátlohjahkásaš olmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -250141,12 +248993,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ovttastuvvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Yhdistyneet kansakunnat</re>
-      <t>Ovttastuvvan našuvnnat</t>
+      <xg>
+        <x>Yhdistyneet kansakunnat</x>
+        <xt>Ovttastuvvan našuvnnat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -251096,12 +249946,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>oktonassii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>oleili yksikseen asunnossaan</re>
-      <t>orodii oktonassii viesustis</t>
+      <xg>
+        <x>oleili yksikseen asunnossaan</x>
+        <xt>orodii oktonassii viesustis</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -251561,12 +250409,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ovttaskas, oktonas, eaŋkil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yksittäinen ihminen</re>
-      <t>ovttaskas olmmoš, eaŋkilolmmoš</t>
+      <xg>
+        <x>yksittäinen ihminen</x>
+        <xt>ovttaskas olmmoš, eaŋkilolmmoš</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -252041,12 +250887,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>generaliseret</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ei kannata yleistää</re>
-      <t>ii gánnet generaliseret</t>
+      <xg>
+        <x>ei kannata yleistää</x>
+        <xt>ii gánnet generaliseret</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -252269,18 +251113,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>badjelmearálaš</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ylettömän paljon</re>
-      <t>mearihis ollu</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ylettömän hyvä</re>
-      <t>hirbmat buorre</t>
+      <xg>
+        <x>ylettömän paljon</x>
+        <xt>mearihis ollu</xt>
+      </xg>
+      <xg>
+        <x>ylettömän hyvä</x>
+        <xt>hirbmat buorre</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -252954,12 +251794,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>guođilmas</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ylivertaisen taitava</re>
-      <t>guođilmas čeahppi</t>
+      <xg>
+        <x>ylivertaisen taitava</x>
+        <xt>guođilmas čeahppi</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -253392,12 +252230,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>bajit luohkká</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yläluokilla (koulussa)</re>
-      <t>bajit luohkáin</t>
+      <xg>
+        <x>yläluokilla (koulussa)</x>
+        <xt>bajit luohkáin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -253794,18 +252630,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>birra</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ympäri maata</re>
-      <t>miehtá riikka</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>pyöriä ympäri</re>
-      <t>jorrat birra</t>
+      <xg>
+        <x>ympäri maata</x>
+        <xt>miehtá riikka</xt>
+      </xg>
+      <xg>
+        <x>pyöriä ympäri</x>
+        <xt>jorrat birra</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -254182,12 +253014,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>gosahit</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>minua yskitti</re>
-      <t>mu gosahii</t>
+      <xg>
+        <x>minua yskitti</x>
+        <xt>mu gosahii</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -254254,12 +253084,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>ustibaččat, skihpáraččat, verddežat, lávežat, olbmážat, gierrásaččat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>olemme ystävyksiä</re>
-      <t>letne ustibaččat</t>
+      <xg>
+        <x>olemme ystävyksiä</x>
+        <xt>letne ustibaččat</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -254332,12 +253160,10 @@
     <tg xml:lang="fin">
       <re>(osuva, sattuva, napakka)</re>
       <t>deaivil</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>napakasti sanottu</re>
-      <t>deaivilit daddjojuvvon</t>
+      <xg>
+        <x>napakasti sanottu</x>
+        <xt>deaivilit daddjojuvvon</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -254358,18 +253184,14 @@
   <mg>
     <tg xml:lang="fin">
       <t>idja</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ensi yönä</re>
-      <t>ihttá ija, boahtte ija</t>
-    </tg>
-  </mg>
-   <mg>
-    <tg xml:lang="fin">
-      <re>viime yönä</re>
-      <t>ievttá ija, mannan ija</t>
+      <xg>
+        <x>ensi yönä</x>
+        <xt>ihttá ija, boahtte ija</xt>
+      </xg>
+      <xg>
+        <x>viime yönä</x>
+        <xt>ievttá ija, mannan ija</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
@@ -255681,24 +254503,18 @@
   <mg>
     <tg xml:lang="fin">
       <t>jietna</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>yhteen ääneen</re>
-      <t>ovtta jitnii</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>alla jienain</re>
-      <t>kovalla äänellä</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hiljaisella äänellä</re>
-      <t>vuollegis jienain</t>
+      <xg>
+        <x>yhteen ääneen</x>
+        <xt>ovtta jitnii</xt>
+      </xg>
+      <xg>
+        <x>alla jienain</x>
+        <xt>kovalla äänellä</xt>
+      </xg>
+      <xg>
+        <x>hiljaisella äänellä</x>
+        <xt>vuollegis jienain</xt>
+      </xg>
     </tg>
   </mg>
   <mg>
