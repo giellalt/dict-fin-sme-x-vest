@@ -3697,7 +3697,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>olla alakuloinen</em> šlundát, šlundahit, šlundádit, šluŋgát, skurvát, skurdnját, <em>tulla alakuloiseksi</em> šlundut, šlunddagit, <em>tehdä alakuloiseksi</em> šlundudit <em>(ks. apea)</em></t>
+      <t><em>olla alakuloinen</em> šlundát, šlundahit, šlundádit, šluŋgát, skurvát, skurdnját, <em>tulla alakuloiseksi</em> šlundut, šlunddagit, <em>tehdä alakuloiseksi</em> šlundudit</t>
     </tg>
   </mg>
 </e>
@@ -7349,7 +7349,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>olla apealla mielellä</em> šlundát, <em>tehdä apeaksi</em> šlundudit, <em>lähteä liikkeelle apeana</em> šlundánit <em>(ks. alakuloinen)</em></t>
+      <t><em>olla apealla mielellä</em> šlundát, <em>tehdä apeaksi</em> šlundudit, <em>lähteä liikkeelle apeana</em> šlundánit</t>
     </tg>
   </mg>
 </e>
@@ -13703,12 +13703,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>(keritä)</em> geargat, <em>en ehtinyt vielä siitä kertomaan</em> in geargan vel das muitalit <em>(ks. keritä</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>ennättää)</em></t>
+      <t><em>(keritä)</em> geargat, <em>en ehtinyt vielä siitä kertomaan</em> in geargan vel das muitalit</t>
     </tg>
   </mg>
 </e>
@@ -15523,7 +15518,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t>cinná, cincu, cáhcu, cuohpi, gurra, gudnju, kuonná, bierggas, billu, vihttu <em>(ks. häpy)</em></t>
+      <t>cinná, cincu, cáhcu, cuohpi, gurra, gudnju, kuonná, bierggas, billu, vihttu</t>
     </tg>
   </mg>
 </e>
@@ -25958,7 +25953,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>ihmisestä</re>
-      <t>cielahit, soaibmat, lerehit, šluččuhit, attástallat, attašit <em>(ks. sättiä)</em></t>
+      <t>cielahit, soaibmat, lerehit, šluččuhit, attástallat, attašit</t>
     </tg>
   </mg>
 </e>
@@ -26801,7 +26796,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>ihmisestä</re>
-      <t>hedjonit, fuotnánit, heittohuvvat, geahnohuvvat, mannat maŋás, nuossat, nuollut, healssahuvvat, sotnat, nohkat <em>(ks. voipua)</em></t>
+      <t>hedjonit, fuotnánit, heittohuvvat, geahnohuvvat, mannat maŋás, nuossat, nuollut, healssahuvvat, sotnat, nohkat</t>
     </tg>
   </mg>
 </e>
@@ -33760,7 +33755,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>joutua (jonkun) huijaamaksi</em> lumpehallat, lummehallat, fálskehallat, fillehallat <em>(ks. petkuttaa)</em></t>
+      <t><em>joutua (jonkun) huijaamaksi</em> lumpehallat, lummehallat, fálskehallat, fillehallat</t>
     </tg>
   </mg>
 </e>
@@ -34220,12 +34215,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t>(<em>kovassa</em>) badjeloivviid juhkan, hálva juhkan, bihkkan, bihkkanaga <em>(ks. hiprakassa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>kännissä)</em></t>
+      <t>(<em>kovassa</em>) badjeloivviid juhkan, hálva juhkan, bihkkan, bihkkanaga></t>
     </tg>
   </mg>
 </e>
@@ -38364,7 +38354,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>vulogeahči, vuolledábit, heahpadat, heahpu <em>(ks. emätin)</em></t>
+      <t>vulogeahči, vuolledábit, heahpadat, heahpu</t>
     </tg>
   </mg>
 </e>
@@ -44956,7 +44946,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>itäisempi</em> nuorttat, nuorttit, ovsttat (ks. <em>idemmäksi</em>, <em>idempänä</em>)</t>
+      <t><em>itäisempi</em> nuorttat, nuorttit, ovsttat</t>
     </tg>
   </mg>
 </e>
@@ -49721,17 +49711,6 @@
       <t>njuolastit</t>
       <t>njivžulit</t>
       <t>vuoidalit</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>juosta</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>esim. sudesta</re>
-      <t>ks. <strong>jolkuttaa</strong></t>
     </tg>
   </mg>
 </e>
@@ -62561,7 +62540,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>geahčastit <em>(ks. vilkaista)</em></t>
+      <t>geahčastit</t>
     </tg>
   </mg>
 </e>
@@ -62645,7 +62624,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>geahčadit <em>(ks. vilkuilla)</em></t>
+      <t>geahčadit</t>
     </tg>
   </mg>
 </e>
@@ -62687,7 +62666,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>geahččat <em>(ks. kurkkia, vilkuilla, tuijottaa, mulkoilla, tarkkailla, tähyillä)</em></t>
+      <t>geahččat</t>
     </tg>
   </mg>
 </e>
@@ -66325,7 +66304,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>pikkukenkä</em> skuovva, <em>(iso, ruma kenkä)</em> šlohtor <em>(karvakenkä ks. nutukas)</em></t>
+      <t><em>pikkukenkä</em> skuovva, <em>(iso, ruma kenkä)</em> šlohtor</t>
     </tg>
   </mg>
 </e>
@@ -66724,7 +66703,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>gearjidit, ánuhit, vuorjat <em>(ks. ruinata)</em></t>
+      <t>gearjidit, ánuhit, vuorjat</t>
     </tg>
   </mg>
 </e>
@@ -69143,7 +69122,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>rieban <em>(ks. repo, repolainen)</em></t>
+      <t>rieban</t>
     </tg>
   </mg>
 </e>
@@ -72135,17 +72114,6 @@
       <t>barggadit</t>
       <t>áŋgiruššat</t>
       <t>gimbbaldit</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>kiirehtiä</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jotakuta</re>
-      <t>ks. <strong>hoputtaa</strong></t>
     </tg>
   </mg>
 </e>
@@ -75751,17 +75719,6 @@
 </e>
 <e>
   <lg>
-    <l>kitsas</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>subst.</re>
-      <t>ks. <strong>kitupiikki</strong></t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
     <l>kitsastella</l>
   </lg>
   <mg>
@@ -79344,7 +79301,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>guossat, guossalit, ruossat, jorralit <em>(ks. kaatua)</em></t>
+      <t>guossat, guossalit, ruossat, jorralit</t>
     </tg>
   </mg>
 </e>
@@ -85283,17 +85240,6 @@
 </e>
 <e>
   <lg>
-    <l>kulkea</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>porukassa</re>
-      <t>ks. <strong>parveilla</strong></t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
     <l>kulkeutua</l>
   </lg>
   <mg>
@@ -89692,7 +89638,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>bovdejuvvon guossi <em>(ks. kuokkavieras)</em></t>
+      <t>bovdejuvvon guossi</t>
     </tg>
   </mg>
 </e>
@@ -92192,17 +92138,6 @@
   <mg>
     <tg xml:lang="fin">
       <t>gubbeniski</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>kyrpä</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vulg.</re>
-      <t>ks. <strong>siitin</strong></t>
     </tg>
   </mg>
 </e>
@@ -98966,7 +98901,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>Matti on hänen lapsenlapsensa</re>
-      <re>Máhtte lea su mánámánná <em>(ks. lastenlapset)</em></re>
+      <re>Máhtte lea su mánámánná</re>
     </tg>
   </mg>
 </e>
@@ -99028,7 +98963,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>saada lapsia</em> mánáiduvvat, <em>menettää lapsensa</em> mánáhuvvat, <em>kaita lapsia</em> mánástallat <em>(ks. pikkulapsi, pikkupoika, pikkutyttö, penska)</em></t>
+      <t><em>saada lapsia</em> mánáiduvvat, <em>menettää lapsensa</em> mánáhuvvat, <em>kaita lapsia</em> mánástallat</t>
     </tg>
   </mg>
 </e>
@@ -104080,7 +104015,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>biergobihttá <em>(ks. sattuma)</em></t>
+      <t>biergobihttá</t>
     </tg>
   </mg>
 </e>
@@ -126557,7 +126492,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>romani, romma, mustelaš <em>(ks. romani)</em></t>
+      <t>romani, romma, mustelaš</t>
     </tg>
   </mg>
 </e>
@@ -129735,12 +129670,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>náhkki <em>(ks. vuota</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>talja)</em></t>
+      <t>náhkki</em></t>
     </tg>
   </mg>
 </e>
@@ -129994,7 +129924,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>bálkestit, bállahastit, suhppet, šlivget, šlivggastit, seaivalit, rivdnjalit <em>(ks. heittää)</em></t>
+      <t>bálkestit, bállahastit, suhppet, šlivget, šlivggastit, seaivalit, rivdnjalit</t>
     </tg>
   </mg>
 </e>
@@ -130553,12 +130483,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>báddi, oarra <em>(ks. side</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>sidos)</em></t>
+      <t>báddi, oarra</t>
     </tg>
   </mg>
 </e>
@@ -137102,22 +137027,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>(hetkisen)</em> oidnostit, <em>(jonkinvärisenä)</em> vielgát, čáhppát, fiskát, ruoksát, čeaskát, šealgát, šearrát <em>(ks. pilkahdella</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>pilkahtaa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>häämöttää</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>siintää)</em></t>
+      <t><em>(hetkisen)</em> oidnostit, <em>(jonkinvärisenä)</em> vielgát, čáhppát, fiskát, ruoksát, čeaskát, šealgát, šearrát</t>
     </tg>
   </mg>
 </e>
@@ -145680,7 +145590,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>šlivget, seaivalit <em>(ks. heittää)</em></t>
+      <t>šlivget, seaivalit</t>
     </tg>
   </mg>
 </e>
@@ -146936,7 +146846,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>subst.</re>
-      <t>gáneš, gátni, goadni, oardnji, gorremaš, galbmagáhkkor <em>(ks. vilukissa)</em></t>
+      <t>gáneš, gátni, goadni, oardnji, gorremaš, galbmagáhkkor</t>
     </tg>
   </mg>
 </e>
@@ -147848,7 +147758,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>lehdessä</re>
-      <t>spálta, čuolda <em>(ks. metsäpalsta)</em></t>
+      <t>spálta, čuolda</t>
     </tg>
   </mg>
 </e>
@@ -149751,12 +149661,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>vulg.</re>
-      <t>baika <em>(ks. uloste</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>kakka)</em></t>
+      <t>baika</t>
     </tg>
   </mg>
 </e>
@@ -149767,12 +149672,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>vulg.</re>
-      <t>baikit <em>(ks. ulostaa</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>kakata)</em></t>
+      <t>baikit</em></t>
     </tg>
   </mg>
 </e>
@@ -151536,16 +151436,6 @@
     <tg xml:lang="fin">
       <re>rikkaruohoja kasvimaasta</re>
       <t>hilsket</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>perata</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <t><em>ks.</em> <strong>suolia, suolistaa</strong></t>
     </tg>
   </mg>
 </e>
@@ -155154,7 +155044,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>skuhččet, skuožurdit, skurbat, skudnet, čuoggut <em>(ks. härnätä)</em></t>
+      <t>skuhččet, skuožurdit, skurbat, skudnet, čuoggut</t>
     </tg>
   </mg>
 </e>
@@ -157107,17 +156997,6 @@
   <mg>
     <tg xml:lang="fin">
       <t>njurgganas</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>pillu</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vulg.</re>
-      <t>ks. <strong>emätin</strong></t>
     </tg>
   </mg>
 </e>
@@ -163919,17 +163798,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>mutisten</re>
-      <t>ks. <strong>mutista</strong></t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>puhua</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
       <re>nopeasti</re>
       <t>golgat</t>
       <t>duoldat</t>
@@ -168770,12 +168638,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>(pyydellä)</em> bivddašit, bivddildit <em>(ks. metsästää</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>kalastaa)</em></t>
+      <t><em>(pyydellä)</em> bivddašit, bivddildit</t>
     </tg>
   </mg>
 </e>
@@ -171698,7 +171561,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>tulla pörröiseksi</em> barffagit, barfut, <em>olla jossakin pörröisenä</em> barfát, <em>kulkea pörröisenä</em> barffuhit <em>(ks. tuuhea)</em></t>
+      <t><em>tulla pörröiseksi</em> barffagit, barfut, <em>olla jossakin pörröisenä</em> barfát, <em>kulkea pörröisenä</em> barffuhit</t>
     </tg>
   </mg>
 </e>
@@ -178973,7 +178836,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>riidu, nággu, diggi, gižži, gižžu, mozzi, vea(r)dni <em>(ks. epäsopu)</em></t>
+      <t>riidu, nággu, diggi, gižži, gižžu, mozzi, vea(r)dni</t>
     </tg>
   </mg>
 </e>
@@ -179190,7 +179053,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>pitää jotakuta liian rikkaana</em> rikkášit soapmása, <em>olla olevinaan rikas</em> rikkástallat <em>(ks. pororikas)</em></t>
+      <t><em>pitää jotakuta liian rikkaana</em> rikkášit soapmása, <em>olla olevinaan rikas</em> rikkástallat</t>
     </tg>
   </mg>
 </e>
@@ -182451,7 +182314,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>vuorjat, ánuhit, goardit, vuorjjildit, mággudit <em>(ks. kerjätä)</em></t>
+      <t>vuorjat, ánuhit, goardit, vuorjjildit, mággudit</t>
     </tg>
   </mg>
 </e>
@@ -188154,12 +188017,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>buohcuvuohta, buohcu, buozalmas, dávda, suohtta, váddu, vihki <em>(ks. tauti</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>perinnöllinen sairaus)</em></t>
+      <t>buohcuvuohta, buohcu, buozalmas, dávda, suohtta, váddu, vihki</t>
     </tg>
   </mg>
 </e>
@@ -195535,7 +195393,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t>cihppa, buohča, buoža, guoccat, áirras, vearki <em>(ks. kikkeli)</em></t>
+      <t>cihppa, buohča, buoža, guoccat, áirras, vearki</t>
     </tg>
   </mg>
 </e>
@@ -198314,7 +198172,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>sidni <em>(ks. sinni)</em></t>
+      <t>sidni</t>
     </tg>
   </mg>
 </e>
@@ -198324,7 +198182,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>sidnái <em>(ks. sinnikäs)</em></t>
+      <t>sidnái</t>
     </tg>
   </mg>
 </e>
@@ -204462,16 +204320,6 @@
       <t>sohkabealleorgánat, vulogeahči</t>
     </tg>
   </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t><em>naisen sukupuolielimet (ks. häpy</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>emätin)</em></t>
-    </tg>
-  </mg>
 </e>
 <e>
   <lg>
@@ -205072,7 +204920,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>upottava suo</re>
-      <re>vujohatjeaggi <em>(ks. korpisuo; räme; letto; neva)</em></re>
+      <re>vujohatjeaggi</re>
     </tg>
   </mg>
 </e>
@@ -206449,7 +206297,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>suoraa tietä</re>
-      <t>njuolgga ~ njuolga, hálga <em>(ks. oikopäätä)</em></t>
+      <t>njuolgga ~ njuolga, hálga</t>
     </tg>
   </mg>
 </e>
@@ -208871,7 +208719,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>kovasydäminen</re>
-      <t>garas, goavvi, juvdui, juvdu, váimmuheapme, galbmaváimmot <em>(ks. tyly)</em></t>
+      <t>garas, goavvi, juvdui, juvdu, váimmuheapme, galbmaváimmot</t>
     </tg>
   </mg>
 </e>
@@ -210707,16 +210555,6 @@
 </e>
 <e>
   <lg>
-    <l>syys</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>ks. syksy</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
     <l>syysilta</l>
   </lg>
   <mg>
@@ -210987,28 +210825,6 @@
       <t>gazzat</t>
       <t>goaivuladdat</t>
       <t>šluhpat</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>syödä</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>ahmien</re>
-      <t>ks. <strong>ahmia</strong></t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>syödä</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>mässäillen</re>
-      <t>ks. <strong>mässäillä</strong></t>
     </tg>
   </mg>
 </e>
@@ -212016,7 +211832,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>seaŋga <em>(ks. vuode)</em></t>
+      <t>seaŋga</t>
     </tg>
   </mg>
 </e>
@@ -212341,7 +212157,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>bealkkehit, cielahit, soaibmat, lerehit, dierdidit <em>(ks. soimata)</em></t>
+      <t>bealkkehit, cielahit, soaibmat, lerehit, dierdidit</t>
     </tg>
   </mg>
 </e>
@@ -216500,17 +216316,6 @@
 </e>
 <e>
   <lg>
-    <l>taluttaa</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>poroa</re>
-      <t>ks. <strong>laitistaa</strong></t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
     <l>talvehtia</l>
   </lg>
   <mg>
@@ -219366,7 +219171,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>(kulkutauti)</em> golgodávda, <em>(kuolemantauti)</em> jápmindávda, <em>(perinnöllinen tauti)</em> árbedávda, bearri, sogadávda, <em>(ruttotauti)</em> rohttu, rohttudávda, <em>(tarttuva tauti)</em> njoammudávda, logahasdávda <em>(ks. sairaus)</em></t>
+      <t><em>(kulkutauti)</em> golgodávda, <em>(kuolemantauti)</em> jápmindávda, <em>(perinnöllinen tauti)</em> árbedávda, bearri, sogadávda, <em>(ruttotauti)</em> rohttu, rohttudávda, <em>(tarttuva tauti)</em> njoammudávda, logahasdávda</t>
     </tg>
   </mg>
 </e>
@@ -224162,7 +223967,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>skutnjat, skunjaidit, skuhčat, skužaidit, duhraidit <em>(ks. nauraa)</em></t>
+      <t>skutnjat, skunjaidit, skuhčat, skužaidit, duhraidit</t>
     </tg>
   </mg>
 </e>
@@ -227328,7 +227133,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>tuberkulosa <em>(ks. keuhkotauti)</em></t>
+      <t>tuberkulosa</t>
     </tg>
   </mg>
 </e>
@@ -233042,7 +232847,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>biegga <em>(ks. tuulenhenki, tuulenpuuska, myrsky)</em></t>
+      <t>biegga</t>
     </tg>
   </mg>
 </e>
@@ -241328,7 +241133,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>ealjáruššat, ealjuhit, barggadit, áŋgiruššat, vuoiddadit, gimbbaldit <em>(ks. rehkiä)</em></t>
+      <t>ealjáruššat, ealjuhit, barggadit, áŋgiruššat, vuoiddadit, gimbbaldit</t>
     </tg>
   </mg>
 </e>
@@ -242710,7 +242515,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>vádjolit, vájaldit ~ vájuldit, vánddardit, johtit <em>(ks. retkeillä)</em></t>
+      <t>vádjolit, vájaldit ~ vájuldit, vánddardit, johtit</t>
     </tg>
   </mg>
 </e>
@@ -248686,7 +248491,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>menettää varkaalle</em> suoládahttit, <em>syyttää varkaaksi</em> suollagahttit <em>(ks. porovaras)</em></t>
+      <t><em>menettää varkaalle</em> suoládahttit, <em>syyttää varkaaksi</em> suollagahttit</t>
     </tg>
   </mg>
 </e>
@@ -248721,21 +248526,6 @@
   <mg>
     <tg xml:lang="fin">
       <t><em>tulla varastetuksi</em> suoláduvvat</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t><em>(poroja)</em> speadjat <em>(ks. näpistellä</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>vohkia</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t>kähveltää)</em></t>
     </tg>
   </mg>
 </e>
@@ -260497,7 +260287,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>bálkestit, bállahastit, suhppet <em>(ks. heittää)</em></t>
+      <t>bálkestit, bállahastit, suhppet</t>
     </tg>
   </mg>
 </e>
@@ -260833,17 +260623,6 @@
       <t>hearvamuitalus</t>
       <t>skálkasáhka</t>
       <t>vitsa</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>vittu</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>vulg.</re>
-      <t>ks. <strong>emätin</strong></t>
     </tg>
   </mg>
 </e>
@@ -265562,7 +265341,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t><em>helposti väsyvä</em> váibi, váibil, váibalas, viessalas, viessi, viessil <em>(ks. voipua)</em></t>
+      <t><em>helposti väsyvä</em> váibi, váibil, váibalas, viessalas, viessi, viessil</t>
     </tg>
   </mg>
 </e>
@@ -266132,7 +265911,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>ađadákti, ađa <em>(ks. konttiluu)</em></t>
+      <t>ađadákti, ađa</t>
     </tg>
   </mg>
 </e>
@@ -267231,17 +267010,6 @@
     <tg xml:lang="fin">
       <re>joukkoon, seuraan</re>
       <t>searvat</t>
-    </tg>
-  </mg>
-</e>
-<e>
-  <lg>
-    <l>yhtyä</l>
-  </lg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>jonkun mielipiteeseen</re>
-      <t>ks. <strong>myöntyä</strong></t>
     </tg>
   </mg>
 </e>
