@@ -11810,7 +11810,8 @@
       <t>jalgadas</t>
       <t>jalga</t>
       <t>jalggáš</t>
-      <t>jalga eana(n)</t>
+      <t>jalga eana</t>
+      <t>jalga eanan</t>
     </tg>
   </mg>
 </e>
@@ -23235,7 +23236,10 @@
   <mg>
     <tg xml:lang="fin">
       <re>joutua jonkun hakkaamaksi</re>
-      <t>cápmáhallat (+ ill.), huškkohallat (+ ill.), čorpmahallat (+ill.), čievččahallat (+ ill.)</t>
+      <t>cápmáhallat (+ ill.)</t>
+      <t>huškkohallat (+ ill.)</t>
+      <t>čorpmahallat (+ill.)</t>
+      <t>čievččahallat (+ ill.)</t>
     </tg>
   </mg>
 </e>
@@ -31332,13 +31336,15 @@
       <re>lähteä hiihtämään</re>
       <t>čuoigalit</t>
       <t>čuoigát</t>
-      <xg>
-        <x>käväistä hiihtämällä</x>
-        <xt>(jossakin) čuoiggadit</xt>
-      </xg>
     </tg>
   </mg>
-   <mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>käväistä hiihtämällä (jossakin)</re>
+      <t>čuoiggadit</t>
+    </tg>
+  </mg>
+  <mg>
     <tg xml:lang="fin">
       <re>ajaa takaa hiihtämällä</re>
       <t>čuoiggahit</t>
@@ -49387,7 +49393,8 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>joavdelas eana(n)</t>
+      <t>joavdelas eana</t>
+      <t>joavdelas eanan</t>
     </tg>
   </mg>
 </e>
@@ -96261,7 +96268,25 @@
   <mg>
     <tg xml:lang="fin">
       <re>käväistä</re>
-      <t>finadit, fitnalit, finihit, finadastit, mannalit, ealašit, guovlladit, čáŋadit, coggalit, nahkehit; váccašit, viegadit, čuskkodit, čuoiggadit, vuojašit</t>
+      <t>finadit</t>
+      <t>fitnalit</t>
+      <t>finihit</t>
+      <t>finadastit</t>
+      <t>mannalit</t>
+      <t>ealašit</t>
+      <t>guovlladit</t>
+      <t>čáŋadit</t>
+      <t>coggalit</t>
+      <t>nahkehit</t>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <t>váccašit</t>
+      <t>viegadit</t>
+      <t>čuskkodit</t>
+      <t>čuoiggadit</t>
+      <t>vuojašit</t>
     </tg>
   </mg>
 </e>
@@ -223865,10 +223890,13 @@
     <tg xml:lang="fin">
       <re>muuten kuin suustaan, kalasta</re>
       <t>njahppasit</t>
-      <xg>
-        <x>koukkuun tarttuneena</x>
-        <xt>(muusta kohdasta kuin suustaan) njahppagasas, njahppasis</xt>
-      </xg>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>koukkuun tarttuneena (muusta kohdasta kuin suustaan)</re>
+      <t>njahppagasas</t>
+      <t>njahppasis</t>
     </tg>
   </mg>
 </e>
@@ -224198,7 +224226,8 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>duolba eana(n)</t>
+      <t>duolba eana</t>
+      <t>duolba eanan</t>
     </tg>
   </mg>
   <mg>
