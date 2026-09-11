@@ -32287,15 +32287,15 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>+ adj., + adv.</re>
-      <re>hirveän hyvä</re>
-      <t>hirbmat buorre</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>hirveän kaukana</re>
-      <t>hirbmat guhkkin</t>
+      <t>hirbmat</t>
+      <xg>
+        <x>hirveän hyvä</x>
+        <xt>hirbmat buorre</xt>
+      </xg>
+      <xg>
+        <x>hirveän kaukana</x>
+        <xt>hirbmat guhkkin</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -62109,7 +62109,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>kasveja </re>
+      <re>kasveja</re>
       <t>šaddadit</t>
     </tg>
   </mg>
@@ -68225,20 +68225,13 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>eläimistä</re>
-      <re>saada keskenmeno</re>
+      <re>eläimistä: saada keskenmeno</re>
       <t>reitot</t>
     </tg>
   </mg>
-</e>
-<e>
-  <lg>
-    <l>keskenmeno</l>
-  </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>naisesta</re>
-      <re>saada keskenmeno</re>
+      <re>naisesta: saada keskenmeno</re>
       <t>cuovkanit</t>
     </tg>
   </mg>
@@ -74857,15 +74850,14 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>tietok.</re>
-      <re>(sisään)</re>
+      <re>(tietok.) sisään</re>
       <t>logget sisa</t>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <re>ulos</re>
-      <re>logget eret</re>
+      <re>(tietok.) ulos</re>
+      <t>logget eret</t>
     </tg>
   </mg>
 </e>
@@ -85660,7 +85652,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>taivutus</re>
       <re>kuka</re>
       <t>gii</t>
     </tg>
@@ -85702,7 +85693,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>taivutus</re>
       <re>kukaan</re>
       <t>giige</t>
     </tg>
@@ -99080,8 +99070,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <re>langokset</re>
-      <re>keskenään</re>
+      <re>langokset (keskenään)</re>
       <t>mágažat</t>
     </tg>
   </mg>
@@ -99873,7 +99862,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>isoäidille</re>
-      <re>áhkkut</re>
+      <t>áhkkut</t>
     </tg>
   </mg>
 </e>
@@ -99884,12 +99873,10 @@
   <mg>
     <tg xml:lang="fin">
       <t>mánámánná</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>Matti on hänen lapsenlapsensa</re>
-      <re>Máhtte lea su mánámánná</re>
+      <xg>
+        <x>Matti on hänen lapsenlapsensa</x>
+        <xt>Máhtte lea su mánámánná</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -105325,7 +105312,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>adv.</re>
       <re>(hetkellisesti)</re>
       <t>šnjuoggut</t>
     </tg>
@@ -105333,7 +105319,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>pysyvästi</re>
-      <re>šnjuokkil</re>
+      <t>šnjuokkil</t>
     </tg>
   </mg>
 </e>
@@ -108156,7 +108142,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>erilaisia</re>
       <re>(pienikokoinen)</re>
       <t>diddi</t>
     </tg>
@@ -117315,14 +117300,13 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>lisääntymiskyvytön</re>
-      <re>maho eläin</re>
+      <re>lisääntymiskyvytön eläin</re>
       <t>stáinnat</t>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <re>maho porovaadin</re>
+      <re>lisääntymiskyvytön porovaadin</re>
       <t>rotnu</t>
     </tg>
   </mg>
@@ -127705,7 +127689,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>mustaihoinen</re>
       <re>mustaihoinen henkilö</re>
       <t>čáhppesvarat olmmoš</t>
     </tg>
@@ -138237,9 +138220,8 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <re>jonkun) nähden</re>
-      <re>soapmása</re>
-      <t>oaidnut</t>
+      <re>(jonkun) nähden</re>
+      <t>(soapmása) oaidnut</t>
       <xg>
         <x>minun nähteni</x>
         <xt>mu oaidnut, oainnedettiin</xt>
@@ -167377,8 +167359,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>silmästä</re>
-      <re>ruveta punoittamaan</re>
+      <re>silmästä: ruveta punoittamaan</re>
       <t>jieltut</t>
     </tg>
   </mg>
@@ -199194,7 +199175,6 @@
   <mg>
     <tg xml:lang="fin">
       <re>silmukalla</re>
-      <re>adv.</re>
       <t>fárfful</t>
     </tg>
   </mg>
@@ -201729,7 +201709,6 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>rukoilla</re>
       <re>rukoilla iltarukous</re>
       <t>sivdnidit nohkkat</t>
     </tg>
@@ -206562,9 +206541,11 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>olla varaa johonkin</re>
-      <re>minulla ei ole varaa lainata sinulle noin paljon</re>
-      <t>in suitte lonet dutnje nie ollu</t>
+      <t>olla varaa johonkin</t>
+      <xg>
+        <x>minulla ei ole varaa lainata sinulle noin paljon</x>
+        <xt>in suitte lonet dutnje nie ollu</xt>
+      </xg>
     </tg>
   </mg>
 </e>
@@ -207759,7 +207740,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>upottava suo</re>
-      <re>vujohatjeaggi</re>
+      <t>vujohatjeaggi</t>
     </tg>
   </mg>
 </e>
@@ -209943,15 +209924,14 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <re>suusta</re>
-      <re>(hetkellisesti)</re>
+      <re>suusta (hetkellisesti)</re>
       <t>smuhččut</t>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
       <re>luonnostaan</re>
-      <re>smuhčil</re>
+      <t>smuhčil</t>
     </tg>
   </mg>
 </e>
@@ -243029,7 +243009,13 @@
   <mg>
     <tg xml:lang="fin">
       <re>unten maille</re>
-      <t>nagirvárrái <strong>unikeko</strong>nagirseahkka</t>
+      <t>nagirvárrái</t>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>unikeko</re>
+      <t>nagirseahkka</t>
     </tg>
   </mg>
 </e>
@@ -258953,7 +258939,6 @@
   <mg>
     <tg xml:lang="fin">
       <re>vetosolmussa</re>
-      <re>adv.</re>
       <t>snurttul</t>
     </tg>
   </mg>
