@@ -1104,14 +1104,14 @@
   <mg>
     <tg xml:lang="fin">
       <re>erilaisia ahkioita</re>
-      <t>vuodjeng.</t>
-      <t>ráidog.</t>
-      <t>liigeg.</t>
-      <t>lohkkeg.</t>
-      <t>gálvog.</t>
-      <t>gávdneg.</t>
-      <t>goahteg.</t>
-      <t>girkog.</t>
+      <t>vuodjengeres</t>
+      <t>ráidogeres</t>
+      <t>liigegeres</t>
+      <t>lohkkegeres</t>
+      <t>gálvogeres</t>
+      <t>gávdnegeres</t>
+      <t>goahtegeres</t>
+      <t>girkogeres</t>
       <t>veđor</t>
       <t>vehtor</t>
       <t>bulki</t>
@@ -227948,7 +227948,6 @@
     <tg xml:lang="fin">
       <re>kuolemaa</re>
       <t>jámadit</t>
-      <t>jne.</t>
     </tg>
   </mg>
 </e>
@@ -237625,7 +237624,6 @@
     <tg xml:lang="fin">
       <re>t. tännemmäksi</re>
       <t>dábbánit</t>
-      <t>jne.</t>
     </tg>
   </mg>
 </e>
@@ -257954,8 +257952,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>olla varaa (tehdä jotakin)</re>
-      <t t_type="Phrase">suitit (+ inf.</t>
-      <t>akk.)</t>
+      <t t_type="Phrase">suitit</t>
     </tg>
   </mg>
   <mg>
@@ -261720,12 +261717,12 @@
       <t>gulca</t>
       <t>gulpu</t>
       <t>niibebalča</t>
-      <t>n.nálku</t>
-      <t>n.gálku</t>
-      <t>n.gohči</t>
-      <t>n.skohči</t>
-      <t>n.norki</t>
-      <t>n.dulpi</t>
+      <t>niibenálku</t>
+      <t>niibegálku</t>
+      <t>niibegohči</t>
+      <t>niibeskohči</t>
+      <t>niibenorki</t>
+      <t>niibedulpi</t>
     </tg>
   </mg>
 </e>
@@ -262198,9 +262195,9 @@
     <tg xml:lang="fin">
       <re>erilaisia veneitä</re>
       <t>johkafanas</t>
-      <t>deatnof.</t>
-      <t>jávref.</t>
-      <t>mearraf.</t>
+      <t>deatnofanas</t>
+      <t>jávrefanas</t>
+      <t>mearrafanas</t>
       <t>gárbbis</t>
       <t>báska</t>
       <t>gehpot</t>
@@ -265910,7 +265907,8 @@
   <mg>
     <tg xml:lang="fin">
       <t>sáttačuoigan</t>
-      <t t_type="Phrase">vuorročuoigan. stafeahtta</t>
+      <t>vuorročuoigan</t>
+      <t>stafeahtta</t>
     </tg>
   </mg>
 </e>
