@@ -193752,12 +193752,6 @@
       </xg>
     </tg>
   </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <re>saattaa1</re>
-      <t>saattaa2</t>
-    </tg>
-  </mg>
 </e>
 <e>
   <lg>
@@ -261706,8 +261700,9 @@
       <t>sámeniibi</t>
       <t>beavdeniibi</t>
       <t>láibeniibi</t>
-      <t t_type="Phrase">lađasniibi (liŋkoniibi</t>
-      <t>máhcastanniibi)</t>
+      <t>lađasniibi</t>
+      <t>liŋkoniibi</t>
+      <t>máhcastanniibi</t>
     </tg>
   </mg>
   <mg>
