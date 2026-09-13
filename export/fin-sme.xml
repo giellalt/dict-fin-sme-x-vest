@@ -17552,9 +17552,9 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>eará láhkai</t>
-      <t>eará ládje</t>
-      <t>iežá láhkai</t>
+      <t t_type="Phrase">eará láhkai</t>
+      <t t_type="Phrase">eará ládje</t>
+      <t t_type="Phrase">iežá láhkai</t>
     </tg>
   </mg>
 </e>
@@ -35794,7 +35794,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>fuomášan veara</t>
+      <t t_type="Phrase">fuomášan veara</t>
     </tg>
   </mg>
 </e>
@@ -48955,7 +48955,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>juoga láhkai</t>
+      <t t_type="Phrase">juoga láhkai</t>
       <t t_type="Phrase">juoga ládje</t>
       <t t_type="Phrase">mo nu</t>
     </tg>
@@ -64544,7 +64544,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>melko kauan</re>
-      <t>guhká láhkai</t>
+      <t t_type="Phrase">guhká láhkai</t>
       <t t_type="Phrase">viehka guhká</t>
     </tg>
   </mg>
@@ -89624,8 +89624,8 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>albma láhkai</t>
-      <t>albma ládje</t>
+      <t t_type="Phrase">albma láhkai</t>
+      <t t_type="Phrase">albma ládje</t>
       <t t_type="Phrase">ortnet mielde</t>
       <t>vuđolaččat</t>
     </tg>
@@ -127872,7 +127872,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>morseš guovttos</t>
+      <t t_type="Phrase">morseš guovttos</t>
     </tg>
   </mg>
 </e>
@@ -131200,10 +131200,10 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t>eará láhkai</t>
-      <t>iežá láhkai</t>
-      <t>eará ládje</t>
-      <t>iežá ládje</t>
+      <t t_type="Phrase">eará láhkai</t>
+      <t t_type="Phrase">iežá láhkai</t>
+      <t t_type="Phrase">eará ládje</t>
+      <t t_type="Phrase">iežá ládje</t>
     </tg>
   </mg>
 </e>
@@ -131752,7 +131752,7 @@
     <tg xml:lang="fin">
       <re>myytävänä</re>
       <t>vuovdimassii</t>
-      <t>vuovdin láhkai</t>
+      <t t_type="Phrase">vuovdin láhkai</t>
     </tg>
   </mg>
   <mg>
@@ -131892,7 +131892,7 @@
     <tg xml:lang="fin">
       <re>adv.</re>
       <t>vuovdimassii</t>
-      <t>vuovdin láhkai</t>
+      <t t_type="Phrase">vuovdin láhkai</t>
     </tg>
   </mg>
 </e>
@@ -137076,7 +137076,7 @@
   <mg>
     <tg xml:lang="fin">
       <t>illá</t>
-      <t>bahá láhkai</t>
+      <t t_type="Phrase">bahá láhkai</t>
       <t t_type="Phrase">bás ládje</t>
       <t t_type="Phrase">birzziid bárzziid</t>
       <t t_type="Phrase">aiddo dal de</t>
@@ -137326,7 +137326,7 @@
   <mg>
     <tg xml:lang="fin">
       <t>illá</t>
-      <t>bahá láhkai</t>
+      <t t_type="Phrase">bahá láhkai</t>
       <t t_type="Phrase">bás ládje</t>
       <t t_type="Phrase">birzziid bárzziid</t>
       <t t_type="Phrase">aiddo dal de</t>
@@ -141714,7 +141714,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>oaidnin láhkai</t>
+      <t t_type="Phrase">oaidnin láhkai</t>
       <t>oidnosis</t>
     </tg>
   </mg>
@@ -162664,7 +162664,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>biro láhkai</t>
+      <t t_type="Phrase">biro láhkai</t>
       <t t_type="Phrase">biro ládje</t>
       <xg>
         <x>siellä oli pirusti itikoita</x>
@@ -196000,7 +196000,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>seamma láhkai</t>
+      <t t_type="Phrase">seamma láhkai</t>
       <t t_type="Phrase">seamma vuogi mielde</t>
       <t t_type="Phrase">seamma ládje</t>
     </tg>
@@ -223107,7 +223107,7 @@
     <tg xml:lang="fin">
       <t>ruovttogežiid</t>
       <t>ruovttotgežiid</t>
-      <t>ruovtto ládje</t>
+      <t t_type="Phrase">ruovtto ládje</t>
       <t>ruovttoguvlui</t>
     </tg>
   </mg>
@@ -233742,16 +233742,16 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>nuppe láhkai</t>
-      <t>nuppe ládje</t>
+      <t t_type="Phrase">nuppe láhkai</t>
+      <t t_type="Phrase">nuppe ládje</t>
     </tg>
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t>eará láhkai</t>
-      <t>eará ládje</t>
-      <t>iežá láhkai</t>
-      <t>iežá ládje</t>
+      <t t_type="Phrase">eará láhkai</t>
+      <t t_type="Phrase">eará ládje</t>
+      <t t_type="Phrase">iežá láhkai</t>
+      <t t_type="Phrase">iežá ládje</t>
     </tg>
   </mg>
 </e>
@@ -253577,7 +253577,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>váivve veara</t>
+      <t t_type="Phrase">váivve veara</t>
       <t>váivveara</t>
       <xg>
         <x>ei ole vaivan arvoista sinne lähteä</x>
@@ -253673,8 +253673,8 @@
     <tg xml:lang="fin">
       <t>illá</t>
       <t>illálahkai</t>
-      <t>illá ládje</t>
-      <t>bahá láhkai</t>
+      <t t_type="Phrase">illá ládje</t>
+      <t t_type="Phrase">bahá láhkai</t>
       <t>básládje</t>
       <t t_type="Phrase">birzziid bárzziid</t>
       <t t_type="Phrase">aiddo dal de</t>
@@ -257245,8 +257245,8 @@
   <mg>
     <tg xml:lang="fin">
       <re>molemmat vanhemmat</re>
-      <t>vánhen guovttos</t>
-      <t>váhnen guovttos</t>
+      <t t_type="Phrase">vánhen guovttos</t>
+      <t t_type="Phrase">váhnen guovttos</t>
     </tg>
   </mg>
 </e>
