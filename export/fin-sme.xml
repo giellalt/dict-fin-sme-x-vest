@@ -683,7 +683,7 @@
 </e>
 <e>
   <lg>
-    <l>aborigini</l>
+    <l comment="Not in analyzer">aborigini</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -1313,7 +1313,7 @@
 </e>
 <e>
   <lg>
-    <l>ahtojäinen</l>
+    <l comment="Not in analyzer">ahtojäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -1355,7 +1355,7 @@
 </e>
 <e>
   <lg>
-    <l>ahvenenmaalainen</l>
+    <l comment="Not in analyzer">ahvenenmaalainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -1486,7 +1486,7 @@
 </e>
 <e>
   <lg>
-    <l>aihkimänty</l>
+    <l comment="Not in analyzer">aihkimänty</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -1615,7 +1615,7 @@
 </e>
 <e>
   <lg>
-    <l>aikaaviepä</l>
+    <l comment="Not in analyzer">aikaaviepä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -2252,7 +2252,7 @@
 </e>
 <e>
   <lg>
-    <l>aitatyö</l>
+    <l comment="Not in analyzer">aitatyö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3040,7 +3040,7 @@
 </e>
 <e>
   <lg>
-    <l>ajoneuvoton</l>
+    <l comment="Not in analyzer">ajoneuvoton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3060,7 +3060,7 @@
 </e>
 <e>
   <lg>
-    <l>ajo-oikeus</l>
+    <l comment="Not in analyzer">ajo-oikeus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3106,7 +3106,7 @@
 </e>
 <e>
   <lg>
-    <l>ajoreki</l>
+    <l comment="Not in analyzer">ajoreki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3128,7 +3128,7 @@
 </e>
 <e>
   <lg>
-    <l>ajosauva</l>
+    <l comment="Not in analyzer">ajosauva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3299,7 +3299,7 @@
 </e>
 <e>
   <lg>
-    <l>akkilansaame</l>
+    <l comment="Not in analyzer">akkilansaame</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3727,7 +3727,7 @@
 </e>
 <e>
   <lg>
-    <l>alaleuanluu</l>
+    <l comment="Not in analyzer">alaleuanluu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -3906,7 +3906,7 @@
 </e>
 <e>
   <lg>
-    <l>alapuolitse</l>
+    <l comment="Not in analyzer">alapuolitse</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -6292,7 +6292,7 @@
 </e>
 <e>
   <lg>
-    <l>ampumaseura</l>
+    <l comment="Not in analyzer">ampumaseura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -6721,7 +6721,7 @@
 </e>
 <e>
   <lg>
-    <l>anoppineen</l>
+    <l comment="Not in analyzer">anoppineen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -7540,7 +7540,7 @@
 </e>
 <e>
   <lg>
-    <l>apuluokka</l>
+    <l comment="Not in analyzer">apuluokka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -8168,7 +8168,7 @@
 </e>
 <e>
   <lg>
-    <l>arokana</l>
+    <l comment="Not in analyzer">arokana</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -9723,7 +9723,7 @@
 </e>
 <e>
   <lg>
-    <l>asuinmaa</l>
+    <l comment="Not in analyzer">asuinmaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -9815,7 +9815,7 @@
 </e>
 <e>
   <lg>
-    <l>asumiskelpoinen</l>
+    <l comment="Not in analyzer">asumiskelpoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -10031,7 +10031,7 @@
 </e>
 <e>
   <lg>
-    <l>asuskella</l>
+    <l comment="Not in analyzer">asuskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -10979,7 +10979,7 @@
 </e>
 <e>
   <lg>
-    <l>autotie</l>
+    <l comment="Not in analyzer">autotie</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -11000,7 +11000,7 @@
 </e>
 <e>
   <lg>
-    <l>autsi</l>
+    <l comment="Not in analyzer">autsi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -11194,7 +11194,7 @@
 </e>
 <e>
   <lg>
-    <l>avarasti</l>
+    <l comment="Not in analyzer">avarasti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -11502,7 +11502,7 @@
 </e>
 <e>
   <lg>
-    <l>avokela</l>
+    <l comment="Not in analyzer">avokela</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -12400,7 +12400,7 @@
 </e>
 <e>
   <lg>
-    <l>dentaalinen</l>
+    <l comment="Not in analyzer">dentaalinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -12461,7 +12461,7 @@
 </e>
 <e>
   <lg>
-    <l>devoni</l>
+    <l comment="Not in analyzer">devoni</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -13152,7 +13152,7 @@
 </e>
 <e>
   <lg>
-    <l>edunjättäjä</l>
+    <l comment="Not in analyzer">edunjättäjä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -14237,7 +14237,7 @@
 </e>
 <e>
   <lg>
-    <l>eliniäksi</l>
+    <l comment="Not in analyzer">eliniäksi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -14343,7 +14343,7 @@
 </e>
 <e>
   <lg>
-    <l>elinolot</l>
+    <l comment="Not in analyzer">elinolot</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -14600,7 +14600,7 @@
 </e>
 <e>
   <lg>
-    <l>eltaannuttaa</l>
+    <l comment="Not in analyzer">eltaannuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -15141,7 +15141,7 @@
 </e>
 <e>
   <lg>
-    <l>emivartalo</l>
+    <l comment="Not in analyzer">emivartalo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -15172,7 +15172,7 @@
 </e>
 <e>
   <lg>
-    <l>emolintu</l>
+    <l comment="Not in analyzer">emolintu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -15274,7 +15274,7 @@
 </e>
 <e>
   <lg>
-    <l>emännätön</l>
+    <l comment="Not in analyzer">emännätön</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -17275,7 +17275,7 @@
 </e>
 <e>
   <lg>
-    <l>erillishakemus</l>
+    <l comment="Not in analyzer">erillishakemus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -17559,7 +17559,7 @@
 </e>
 <e>
   <lg>
-    <l>erityisala</l>
+    <l comment="Not in analyzer">erityisala</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -17658,7 +17658,7 @@
 </e>
 <e>
   <lg>
-    <l>erityisperusteinen</l>
+    <l comment="Not in analyzer">erityisperusteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -18068,7 +18068,7 @@
 </e>
 <e>
   <lg>
-    <l>erävalvoja</l>
+    <l comment="Not in analyzer">erävalvoja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -18078,7 +18078,7 @@
 </e>
 <e>
   <lg>
-    <l>erävalvonta</l>
+    <l comment="Not in analyzer">erävalvonta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -19481,7 +19481,7 @@
 </e>
 <e>
   <lg>
-    <l>etukumarainen</l>
+    <l comment="Not in analyzer">etukumarainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -20049,7 +20049,7 @@
 </e>
 <e>
   <lg>
-    <l>eväkalvo</l>
+    <l comment="Not in analyzer">eväkalvo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -20800,7 +20800,7 @@
 </e>
 <e>
   <lg>
-    <l>fäärsaarelainen</l>
+    <l comment="Not in analyzer">fäärsaarelainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -21597,7 +21597,7 @@
 </e>
 <e>
   <lg>
-    <l>haaskaaja</l>
+    <l comment="Not in analyzer">haaskaaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -21892,7 +21892,7 @@
 </e>
 <e>
   <lg>
-    <l>hahlakoukku</l>
+    <l comment="Not in analyzer">hahlakoukku</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -21902,7 +21902,7 @@
 </e>
 <e>
   <lg>
-    <l>hahlat</l>
+    <l comment="Not in analyzer">hahlat</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -22568,7 +22568,7 @@
 </e>
 <e>
   <lg>
-    <l>hakaista</l>
+    <l comment="Not in analyzer">hakaista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -23817,7 +23817,7 @@
 </e>
 <e>
   <lg>
-    <l>hangas</l>
+    <l comment="Not in analyzer">hangas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -23865,7 +23865,7 @@
 </e>
 <e>
   <lg>
-    <l>hangoittelu</l>
+    <l comment="Not in analyzer">hangoittelu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -24633,7 +24633,7 @@
 </e>
 <e>
   <lg>
-    <l>haristua</l>
+    <l comment="Not in analyzer">haristua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -24849,7 +24849,7 @@
 </e>
 <e>
   <lg>
-    <l>harjuinen</l>
+    <l comment="Not in analyzer">harjuinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -25784,7 +25784,7 @@
 </e>
 <e>
   <lg>
-    <l>haukkailla</l>
+    <l comment="Not in analyzer">haukkailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -26052,7 +26052,7 @@
 </e>
 <e>
   <lg>
-    <l>hauskutella</l>
+    <l comment="Not in analyzer">hauskutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -26733,7 +26733,7 @@
 </e>
 <e>
   <lg>
-    <l>heikkoasteinen</l>
+    <l comment="Not in analyzer">heikkoasteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -27175,7 +27175,7 @@
 </e>
 <e>
   <lg>
-    <l>heinäsaura</l>
+    <l comment="Not in analyzer">heinäsaura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -27845,7 +27845,7 @@
 </e>
 <e>
   <lg>
-    <l>helmava</l>
+    <l comment="Not in analyzer">helmava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -27928,7 +27928,7 @@
 </e>
 <e>
   <lg>
-    <l>helpehtiä</l>
+    <l comment="Not in analyzer">helpehtiä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -28777,7 +28777,7 @@
 </e>
 <e>
   <lg>
-    <l>hentokatkero</l>
+    <l comment="Not in analyzer">hentokatkero</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -28787,7 +28787,7 @@
 </e>
 <e>
   <lg>
-    <l>hentokorte</l>
+    <l comment="Not in analyzer">hentokorte</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -28798,7 +28798,7 @@
 </e>
 <e>
   <lg>
-    <l>hentoluinen</l>
+    <l comment="Not in analyzer">hentoluinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -28808,7 +28808,7 @@
 </e>
 <e>
   <lg>
-    <l>hentosätkin</l>
+    <l comment="Not in analyzer">hentosätkin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -29030,7 +29030,7 @@
 </e>
 <e>
   <lg>
-    <l>herkuttelunhaluinen</l>
+    <l comment="Not in analyzer">herkuttelunhaluinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -29575,7 +29575,7 @@
 </e>
 <e>
   <lg>
-    <l>heräys</l>
+    <l comment="Not in analyzer">heräys</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -29969,7 +29969,7 @@
 </e>
 <e>
   <lg>
-    <l>hiekkaantua</l>
+    <l comment="Not in analyzer">hiekkaantua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -29979,7 +29979,7 @@
 </e>
 <e>
   <lg>
-    <l>hiekkahaude</l>
+    <l comment="Not in analyzer">hiekkahaude</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -30076,7 +30076,7 @@
 </e>
 <e>
   <lg>
-    <l>hiekkaryöppy</l>
+    <l comment="Not in analyzer">hiekkaryöppy</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -30140,7 +30140,7 @@
 </e>
 <e>
   <lg>
-    <l>hienohelmainen</l>
+    <l comment="Not in analyzer">hienohelmainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -30550,7 +30550,7 @@
 </e>
 <e>
   <lg>
-    <l>hihnaapelkäävä</l>
+    <l comment="Not in analyzer">hihnaapelkäävä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -30561,7 +30561,7 @@
 </e>
 <e>
   <lg>
-    <l>hihnakkain</l>
+    <l comment="Not in analyzer">hihnakkain</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -30592,7 +30592,7 @@
 </e>
 <e>
   <lg>
-    <l>hiihdättäjä</l>
+    <l comment="Not in analyzer">hiihdättäjä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -32201,7 +32201,7 @@
 </e>
 <e>
   <lg>
-    <l>-hiuksinen</l>
+    <l comment="Not in analyzer">-hiuksinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -32340,7 +32340,7 @@
 </e>
 <e>
   <lg>
-    <l>hoeskella</l>
+    <l comment="Not in analyzer">hoeskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -32496,7 +32496,7 @@
 </e>
 <e>
   <lg>
-    <l>hoikkakatkero</l>
+    <l comment="Not in analyzer">hoikkakatkero</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -32506,7 +32506,7 @@
 </e>
 <e>
   <lg>
-    <l>hoikkanurmikka</l>
+    <l comment="Not in analyzer">hoikkanurmikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -32745,7 +32745,7 @@
 </e>
 <e>
   <lg>
-    <l>hokaista</l>
+    <l comment="Not in analyzer">hokaista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -33226,7 +33226,7 @@
 </e>
 <e>
   <lg>
-    <l>hopummin</l>
+    <l comment="Not in analyzer">hopummin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -33236,7 +33236,7 @@
 </e>
 <e>
   <lg>
-    <l>hopusti</l>
+    <l comment="Not in analyzer">hopusti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -33459,7 +33459,7 @@
 </e>
 <e>
   <lg>
-    <l>houkata</l>
+    <l comment="Not in analyzer">houkata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -34971,7 +34971,7 @@
 </e>
 <e>
   <lg>
-    <l>huomiotaherättävä</l>
+    <l comment="Not in analyzer">huomiotaherättävä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35155,7 +35155,7 @@
 </e>
 <e>
   <lg>
-    <l>huonohampainen</l>
+    <l comment="Not in analyzer">huonohampainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35207,7 +35207,7 @@
 </e>
 <e>
   <lg>
-    <l>huonokasvuisuus</l>
+    <l comment="Not in analyzer">huonokasvuisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35360,7 +35360,7 @@
 </e>
 <e>
   <lg>
-    <l>huono-onnisuus</l>
+    <l comment="Not in analyzer">huono-onnisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35370,7 +35370,7 @@
 </e>
 <e>
   <lg>
-    <l>huonosilmäinen</l>
+    <l comment="Not in analyzer">huonosilmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35388,7 +35388,7 @@
 </e>
 <e>
   <lg>
-    <l>huonosointinen</l>
+    <l comment="Not in analyzer">huonosointinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35422,7 +35422,7 @@
 </e>
 <e>
   <lg>
-    <l>huonoteräinen</l>
+    <l comment="Not in analyzer">huonoteräinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35638,7 +35638,7 @@
 </e>
 <e>
   <lg>
-    <l>hurautella</l>
+    <l comment="Not in analyzer">hurautella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -35941,7 +35941,7 @@
 </e>
 <e>
   <lg>
-    <l>huudahtella</l>
+    <l comment="Not in analyzer">huudahtella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -36039,7 +36039,7 @@
 </e>
 <e>
   <lg>
-    <l>huulihalkein</l>
+    <l comment="Not in analyzer">huulihalkein</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -36926,7 +36926,7 @@
 </e>
 <e>
   <lg>
-    <l>hyvinkehittynyt</l>
+    <l comment="Not in analyzer">hyvinkehittynyt</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -37046,7 +37046,7 @@
 </e>
 <e>
   <lg>
-    <l>hyväjalkainen</l>
+    <l comment="Not in analyzer">hyväjalkainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -37343,7 +37343,7 @@
 </e>
 <e>
   <lg>
-    <l>hyysikkä</l>
+    <l comment="Not in analyzer">hyysikkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -37353,7 +37353,7 @@
 </e>
 <e>
   <lg>
-    <l>hyysä</l>
+    <l comment="Not in analyzer">hyysä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -37558,7 +37558,7 @@
 </e>
 <e>
   <lg>
-    <l>hyöriskellä</l>
+    <l comment="Not in analyzer">hyöriskellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -38503,7 +38503,7 @@
 </e>
 <e>
   <lg>
-    <l>härnääntyä</l>
+    <l comment="Not in analyzer">härnääntyä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -38844,7 +38844,7 @@
 </e>
 <e>
   <lg>
-    <l>hääasu</l>
+    <l comment="Not in analyzer">hääasu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -39137,7 +39137,7 @@
 </e>
 <e>
   <lg>
-    <l>hölskähtää</l>
+    <l comment="Not in analyzer">hölskähtää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -39610,7 +39610,7 @@
 </e>
 <e>
   <lg>
-    <l>höysteinen</l>
+    <l comment="Not in analyzer">höysteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -39807,7 +39807,7 @@
 </e>
 <e>
   <lg>
-    <l>idänhiirihaukka</l>
+    <l comment="Not in analyzer">idänhiirihaukka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -39827,7 +39827,7 @@
 </e>
 <e>
   <lg>
-    <l>idänkirveli</l>
+    <l comment="Not in analyzer">idänkirveli</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -40349,7 +40349,7 @@
 </e>
 <e>
   <lg>
-    <l>ikimaho</l>
+    <l comment="Not in analyzer">ikimaho</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -42993,7 +42993,7 @@
 </e>
 <e>
   <lg>
-    <l>inua</l>
+    <l comment="Not in analyzer">inua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43091,7 +43091,7 @@
 </e>
 <e>
   <lg>
-    <l>irlanti</l>
+    <l comment="Not in analyzer">irlanti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43690,7 +43690,7 @@
 </e>
 <e>
   <lg>
-    <l>isokaliberinen</l>
+    <l comment="Not in analyzer">isokaliberinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43744,7 +43744,7 @@
 </e>
 <e>
   <lg>
-    <l>isokourainen</l>
+    <l comment="Not in analyzer">isokourainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43764,7 +43764,7 @@
 </e>
 <e>
   <lg>
-    <l>isokämmeninen</l>
+    <l comment="Not in analyzer">isokämmeninen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43835,7 +43835,7 @@
 </e>
 <e>
   <lg>
-    <l>isonenäinen</l>
+    <l comment="Not in analyzer">isonenäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43896,7 +43896,7 @@
 </e>
 <e>
   <lg>
-    <l>isosarvinen</l>
+    <l comment="Not in analyzer">isosarvinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -43906,7 +43906,7 @@
 </e>
 <e>
   <lg>
-    <l>isosilmäinen</l>
+    <l comment="Not in analyzer">isosilmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -45217,7 +45217,7 @@
 </e>
 <e>
   <lg>
-    <l>jaakonviikko</l>
+    <l comment="Not in analyzer">jaakonviikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -45792,7 +45792,7 @@
 </e>
 <e>
   <lg>
-    <l>jalkakopelolla</l>
+    <l comment="Not in analyzer">jalkakopelolla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -46648,7 +46648,7 @@
 </e>
 <e>
   <lg>
-    <l>jiekiö</l>
+    <l comment="Not in analyzer">jiekiö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -47116,7 +47116,7 @@
 </e>
 <e>
   <lg>
-    <l>joikailla</l>
+    <l comment="Not in analyzer">joikailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -47159,7 +47159,7 @@
 </e>
 <e>
   <lg>
-    <l>joikauttaa</l>
+    <l comment="Not in analyzer">joikauttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -48766,7 +48766,7 @@
 </e>
 <e>
   <lg>
-    <l>jukko</l>
+    <l comment="Not in analyzer">jukko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -48777,7 +48777,7 @@
 </e>
 <e>
   <lg>
-    <l>jukkohihna</l>
+    <l comment="Not in analyzer">jukkohihna</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -48787,7 +48787,7 @@
 </e>
 <e>
   <lg>
-    <l>jukkoreikä</l>
+    <l comment="Not in analyzer">jukkoreikä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -49527,7 +49527,7 @@
 </e>
 <e>
   <lg>
-    <l>juomus</l>
+    <l comment="Not in analyzer">juomus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -49538,7 +49538,7 @@
 </e>
 <e>
   <lg>
-    <l>juomustella</l>
+    <l comment="Not in analyzer">juomustella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -49995,7 +49995,7 @@
 </e>
 <e>
   <lg>
-    <l>jurruttaa</l>
+    <l comment="Not in analyzer">jurruttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50046,7 +50046,7 @@
 </e>
 <e>
   <lg>
-    <l>jutaja</l>
+    <l comment="Not in analyzer">jutaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50056,7 +50056,7 @@
 </e>
 <e>
   <lg>
-    <l>jutamaanlähtö</l>
+    <l comment="Not in analyzer">jutamaanlähtö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50066,7 +50066,7 @@
 </e>
 <e>
   <lg>
-    <l>jutamareitti</l>
+    <l comment="Not in analyzer">jutamareitti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50076,7 +50076,7 @@
 </e>
 <e>
   <lg>
-    <l>jutamatie</l>
+    <l comment="Not in analyzer">jutamatie</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50086,7 +50086,7 @@
 </e>
 <e>
   <lg>
-    <l>jutaminen</l>
+    <l comment="Not in analyzer">jutaminen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50096,7 +50096,7 @@
 </e>
 <e>
   <lg>
-    <l>jutava</l>
+    <l comment="Not in analyzer">jutava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50756,7 +50756,7 @@
 </e>
 <e>
   <lg>
-    <l>jystää</l>
+    <l comment="Not in analyzer">jystää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50949,7 +50949,7 @@
 </e>
 <e>
   <lg>
-    <l>jäkälätön</l>
+    <l comment="Not in analyzer">jäkälätön</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -50977,7 +50977,7 @@
 </e>
 <e>
   <lg>
-    <l>jäljennyttää</l>
+    <l comment="Not in analyzer">jäljennyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -51027,7 +51027,7 @@
 </e>
 <e>
   <lg>
-    <l>jäljetä</l>
+    <l comment="Not in analyzer">jäljetä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -51469,7 +51469,7 @@
 </e>
 <e>
   <lg>
-    <l>jämäköittää</l>
+    <l comment="Not in analyzer">jämäköittää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -52594,7 +52594,7 @@
 </e>
 <e>
   <lg>
-    <l>jäykkänata</l>
+    <l comment="Not in analyzer">jäykkänata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -52958,7 +52958,7 @@
 </e>
 <e>
   <lg>
-    <l>jääpaakku</l>
+    <l comment="Not in analyzer">jääpaakku</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -53464,7 +53464,7 @@
 </e>
 <e>
   <lg>
-    <l>kaalivalvátti</l>
+    <l comment="Not in analyzer">kaalivalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -53694,7 +53694,7 @@
 </e>
 <e>
   <lg>
-    <l>kaaristaa</l>
+    <l comment="Not in analyzer">kaaristaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -53723,7 +53723,7 @@
 </e>
 <e>
   <lg>
-    <l>kaariste</l>
+    <l comment="Not in analyzer">kaariste</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -53746,7 +53746,7 @@
 </e>
 <e>
   <lg>
-    <l>kaarlenvaltikka</l>
+    <l comment="Not in analyzer">kaarlenvaltikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -54140,7 +54140,7 @@
 </e>
 <e>
   <lg>
-    <l>kaatumatautinen</l>
+    <l comment="Not in analyzer">kaatumatautinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55401,7 +55401,7 @@
 </e>
 <e>
   <lg>
-    <l>kaipa</l>
+    <l comment="Not in analyzer">kaipa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55438,7 +55438,7 @@
 </e>
 <e>
   <lg>
-    <l>kaisa</l>
+    <l comment="Not in analyzer">kaisa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55730,7 +55730,7 @@
 </e>
 <e>
   <lg>
-    <l>kaivuukuoppa</l>
+    <l comment="Not in analyzer">kaivuukuoppa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55924,7 +55924,7 @@
 </e>
 <e>
   <lg>
-    <l>kaksihaarainen</l>
+    <l comment="Not in analyzer">kaksihaarainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55934,7 +55934,7 @@
 </e>
 <e>
   <lg>
-    <l>kaksihuoneinen</l>
+    <l comment="Not in analyzer">kaksihuoneinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -57229,7 +57229,7 @@
 </e>
 <e>
   <lg>
-    <l>kallokas</l>
+    <l comment="Not in analyzer">kallokas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -57548,7 +57548,7 @@
 </e>
 <e>
   <lg>
-    <l>kámera</l>
+    <l comment="Not in analyzer">kámera</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -57788,7 +57788,7 @@
 </e>
 <e>
   <lg>
-    <l>kampurainen</l>
+    <l comment="Not in analyzer">kampurainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -58157,7 +58157,7 @@
 </e>
 <e>
   <lg>
-    <l>kankeapuheinen</l>
+    <l comment="Not in analyzer">kankeapuheinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -58589,7 +58589,7 @@
 </e>
 <e>
   <lg>
-    <l>kansalliskieli</l>
+    <l comment="Not in analyzer">kansalliskieli</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -59753,7 +59753,7 @@
 </e>
 <e>
   <lg>
-    <l>kapeahelmainen</l>
+    <l comment="Not in analyzer">kapeahelmainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -60104,7 +60104,7 @@
 </e>
 <e>
   <lg>
-    <l>karheanurmikka</l>
+    <l comment="Not in analyzer">karheanurmikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -61135,7 +61135,7 @@
 </e>
 <e>
   <lg>
-    <l>karvoittaa</l>
+    <l comment="Not in analyzer">karvoittaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -63724,7 +63724,7 @@
 </e>
 <e>
   <lg>
-    <l>kaupattavuus</l>
+    <l comment="Not in analyzer">kaupattavuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -64116,7 +64116,7 @@
 </e>
 <e>
   <lg>
-    <l>kauto</l>
+    <l comment="Not in analyzer">kauto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -64835,7 +64835,7 @@
 </e>
 <e>
   <lg>
-    <l>kehystyttää</l>
+    <l comment="Not in analyzer">kehystyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -64937,7 +64937,7 @@
 </e>
 <e>
   <lg>
-    <l>keihästellä</l>
+    <l comment="Not in analyzer">keihästellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -65834,7 +65834,7 @@
 </e>
 <e>
   <lg>
-    <l>kelluskella</l>
+    <l comment="Not in analyzer">kelluskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -65913,7 +65913,7 @@
 </e>
 <e>
   <lg>
-    <l>kelohongaton</l>
+    <l comment="Not in analyzer">kelohongaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -66873,7 +66873,7 @@
 </e>
 <e>
   <lg>
-    <l>kermikkä</l>
+    <l comment="Not in analyzer">kermikkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -67212,7 +67212,7 @@
 </e>
 <e>
   <lg>
-    <l>kertailla</l>
+    <l comment="Not in analyzer">kertailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -68513,7 +68513,7 @@
 </e>
 <e>
   <lg>
-    <l>kestitsijä</l>
+    <l comment="Not in analyzer">kestitsijä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70038,7 +70038,7 @@
 </e>
 <e>
   <lg>
-    <l>kiekertää</l>
+    <l comment="Not in analyzer">kiekertää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70049,7 +70049,7 @@
 </e>
 <e>
   <lg>
-    <l>kiekerö</l>
+    <l comment="Not in analyzer">kiekerö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70090,7 +70090,7 @@
 </e>
 <e>
   <lg>
-    <l>kiela</l>
+    <l comment="Not in analyzer">kiela</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70366,7 +70366,7 @@
 </e>
 <e>
   <lg>
-    <l>-kielinen</l>
+    <l comment="Not in analyzer">-kielinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70703,7 +70703,7 @@
 </e>
 <e>
   <lg>
-    <l>kiepitä</l>
+    <l comment="Not in analyzer">kiepitä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -71704,7 +71704,7 @@
 </e>
 <e>
   <lg>
-    <l>kiillotella</l>
+    <l comment="Not in analyzer">kiillotella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -71905,7 +71905,7 @@
 </e>
 <e>
   <lg>
-    <l>kiimiä</l>
+    <l comment="Not in analyzer">kiimiä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -71948,7 +71948,7 @@
 </e>
 <e>
   <lg>
-    <l>kiinnikkäin</l>
+    <l comment="Not in analyzer">kiinnikkäin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72232,7 +72232,7 @@
 </e>
 <e>
   <lg>
-    <l>kiipimäjuuri</l>
+    <l comment="Not in analyzer">kiipimäjuuri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72281,7 +72281,7 @@
 </e>
 <e>
   <lg>
-    <l>kiireemmin</l>
+    <l comment="Not in analyzer">kiireemmin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72389,7 +72389,7 @@
 </e>
 <e>
   <lg>
-    <l>kiisa</l>
+    <l comment="Not in analyzer">kiisa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72898,7 +72898,7 @@
 </e>
 <e>
   <lg>
-    <l>kilkahdella</l>
+    <l comment="Not in analyzer">kilkahdella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72908,7 +72908,7 @@
 </e>
 <e>
   <lg>
-    <l>kilkahduttaa</l>
+    <l comment="Not in analyzer">kilkahduttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72918,7 +72918,7 @@
 </e>
 <e>
   <lg>
-    <l>kilkahtaa</l>
+    <l comment="Not in analyzer">kilkahtaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -72948,7 +72948,7 @@
 </e>
 <e>
   <lg>
-    <l>kilkura</l>
+    <l comment="Not in analyzer">kilkura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -73021,7 +73021,7 @@
 </e>
 <e>
   <lg>
-    <l>killissä</l>
+    <l comment="Not in analyzer">killissä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -73540,7 +73540,7 @@
 </e>
 <e>
   <lg>
-    <l>-kin</l>
+    <l comment="Not in analyzer">-kin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -73640,7 +73640,7 @@
 </e>
 <e>
   <lg>
-    <l>kinoksinen</l>
+    <l comment="Not in analyzer">kinoksinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -74052,7 +74052,7 @@
 </e>
 <e>
   <lg>
-    <l>kiristyttää</l>
+    <l comment="Not in analyzer">kiristyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -74737,7 +74737,7 @@
 </e>
 <e>
   <lg>
-    <l>kirjopää</l>
+    <l comment="Not in analyzer">kirjopää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -75145,7 +75145,7 @@
 </e>
 <e>
   <lg>
-    <l>kirkostella</l>
+    <l comment="Not in analyzer">kirkostella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -75256,7 +75256,7 @@
 </e>
 <e>
   <lg>
-    <l>kiroilevuus</l>
+    <l comment="Not in analyzer">kiroilevuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -76731,7 +76731,7 @@
 </e>
 <e>
   <lg>
-    <l>-ko,-kö</l>
+    <l comment="Not in analyzer">-ko,-kö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -76779,7 +76779,7 @@
 </e>
 <e>
   <lg>
-    <l>kodansuu</l>
+    <l comment="Not in analyzer">kodansuu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -76789,7 +76789,7 @@
 </e>
 <e>
   <lg>
-    <l>kodaton</l>
+    <l comment="Not in analyzer">kodaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -76936,7 +76936,7 @@
 </e>
 <e>
   <lg>
-    <l>koevuosi</l>
+    <l comment="Not in analyzer">koevuosi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -77275,7 +77275,7 @@
 </e>
 <e>
   <lg>
-    <l>kohopuu</l>
+    <l comment="Not in analyzer">kohopuu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -77327,7 +77327,7 @@
 </e>
 <e>
   <lg>
-    <l>kohotella</l>
+    <l comment="Not in analyzer">kohotella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78012,7 +78012,7 @@
 </e>
 <e>
   <lg>
-    <l>kojamo</l>
+    <l comment="Not in analyzer">kojamo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78330,7 +78330,7 @@
 </e>
 <e>
   <lg>
-    <l>kokonaisosa</l>
+    <l comment="Not in analyzer">kokonaisosa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78789,7 +78789,7 @@
 </e>
 <e>
   <lg>
-    <l>kollos</l>
+    <l comment="Not in analyzer">kollos</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79548,7 +79548,7 @@
 </e>
 <e>
   <lg>
-    <l>komo</l>
+    <l comment="Not in analyzer">komo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79623,7 +79623,7 @@
 </e>
 <e>
   <lg>
-    <l>onkaloinen</l>
+    <l comment="Not in analyzer">onkaloinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79633,7 +79633,7 @@
 </e>
 <e>
   <lg>
-    <l>komollaan</l>
+    <l comment="Not in analyzer">komollaan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79755,7 +79755,7 @@
 </e>
 <e>
   <lg>
-    <l>komsio</l>
+    <l comment="Not in analyzer">komsio</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79778,7 +79778,7 @@
 </e>
 <e>
   <lg>
-    <l>komsioida</l>
+    <l comment="Not in analyzer">komsioida</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -80500,7 +80500,7 @@
 </e>
 <e>
   <lg>
-    <l>kopara</l>
+    <l comment="Not in analyzer">kopara</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -80545,7 +80545,7 @@
 </e>
 <e>
   <lg>
-    <l>kopeloitsija</l>
+    <l comment="Not in analyzer">kopeloitsija</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -80751,7 +80751,7 @@
 </e>
 <e>
   <lg>
-    <l>kopsuttaa</l>
+    <l comment="Not in analyzer">kopsuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -81920,7 +81920,7 @@
 </e>
 <e>
   <lg>
-    <l>kortto</l>
+    <l comment="Not in analyzer">kortto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -82249,7 +82249,7 @@
 </e>
 <e>
   <lg>
-    <l>kosatus</l>
+    <l comment="Not in analyzer">kosatus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -82332,7 +82332,7 @@
 </e>
 <e>
   <lg>
-    <l>kosiosaattue</l>
+    <l comment="Not in analyzer">kosiosaattue</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -82342,7 +82342,7 @@
 </e>
 <e>
   <lg>
-    <l>kosiomatkalaiset</l>
+    <l comment="Not in analyzer">kosiomatkalaiset</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -82525,7 +82525,7 @@
 </e>
 <e>
   <lg>
-    <l>kosketusherkkä</l>
+    <l comment="Not in analyzer">kosketusherkkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -83041,7 +83041,7 @@
 </e>
 <e>
   <lg>
-    <l>kotipaikkatodistus</l>
+    <l comment="Not in analyzer">kotipaikkatodistus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -83203,7 +83203,7 @@
 </e>
 <e>
   <lg>
-    <l>kotoutua</l>
+    <l comment="Not in analyzer">kotoutua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -83269,7 +83269,7 @@
 </e>
 <e>
   <lg>
-    <l>koukistella</l>
+    <l comment="Not in analyzer">koukistella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -83290,7 +83290,7 @@
 </e>
 <e>
   <lg>
-    <l>koukkailla</l>
+    <l comment="Not in analyzer">koukkailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -83636,7 +83636,7 @@
 </e>
 <e>
   <lg>
-    <l>koulurádio</l>
+    <l comment="Not in analyzer">koulurádio</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -84026,7 +84026,7 @@
 </e>
 <e>
   <lg>
-    <l>koverrella</l>
+    <l comment="Not in analyzer">koverrella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -84545,7 +84545,7 @@
 </e>
 <e>
   <lg>
-    <l>kudottaa</l>
+    <l comment="Not in analyzer">kudottaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -84946,7 +84946,7 @@
 </e>
 <e>
   <lg>
-    <l>kuivahorros</l>
+    <l comment="Not in analyzer">kuivahorros</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85041,7 +85041,7 @@
 </e>
 <e>
   <lg>
-    <l>kuivatali</l>
+    <l comment="Not in analyzer">kuivatali</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85292,7 +85292,7 @@
 </e>
 <e>
   <lg>
-    <l>kukaton</l>
+    <l comment="Not in analyzer">kukaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85759,7 +85759,7 @@
 </e>
 <e>
   <lg>
-    <l>kulkuttaa</l>
+    <l comment="Not in analyzer">kulkuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85769,7 +85769,7 @@
 </e>
 <e>
   <lg>
-    <l>kulkutusverkko</l>
+    <l comment="Not in analyzer">kulkutusverkko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85836,7 +85836,7 @@
 </e>
 <e>
   <lg>
-    <l>kullenuotta</l>
+    <l comment="Not in analyzer">kullenuotta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85852,7 +85852,7 @@
 </e>
 <e>
   <lg>
-    <l>kullenuottaus</l>
+    <l comment="Not in analyzer">kullenuottaus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -85873,7 +85873,7 @@
 </e>
 <e>
   <lg>
-    <l>kulloin</l>
+    <l comment="Not in analyzer">kulloin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -86945,7 +86945,7 @@
 </e>
 <e>
   <lg>
-    <l>kumpaalle</l>
+    <l comment="Not in analyzer">kumpaalle</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -86955,7 +86955,7 @@
 </e>
 <e>
   <lg>
-    <l>kumpaalta</l>
+    <l comment="Not in analyzer">kumpaalta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87046,7 +87046,7 @@
 </e>
 <e>
   <lg>
-    <l>kumpus</l>
+    <l comment="Not in analyzer">kumpus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87250,7 +87250,7 @@
 </e>
 <e>
   <lg>
-    <l>kunnallisministeri</l>
+    <l comment="Not in analyzer">kunnallisministeri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87260,7 +87260,7 @@
 </e>
 <e>
   <lg>
-    <l>kunnallisministeriö</l>
+    <l comment="Not in analyzer">kunnallisministeriö</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87290,7 +87290,7 @@
 </e>
 <e>
   <lg>
-    <l>kunnallisvaali</l>
+    <l comment="Not in analyzer">kunnallisvaali</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87306,7 +87306,7 @@
 </e>
 <e>
   <lg>
-    <l>kunnallisvaltuusto</l>
+    <l comment="Not in analyzer">kunnallisvaltuusto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87720,7 +87720,7 @@
 </e>
 <e>
   <lg>
-    <l>kunteus</l>
+    <l comment="Not in analyzer">kunteus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87834,7 +87834,7 @@
 </e>
 <e>
   <lg>
-    <l>kuntura</l>
+    <l comment="Not in analyzer">kuntura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -88220,7 +88220,7 @@
 </e>
 <e>
   <lg>
-    <l>kuolinvuosi</l>
+    <l comment="Not in analyzer">kuolinvuosi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -88648,7 +88648,7 @@
 </e>
 <e>
   <lg>
-    <l>kuorsailla</l>
+    <l comment="Not in analyzer">kuorsailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -89406,7 +89406,7 @@
 </e>
 <e>
   <lg>
-    <l>kurmu</l>
+    <l comment="Not in analyzer">kurmu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -89422,7 +89422,7 @@
 </e>
 <e>
   <lg>
-    <l>kurmuinen</l>
+    <l comment="Not in analyzer">kurmuinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -89449,7 +89449,7 @@
 </e>
 <e>
   <lg>
-    <l>kurmupaarma</l>
+    <l comment="Not in analyzer">kurmupaarma</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -89957,7 +89957,7 @@
 </e>
 <e>
   <lg>
-    <l>kutistuttaa</l>
+    <l comment="Not in analyzer">kutistuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -90013,7 +90013,7 @@
 </e>
 <e>
   <lg>
-    <l>kutomakäpy</l>
+    <l comment="Not in analyzer">kutomakäpy</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -91028,7 +91028,7 @@
 </e>
 <e>
   <lg>
-    <l>kuusisärmäinen</l>
+    <l comment="Not in analyzer">kuusisärmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -92341,7 +92341,7 @@
 </e>
 <e>
   <lg>
-    <l>kynsiluu</l>
+    <l comment="Not in analyzer">kynsiluu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -92882,7 +92882,7 @@
 </e>
 <e>
   <lg>
-    <l>kyyditellä</l>
+    <l comment="Not in analyzer">kyyditellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93177,7 +93177,7 @@
 </e>
 <e>
   <lg>
-    <l>kyyrötellä</l>
+    <l comment="Not in analyzer">kyyrötellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93288,7 +93288,7 @@
 </e>
 <e>
   <lg>
-    <l>käetä</l>
+    <l comment="Not in analyzer">käetä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93374,7 +93374,7 @@
 </e>
 <e>
   <lg>
-    <l>käkkyräinen</l>
+    <l comment="Not in analyzer">käkkyräinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93385,7 +93385,7 @@
 </e>
 <e>
   <lg>
-    <l>kälmi</l>
+    <l comment="Not in analyzer">kälmi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93395,7 +93395,7 @@
 </e>
 <e>
   <lg>
-    <l>kälmätä</l>
+    <l comment="Not in analyzer">kälmätä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -93405,7 +93405,7 @@
 </e>
 <e>
   <lg>
-    <l>kälvettyä</l>
+    <l comment="Not in analyzer">kälvettyä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -95607,7 +95607,7 @@
 </e>
 <e>
   <lg>
-    <l>köhäistä</l>
+    <l comment="Not in analyzer">köhäistä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -95639,7 +95639,7 @@
 </e>
 <e>
   <lg>
-    <l>kömmänä</l>
+    <l comment="Not in analyzer">kömmänä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -95750,7 +95750,7 @@
 </e>
 <e>
   <lg>
-    <l>köntysmäinen</l>
+    <l comment="Not in analyzer">köntysmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -95829,7 +95829,7 @@
 </e>
 <e>
   <lg>
-    <l>köyhäinkukkaro</l>
+    <l comment="Not in analyzer">köyhäinkukkaro</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -96441,7 +96441,7 @@
 </e>
 <e>
   <lg>
-    <l>ladoskella</l>
+    <l comment="Not in analyzer">ladoskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -97589,7 +97589,7 @@
 </e>
 <e>
   <lg>
-    <l>laiskanoloinen</l>
+    <l comment="Not in analyzer">laiskanoloinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -97797,7 +97797,7 @@
 </e>
 <e>
   <lg>
-    <l>laitistaja</l>
+    <l comment="Not in analyzer">laitistaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -97808,7 +97808,7 @@
 </e>
 <e>
   <lg>
-    <l>laitistushärkä</l>
+    <l comment="Not in analyzer">laitistushärkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -98204,7 +98204,7 @@
 </e>
 <e>
   <lg>
-    <l>lakkasuo</l>
+    <l comment="Not in analyzer">lakkasuo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -98269,7 +98269,7 @@
 </e>
 <e>
   <lg>
-    <l>lakkoilija</l>
+    <l comment="Not in analyzer">lakkoilija</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -100198,7 +100198,7 @@
 </e>
 <e>
   <lg>
-    <l>laskostella</l>
+    <l comment="Not in analyzer">laskostella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -101032,7 +101032,7 @@
 </e>
 <e>
   <lg>
-    <l>laulelija</l>
+    <l comment="Not in analyzer">laulelija</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -101174,7 +101174,7 @@
 </e>
 <e>
   <lg>
-    <l>laurinpäivä</l>
+    <l comment="Not in analyzer">laurinpäivä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -101184,7 +101184,7 @@
 </e>
 <e>
   <lg>
-    <l>laurinviikko</l>
+    <l comment="Not in analyzer">laurinviikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -101489,7 +101489,7 @@
 </e>
 <e>
   <lg>
-    <l>lehdenriipomatuuli</l>
+    <l comment="Not in analyzer">lehdenriipomatuuli</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -102566,7 +102566,7 @@
 </e>
 <e>
   <lg>
-    <l>leipäisä</l>
+    <l comment="Not in analyzer">leipäisä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -102750,7 +102750,7 @@
 </e>
 <e>
   <lg>
-    <l>leivoskella</l>
+    <l comment="Not in analyzer">leivoskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -102760,7 +102760,7 @@
 </e>
 <e>
   <lg>
-    <l>leivottaa</l>
+    <l comment="Not in analyzer">leivottaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -103874,7 +103874,7 @@
 </e>
 <e>
   <lg>
-    <l>leveähulpioinen</l>
+    <l comment="Not in analyzer">leveähulpioinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -103895,7 +103895,7 @@
 </e>
 <e>
   <lg>
-    <l>leveäpyrstökihu</l>
+    <l comment="Not in analyzer">leveäpyrstökihu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -104148,7 +104148,7 @@
 </e>
 <e>
   <lg>
-    <l>levähdellä</l>
+    <l comment="Not in analyzer">levähdellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -104644,7 +104644,7 @@
 </e>
 <e>
   <lg>
-    <l>lihanpalvauspuura</l>
+    <l comment="Not in analyzer">lihanpalvauspuura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -105409,7 +105409,7 @@
 </e>
 <e>
   <lg>
-    <l>liinata</l>
+    <l comment="Not in analyzer">liinata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -105436,7 +105436,7 @@
 </e>
 <e>
   <lg>
-    <l>liinavuus</l>
+    <l comment="Not in analyzer">liinavuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -106586,7 +106586,7 @@
 </e>
 <e>
   <lg>
-    <l>lipakka</l>
+    <l comment="Not in analyzer">lipakka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -106658,7 +106658,7 @@
 </e>
 <e>
   <lg>
-    <l>liplatella</l>
+    <l comment="Not in analyzer">liplatella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -107335,7 +107335,7 @@
 </e>
 <e>
   <lg>
-    <l>litteänurmikka</l>
+    <l comment="Not in analyzer">litteänurmikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -107345,7 +107345,7 @@
 </e>
 <e>
   <lg>
-    <l>litteävita</l>
+    <l comment="Not in analyzer">litteävita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -107680,7 +107680,7 @@
 </e>
 <e>
   <lg>
-    <l>lohestus</l>
+    <l comment="Not in analyzer">lohestus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -108404,7 +108404,7 @@
 </e>
 <e>
   <lg>
-    <l>loksutella</l>
+    <l comment="Not in analyzer">loksutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -108414,7 +108414,7 @@
 </e>
 <e>
   <lg>
-    <l>loksutus</l>
+    <l comment="Not in analyzer">loksutus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -108556,7 +108556,7 @@
 </e>
 <e>
   <lg>
-    <l>lommouttaa</l>
+    <l comment="Not in analyzer">lommouttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -109058,7 +109058,7 @@
 </e>
 <e>
   <lg>
-    <l>lota</l>
+    <l comment="Not in analyzer">lota</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -109069,7 +109069,7 @@
 </e>
 <e>
   <lg>
-    <l>loude</l>
+    <l comment="Not in analyzer">loude</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -109092,7 +109092,7 @@
 </e>
 <e>
   <lg>
-    <l>loudekota</l>
+    <l comment="Not in analyzer">loudekota</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -109171,7 +109171,7 @@
 </e>
 <e>
   <lg>
-    <l>loukkaamattomuus</l>
+    <l comment="Not in analyzer">loukkaamattomuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -109965,7 +109965,7 @@
 </e>
 <e>
   <lg>
-    <l>lukka</l>
+    <l comment="Not in analyzer">lukka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -110217,7 +110217,7 @@
 </e>
 <e>
   <lg>
-    <l>lumeton</l>
+    <l comment="Not in analyzer">lumeton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -110233,7 +110233,7 @@
 </e>
 <e>
   <lg>
-    <l>lumettomuus</l>
+    <l comment="Not in analyzer">lumettomuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -110298,7 +110298,7 @@
 </e>
 <e>
   <lg>
-    <l>lumihyppiäinen</l>
+    <l comment="Not in analyzer">lumihyppiäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -111409,7 +111409,7 @@
 </e>
 <e>
   <lg>
-    <l>luostakka</l>
+    <l comment="Not in analyzer">luostakka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -111820,7 +111820,7 @@
 </e>
 <e>
   <lg>
-    <l>luppoinen</l>
+    <l comment="Not in analyzer">luppoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -111899,7 +111899,7 @@
 </e>
 <e>
   <lg>
-    <l>luskuttaa</l>
+    <l comment="Not in analyzer">luskuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -111973,7 +111973,7 @@
 </e>
 <e>
   <lg>
-    <l>luuhohka</l>
+    <l comment="Not in analyzer">luuhohka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -112110,7 +112110,7 @@
 </e>
 <e>
   <lg>
-    <l>luusua</l>
+    <l comment="Not in analyzer">luusua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -112540,7 +112540,7 @@
 </e>
 <e>
   <lg>
-    <l>lyijyinen</l>
+    <l comment="Not in analyzer">lyijyinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -114450,7 +114450,7 @@
 </e>
 <e>
   <lg>
-    <l>läpilaiska</l>
+    <l comment="Not in analyzer">läpilaiska</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -114663,7 +114663,7 @@
 </e>
 <e>
   <lg>
-    <l>lätke</l>
+    <l comment="Not in analyzer">lätke</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -114716,7 +114716,7 @@
 </e>
 <e>
   <lg>
-    <l>lätkähtää</l>
+    <l comment="Not in analyzer">lätkähtää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -115101,7 +115101,7 @@
 </e>
 <e>
   <lg>
-    <l>löntys</l>
+    <l comment="Not in analyzer">löntys</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -115686,7 +115686,7 @@
 </e>
 <e>
   <lg>
-    <l>maakkana</l>
+    <l comment="Not in analyzer">maakkana</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -116297,7 +116297,7 @@
 </e>
 <e>
   <lg>
-    <l>maaselkä</l>
+    <l comment="Not in analyzer">maaselkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -116618,7 +116618,7 @@
 </e>
 <e>
   <lg>
-    <l>máfia</l>
+    <l comment="Not in analyzer">máfia</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -116638,7 +116638,7 @@
 </e>
 <e>
   <lg>
-    <l>mágmá</l>
+    <l comment="Not in analyzer">mágmá</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -117346,7 +117346,7 @@
 </e>
 <e>
   <lg>
-    <l>maitimesto</l>
+    <l comment="Not in analyzer">maitimesto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -117521,7 +117521,7 @@
 </e>
 <e>
   <lg>
-    <l>maittamattomuus</l>
+    <l comment="Not in analyzer">maittamattomuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118073,7 +118073,7 @@
 </e>
 <e>
   <lg>
-    <l>maksuvelvollinen</l>
+    <l comment="Not in analyzer">maksuvelvollinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118288,7 +118288,7 @@
 </e>
 <e>
   <lg>
-    <l>-mallinen</l>
+    <l comment="Not in analyzer">-mallinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118654,7 +118654,7 @@
 </e>
 <e>
   <lg>
-    <l>marasto</l>
+    <l comment="Not in analyzer">marasto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118665,7 +118665,7 @@
 </e>
 <e>
   <lg>
-    <l>maratoni</l>
+    <l comment="Not in analyzer">maratoni</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118696,7 +118696,7 @@
 </e>
 <e>
   <lg>
-    <l>marianpäivä</l>
+    <l comment="Not in analyzer">marianpäivä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -118706,7 +118706,7 @@
 </e>
 <e>
   <lg>
-    <l>marianviikko</l>
+    <l comment="Not in analyzer">marianviikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119207,7 +119207,7 @@
 </e>
 <e>
   <lg>
-    <l>matalalaitainen</l>
+    <l comment="Not in analyzer">matalalaitainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119224,7 +119224,7 @@
 </e>
 <e>
   <lg>
-    <l>matalalaitainen</l>
+    <l comment="Not in analyzer">matalalaitainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119786,7 +119786,7 @@
 </e>
 <e>
   <lg>
-    <l>mehuton</l>
+    <l comment="Not in analyzer">mehuton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119819,7 +119819,7 @@
 </e>
 <e>
   <lg>
-    <l>meinailla</l>
+    <l comment="Not in analyzer">meinailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119863,7 +119863,7 @@
 </e>
 <e>
   <lg>
-    <l>meiskata</l>
+    <l comment="Not in analyzer">meiskata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -121413,7 +121413,7 @@
 </e>
 <e>
   <lg>
-    <l>metafori</l>
+    <l comment="Not in analyzer">metafori</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -122274,7 +122274,7 @@
 </e>
 <e>
   <lg>
-    <l>miehiinmenevä</l>
+    <l comment="Not in analyzer">miehiinmenevä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -123019,7 +123019,7 @@
 </e>
 <e>
   <lg>
-    <l>miesrukka</l>
+    <l comment="Not in analyzer">miesrukka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -123552,7 +123552,7 @@
 </e>
 <e>
   <lg>
-    <l>minkäaikainen</l>
+    <l comment="Not in analyzer">minkäaikainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -124530,7 +124530,7 @@
 </e>
 <e>
   <lg>
-    <l>moniperusteinen</l>
+    <l comment="Not in analyzer">moniperusteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -126217,7 +126217,7 @@
 </e>
 <e>
   <lg>
-    <l>muokkailla</l>
+    <l comment="Not in analyzer">muokkailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -126277,7 +126277,7 @@
 </e>
 <e>
   <lg>
-    <l>muotka</l>
+    <l comment="Not in analyzer">muotka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -126993,7 +126993,7 @@
 </e>
 <e>
   <lg>
-    <l>musikki</l>
+    <l comment="Not in analyzer">musikki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -127004,7 +127004,7 @@
 </e>
 <e>
   <lg>
-    <l>musikkisuivakko</l>
+    <l comment="Not in analyzer">musikkisuivakko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -127015,7 +127015,7 @@
 </e>
 <e>
   <lg>
-    <l>musikkivalkko</l>
+    <l comment="Not in analyzer">musikkivalkko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -127398,7 +127398,7 @@
 </e>
 <e>
   <lg>
-    <l>mustatukkainen</l>
+    <l comment="Not in analyzer">mustatukkainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -127639,7 +127639,7 @@
 </e>
 <e>
   <lg>
-    <l>mutkata</l>
+    <l comment="Not in analyzer">mutkata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -127717,7 +127717,7 @@
 </e>
 <e>
   <lg>
-    <l>mutristua</l>
+    <l comment="Not in analyzer">mutristua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -128239,7 +128239,7 @@
 </e>
 <e>
   <lg>
-    <l>muuttogeeninen</l>
+    <l comment="Not in analyzer">muuttogeeninen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -128522,7 +128522,7 @@
 </e>
 <e>
   <lg>
-    <l>myrkytyttää</l>
+    <l comment="Not in analyzer">myrkytyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -128905,7 +128905,7 @@
 </e>
 <e>
   <lg>
-    <l>myöhäiskevät</l>
+    <l comment="Not in analyzer">myöhäiskevät</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -129705,7 +129705,7 @@
 </e>
 <e>
   <lg>
-    <l>määkyillä</l>
+    <l comment="Not in analyzer">määkyillä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -129715,7 +129715,7 @@
 </e>
 <e>
   <lg>
-    <l>määkäistä</l>
+    <l comment="Not in analyzer">määkäistä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -130179,7 +130179,7 @@
 </e>
 <e>
   <lg>
-    <l>naapurisiita</l>
+    <l comment="Not in analyzer">naapurisiita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -130287,7 +130287,7 @@
 </e>
 <e>
   <lg>
-    <l>naarmuntua</l>
+    <l comment="Not in analyzer">naarmuntua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -130299,7 +130299,7 @@
 </e>
 <e>
   <lg>
-    <l>naarmutella</l>
+    <l comment="Not in analyzer">naarmutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -130758,7 +130758,7 @@
 </e>
 <e>
   <lg>
-    <l>naksutus</l>
+    <l comment="Not in analyzer">naksutus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -130944,7 +130944,7 @@
 </e>
 <e>
   <lg>
-    <l>napiton</l>
+    <l comment="Not in analyzer">napiton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -131337,7 +131337,7 @@
 </e>
 <e>
   <lg>
-    <l>nauunta</l>
+    <l comment="Not in analyzer">nauunta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132055,7 +132055,7 @@
 </e>
 <e>
   <lg>
-    <l>neljännesosatauko</l>
+    <l comment="Not in analyzer">neljännesosatauko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132192,7 +132192,7 @@
 </e>
 <e>
   <lg>
-    <l>nenäke</l>
+    <l comment="Not in analyzer">nenäke</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132566,7 +132566,7 @@
 </e>
 <e>
   <lg>
-    <l>neuloskella</l>
+    <l comment="Not in analyzer">neuloskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132914,7 +132914,7 @@
 </e>
 <e>
   <lg>
-    <l>niemekäs</l>
+    <l comment="Not in analyzer">niemekäs</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132925,7 +132925,7 @@
 </e>
 <e>
   <lg>
-    <l>niemeläinen</l>
+    <l comment="Not in analyzer">niemeläinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132972,7 +132972,7 @@
 </e>
 <e>
   <lg>
-    <l>nietoksinen</l>
+    <l comment="Not in analyzer">nietoksinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -133390,7 +133390,7 @@
 </e>
 <e>
   <lg>
-    <l>niliaitta</l>
+    <l comment="Not in analyzer">niliaitta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -133476,7 +133476,7 @@
 </e>
 <e>
   <lg>
-    <l>niloutua</l>
+    <l comment="Not in analyzer">niloutua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -133838,7 +133838,7 @@
 </e>
 <e>
   <lg>
-    <l>nipistyä</l>
+    <l comment="Not in analyzer">nipistyä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -134082,7 +134082,7 @@
 </e>
 <e>
   <lg>
-    <l>niukkaravinteinen</l>
+    <l comment="Not in analyzer">niukkaravinteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -134690,7 +134690,7 @@
 </e>
 <e>
   <lg>
-    <l>nokkelasanainen</l>
+    <l comment="Not in analyzer">nokkelasanainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135055,7 +135055,7 @@
 </e>
 <e>
   <lg>
-    <l>norjistella</l>
+    <l comment="Not in analyzer">norjistella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135382,7 +135382,7 @@
 </e>
 <e>
   <lg>
-    <l>notkistella</l>
+    <l comment="Not in analyzer">notkistella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135870,7 +135870,7 @@
 </e>
 <e>
   <lg>
-    <l>nukuskella</l>
+    <l comment="Not in analyzer">nukuskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135951,7 +135951,7 @@
 </e>
 <e>
   <lg>
-    <l>nulkka</l>
+    <l comment="Not in analyzer">nulkka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135961,7 +135961,7 @@
 </e>
 <e>
   <lg>
-    <l>nulppo</l>
+    <l comment="Not in analyzer">nulppo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135988,7 +135988,7 @@
 </e>
 <e>
   <lg>
-    <l>numeraalinen</l>
+    <l comment="Not in analyzer">numeraalinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -136106,7 +136106,7 @@
 </e>
 <e>
   <lg>
-    <l>nuokkurikko</l>
+    <l comment="Not in analyzer">nuokkurikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -137096,7 +137096,7 @@
 </e>
 <e>
   <lg>
-    <l>nylkijä</l>
+    <l comment="Not in analyzer">nylkijä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -138209,7 +138209,7 @@
 </e>
 <e>
   <lg>
-    <l>näskäin</l>
+    <l comment="Not in analyzer">näskäin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -139200,7 +139200,7 @@
 </e>
 <e>
   <lg>
-    <l>ohutlankainen</l>
+    <l comment="Not in analyzer">ohutlankainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -140073,7 +140073,7 @@
 </e>
 <e>
   <lg>
-    <l>oikosenaan</l>
+    <l comment="Not in analyzer">oikosenaan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -140385,7 +140385,7 @@
 </e>
 <e>
   <lg>
-    <l>okajäkälä</l>
+    <l comment="Not in analyzer">okajäkälä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -140542,7 +140542,7 @@
 </e>
 <e>
   <lg>
-    <l>oktaaviala</l>
+    <l comment="Not in analyzer">oktaaviala</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -140564,7 +140564,7 @@
 </e>
 <e>
   <lg>
-    <l>olaaton</l>
+    <l comment="Not in analyzer">olaaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -140603,7 +140603,7 @@
 </e>
 <e>
   <lg>
-    <l>olavi</l>
+    <l comment="Not in analyzer">olavi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -141487,7 +141487,7 @@
 </e>
 <e>
   <lg>
-    <l>omistella</l>
+    <l comment="Not in analyzer">omistella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -141720,7 +141720,7 @@
 </e>
 <e>
   <lg>
-    <l>ongiskella</l>
+    <l comment="Not in analyzer">ongiskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -141980,7 +141980,7 @@
 </e>
 <e>
   <lg>
-    <l>onnettomuusaltis</l>
+    <l comment="Not in analyzer">onnettomuusaltis</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -142121,7 +142121,7 @@
 </e>
 <e>
   <lg>
-    <l>ontumavika</l>
+    <l comment="Not in analyzer">ontumavika</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -142398,7 +142398,7 @@
 </e>
 <e>
   <lg>
-    <l>opettelija</l>
+    <l comment="Not in analyzer">opettelija</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -143125,7 +143125,7 @@
 </e>
 <e>
   <lg>
-    <l>oravarsi</l>
+    <l comment="Not in analyzer">oravarsi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -143310,7 +143310,7 @@
 </e>
 <e>
   <lg>
-    <l>orpoutua</l>
+    <l comment="Not in analyzer">orpoutua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -144152,7 +144152,7 @@
 </e>
 <e>
   <lg>
-    <l>otalehtivita</l>
+    <l comment="Not in analyzer">otalehtivita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -144183,7 +144183,7 @@
 </e>
 <e>
   <lg>
-    <l>otavalvátti</l>
+    <l comment="Not in analyzer">otavalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -146804,7 +146804,7 @@
 </e>
 <e>
   <lg>
-    <l>pajukkoinen</l>
+    <l comment="Not in analyzer">pajukkoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148008,7 +148008,7 @@
 </e>
 <e>
   <lg>
-    <l>paljassilmu</l>
+    <l comment="Not in analyzer">paljassilmu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148128,7 +148128,7 @@
 </e>
 <e>
   <lg>
-    <l>paljoruokainen</l>
+    <l comment="Not in analyzer">paljoruokainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148221,7 +148221,7 @@
 </e>
 <e>
   <lg>
-    <l>palkimahelle</l>
+    <l comment="Not in analyzer">palkimahelle</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148232,7 +148232,7 @@
 </e>
 <e>
   <lg>
-    <l>palkinen</l>
+    <l comment="Not in analyzer">palkinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148322,7 +148322,7 @@
 </e>
 <e>
   <lg>
-    <l>palkkatodistus</l>
+    <l comment="Not in analyzer">palkkatodistus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148445,7 +148445,7 @@
 </e>
 <e>
   <lg>
-    <l>pallistaa</l>
+    <l comment="Not in analyzer">pallistaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148890,7 +148890,7 @@
 </e>
 <e>
   <lg>
-    <l>palvauttaa</l>
+    <l comment="Not in analyzer">palvauttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -149045,7 +149045,7 @@
 </e>
 <e>
   <lg>
-    <l>palvospaikka</l>
+    <l comment="Not in analyzer">palvospaikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -149530,7 +149530,7 @@
 </e>
 <e>
   <lg>
-    <l>papanoida</l>
+    <l comment="Not in analyzer">papanoida</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -151033,7 +151033,7 @@
 </e>
 <e>
   <lg>
-    <l>pauloitella</l>
+    <l comment="Not in analyzer">pauloitella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -151076,7 +151076,7 @@
 </e>
 <e>
   <lg>
-    <l>paunetti</l>
+    <l comment="Not in analyzer">paunetti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -151242,7 +151242,7 @@
 </e>
 <e>
   <lg>
-    <l>pehmeäluminen</l>
+    <l comment="Not in analyzer">pehmeäluminen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -152096,7 +152096,7 @@
 </e>
 <e>
   <lg>
-    <l>peltovalvátti</l>
+    <l comment="Not in analyzer">peltovalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -152116,7 +152116,7 @@
 </e>
 <e>
   <lg>
-    <l>peltovirvilä</l>
+    <l comment="Not in analyzer">peltovirvilä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -152345,7 +152345,7 @@
 </e>
 <e>
   <lg>
-    <l>pensasirkkalintu</l>
+    <l comment="Not in analyzer">pensasirkkalintu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -152885,7 +152885,7 @@
 </e>
 <e>
   <lg>
-    <l>perinnöttömyys</l>
+    <l comment="Not in analyzer">perinnöttömyys</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -152956,7 +152956,7 @@
 </e>
 <e>
   <lg>
-    <l>perintömaa</l>
+    <l comment="Not in analyzer">perintömaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -153088,7 +153088,7 @@
 </e>
 <e>
   <lg>
-    <l>permikkä</l>
+    <l comment="Not in analyzer">permikkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -153121,7 +153121,7 @@
 </e>
 <e>
   <lg>
-    <l>persamus</l>
+    <l comment="Not in analyzer">persamus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -154024,7 +154024,7 @@
 </e>
 <e>
   <lg>
-    <l>-peräinen</l>
+    <l comment="Not in analyzer">-peräinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -155248,7 +155248,7 @@
 </e>
 <e>
   <lg>
-    <l>pidemmästi</l>
+    <l comment="Not in analyzer">pidemmästi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -155494,7 +155494,7 @@
 </e>
 <e>
   <lg>
-    <l>pienennellä</l>
+    <l comment="Not in analyzer">pienennellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -155643,7 +155643,7 @@
 </e>
 <e>
   <lg>
-    <l>pienisarvinen</l>
+    <l comment="Not in analyzer">pienisarvinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -155653,7 +155653,7 @@
 </e>
 <e>
   <lg>
-    <l>pienisilmäinen</l>
+    <l comment="Not in analyzer">pienisilmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -155664,7 +155664,7 @@
 </e>
 <e>
   <lg>
-    <l>pienivatsainen</l>
+    <l comment="Not in analyzer">pienivatsainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -156429,7 +156429,7 @@
 </e>
 <e>
   <lg>
-    <l>piinaantua</l>
+    <l comment="Not in analyzer">piinaantua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -156579,7 +156579,7 @@
 </e>
 <e>
   <lg>
-    <l>piiputella</l>
+    <l comment="Not in analyzer">piiputella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -156589,7 +156589,7 @@
 </e>
 <e>
   <lg>
-    <l>piipustella</l>
+    <l comment="Not in analyzer">piipustella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -156599,7 +156599,7 @@
 </e>
 <e>
   <lg>
-    <l>piira</l>
+    <l comment="Not in analyzer">piira</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -157958,7 +157958,7 @@
 </e>
 <e>
   <lg>
-    <l>pilkkanimi</l>
+    <l comment="Not in analyzer">pilkkanimi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -157968,7 +157968,7 @@
 </e>
 <e>
   <lg>
-    <l>pilkkasana</l>
+    <l comment="Not in analyzer">pilkkasana</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -158971,7 +158971,7 @@
 </e>
 <e>
   <lg>
-    <l>pistel</l>
+    <l comment="Not in analyzer">pistel</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159197,7 +159197,7 @@
 </e>
 <e>
   <lg>
-    <l>pitempi</l>
+    <l comment="Not in analyzer">pitempi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159306,7 +159306,7 @@
 </e>
 <e>
   <lg>
-    <l>pitkähelmainen</l>
+    <l comment="Not in analyzer">pitkähelmainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159375,7 +159375,7 @@
 </e>
 <e>
   <lg>
-    <l>pitkäkorvainen</l>
+    <l comment="Not in analyzer">pitkäkorvainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159396,7 +159396,7 @@
 </e>
 <e>
   <lg>
-    <l>pitkälehtikihokki</l>
+    <l comment="Not in analyzer">pitkälehtikihokki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159406,7 +159406,7 @@
 </e>
 <e>
   <lg>
-    <l>pitkälehtivita</l>
+    <l comment="Not in analyzer">pitkälehtivita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -159596,7 +159596,7 @@
 </e>
 <e>
   <lg>
-    <l>pitkäsääri</l>
+    <l comment="Not in analyzer">pitkäsääri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160241,7 +160241,7 @@
 </e>
 <e>
   <lg>
-    <l>pohjansinivalvátti</l>
+    <l comment="Not in analyzer">pohjansinivalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160877,7 +160877,7 @@
 </e>
 <e>
   <lg>
-    <l>poikkikirves</l>
+    <l comment="Not in analyzer">poikkikirves</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160899,7 +160899,7 @@
 </e>
 <e>
   <lg>
-    <l>poikkipato</l>
+    <l comment="Not in analyzer">poikkipato</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160909,7 +160909,7 @@
 </e>
 <e>
   <lg>
-    <l>poikkipiirto</l>
+    <l comment="Not in analyzer">poikkipiirto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160919,7 +160919,7 @@
 </e>
 <e>
   <lg>
-    <l>poikkivirtaan</l>
+    <l comment="Not in analyzer">poikkivirtaan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -162763,7 +162763,7 @@
 </e>
 <e>
   <lg>
-    <l>pororikas</l>
+    <l comment="Not in analyzer">pororikas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -162897,7 +162897,7 @@
 </e>
 <e>
   <lg>
-    <l>poroton</l>
+    <l comment="Not in analyzer">poroton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163016,7 +163016,7 @@
 </e>
 <e>
   <lg>
-    <l>porskahtaa</l>
+    <l comment="Not in analyzer">porskahtaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163026,7 +163026,7 @@
 </e>
 <e>
   <lg>
-    <l>porskauttaa</l>
+    <l comment="Not in analyzer">porskauttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163036,7 +163036,7 @@
 </e>
 <e>
   <lg>
-    <l>porskua</l>
+    <l comment="Not in analyzer">porskua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163130,7 +163130,7 @@
 </e>
 <e>
   <lg>
-    <l>porukointi</l>
+    <l comment="Not in analyzer">porukointi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163662,7 +163662,7 @@
 </e>
 <e>
   <lg>
-    <l>pounu</l>
+    <l comment="Not in analyzer">pounu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -163690,7 +163690,7 @@
 </e>
 <e>
   <lg>
-    <l>poutaantua</l>
+    <l comment="Not in analyzer">poutaantua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -164095,7 +164095,7 @@
 </e>
 <e>
   <lg>
-    <l>promilla</l>
+    <l comment="Not in analyzer">promilla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -164624,7 +164624,7 @@
 </e>
 <e>
   <lg>
-    <l>puhdasoppinut</l>
+    <l comment="Not in analyzer">puhdasoppinut</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -165257,7 +165257,7 @@
 </e>
 <e>
   <lg>
-    <l>puijari</l>
+    <l comment="Not in analyzer">puijari</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -165735,7 +165735,7 @@
 </e>
 <e>
   <lg>
-    <l>pulautella</l>
+    <l comment="Not in analyzer">pulautella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -166548,7 +166548,7 @@
 </e>
 <e>
   <lg>
-    <l>punoskella</l>
+    <l comment="Not in analyzer">punoskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168216,7 +168216,7 @@
 </e>
 <e>
   <lg>
-    <l>puuhkaton</l>
+    <l comment="Not in analyzer">puuhkaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168246,7 +168246,7 @@
 </e>
 <e>
   <lg>
-    <l>puukala</l>
+    <l comment="Not in analyzer">puukala</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168350,7 +168350,7 @@
 </e>
 <e>
   <lg>
-    <l>puulapio</l>
+    <l comment="Not in analyzer">puulapio</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168731,7 +168731,7 @@
 </e>
 <e>
   <lg>
-    <l>puutto</l>
+    <l comment="Not in analyzer">puutto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168748,7 +168748,7 @@
 </e>
 <e>
   <lg>
-    <l>puuttovene</l>
+    <l comment="Not in analyzer">puuttovene</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -168970,7 +168970,7 @@
 </e>
 <e>
   <lg>
-    <l>pykältää</l>
+    <l comment="Not in analyzer">pykältää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -169342,7 +169342,7 @@
 </e>
 <e>
   <lg>
-    <l>pystysarvi</l>
+    <l comment="Not in analyzer">pystysarvi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -169786,7 +169786,7 @@
 </e>
 <e>
   <lg>
-    <l>pyyhiskellä</l>
+    <l comment="Not in analyzer">pyyhiskellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -169991,7 +169991,7 @@
 </e>
 <e>
   <lg>
-    <l>pyyntikotus</l>
+    <l comment="Not in analyzer">pyyntikotus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -170210,7 +170210,7 @@
 </e>
 <e>
   <lg>
-    <l>pyöreälehtikihokki</l>
+    <l comment="Not in analyzer">pyöreälehtikihokki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -171018,7 +171018,7 @@
 </e>
 <e>
   <lg>
-    <l>pälvetä</l>
+    <l comment="Not in analyzer">pälvetä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -171038,7 +171038,7 @@
 </e>
 <e>
   <lg>
-    <l>pälvinen</l>
+    <l comment="Not in analyzer">pälvinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -171842,7 +171842,7 @@
 </e>
 <e>
   <lg>
-    <l>pääläri</l>
+    <l comment="Not in analyzer">pääläri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -171933,7 +171933,7 @@
 </e>
 <e>
   <lg>
-    <l>päänkiertäjälihas</l>
+    <l comment="Not in analyzer">päänkiertäjälihas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -172830,7 +172830,7 @@
 </e>
 <e>
   <lg>
-    <l>pökkelöityä</l>
+    <l comment="Not in analyzer">pökkelöityä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -172944,7 +172944,7 @@
 </e>
 <e>
   <lg>
-    <l>pölläytellä</l>
+    <l comment="Not in analyzer">pölläytellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173881,7 +173881,7 @@
 </e>
 <e>
   <lg>
-    <l>rádio</l>
+    <l comment="Not in analyzer">rádio</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173892,7 +173892,7 @@
 </e>
 <e>
   <lg>
-    <l>rádioaktiivinen</l>
+    <l comment="Not in analyzer">rádioaktiivinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173902,7 +173902,7 @@
 </e>
 <e>
   <lg>
-    <l>rádioaktiivisuus</l>
+    <l comment="Not in analyzer">rádioaktiivisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173912,7 +173912,7 @@
 </e>
 <e>
   <lg>
-    <l>rádioida</l>
+    <l comment="Not in analyzer">rádioida</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173922,7 +173922,7 @@
 </e>
 <e>
   <lg>
-    <l>rádiomasto</l>
+    <l comment="Not in analyzer">rádiomasto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173932,7 +173932,7 @@
 </e>
 <e>
   <lg>
-    <l>rádio-ohjelma</l>
+    <l comment="Not in analyzer">rádio-ohjelma</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173942,7 +173942,7 @@
 </e>
 <e>
   <lg>
-    <l>rádiotoimittaja</l>
+    <l comment="Not in analyzer">rádiotoimittaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -174041,7 +174041,7 @@
 </e>
 <e>
   <lg>
-    <l>rahakiisa</l>
+    <l comment="Not in analyzer">rahakiisa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -175518,7 +175518,7 @@
 </e>
 <e>
   <lg>
-    <l>rakkainen</l>
+    <l comment="Not in analyzer">rakkainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -175843,7 +175843,7 @@
 </e>
 <e>
   <lg>
-    <l>rankinen</l>
+    <l comment="Not in analyzer">rankinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -175893,7 +175893,7 @@
 </e>
 <e>
   <lg>
-    <l>rannentaa</l>
+    <l comment="Not in analyzer">rannentaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -176448,7 +176448,7 @@
 </e>
 <e>
   <lg>
-    <l>rapakoitua</l>
+    <l comment="Not in analyzer">rapakoitua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -176532,7 +176532,7 @@
 </e>
 <e>
   <lg>
-    <l>rapeuttaa</l>
+    <l comment="Not in analyzer">rapeuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -178368,7 +178368,7 @@
 </e>
 <e>
   <lg>
-    <l>reeska</l>
+    <l comment="Not in analyzer">reeska</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -178550,7 +178550,7 @@
 </e>
 <e>
   <lg>
-    <l>rehtoaita</l>
+    <l comment="Not in analyzer">rehtoaita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179015,7 +179015,7 @@
 </e>
 <e>
   <lg>
-    <l>renkku</l>
+    <l comment="Not in analyzer">renkku</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179311,7 +179311,7 @@
 </e>
 <e>
   <lg>
-    <l>resla</l>
+    <l comment="Not in analyzer">resla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179323,7 +179323,7 @@
 </e>
 <e>
   <lg>
-    <l>reslareki</l>
+    <l comment="Not in analyzer">reslareki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179365,7 +179365,7 @@
 </e>
 <e>
   <lg>
-    <l>restriktiivinen</l>
+    <l comment="Not in analyzer">restriktiivinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179602,7 +179602,7 @@
 </e>
 <e>
   <lg>
-    <l>reunempi</l>
+    <l comment="Not in analyzer">reunempi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -179765,7 +179765,7 @@
 </e>
 <e>
   <lg>
-    <l>riekoton</l>
+    <l comment="Not in analyzer">riekoton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -180512,7 +180512,7 @@
 </e>
 <e>
   <lg>
-    <l>riisuttaa</l>
+    <l comment="Not in analyzer">riisuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -180914,7 +180914,7 @@
 </e>
 <e>
   <lg>
-    <l>rikkatatar</l>
+    <l comment="Not in analyzer">rikkatatar</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -182479,7 +182479,7 @@
 </e>
 <e>
   <lg>
-    <l>risuttaa</l>
+    <l comment="Not in analyzer">risuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -182496,7 +182496,7 @@
 </e>
 <e>
   <lg>
-    <l>risuttaa</l>
+    <l comment="Not in analyzer">risuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -182776,7 +182776,7 @@
 </e>
 <e>
   <lg>
-    <l>rivosti</l>
+    <l comment="Not in analyzer">rivosti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -182920,7 +182920,7 @@
 </e>
 <e>
   <lg>
-    <l>rohki</l>
+    <l comment="Not in analyzer">rohki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183183,7 +183183,7 @@
 </e>
 <e>
   <lg>
-    <l>rokotuttaa</l>
+    <l comment="Not in analyzer">rokotuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183246,7 +183246,7 @@
 </e>
 <e>
   <lg>
-    <l>románi</l>
+    <l comment="Not in analyzer">románi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183258,7 +183258,7 @@
 </e>
 <e>
   <lg>
-    <l>románialainen</l>
+    <l comment="Not in analyzer">románialainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183352,7 +183352,7 @@
 </e>
 <e>
   <lg>
-    <l>ronkkua</l>
+    <l comment="Not in analyzer">ronkkua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183364,7 +183364,7 @@
 </e>
 <e>
   <lg>
-    <l>ronkkuvainen</l>
+    <l comment="Not in analyzer">ronkkuvainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183374,7 +183374,7 @@
 </e>
 <e>
   <lg>
-    <l>ronkunta</l>
+    <l comment="Not in analyzer">ronkunta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183468,7 +183468,7 @@
 </e>
 <e>
   <lg>
-    <l>ropsutella</l>
+    <l comment="Not in analyzer">ropsutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183687,7 +183687,7 @@
 </e>
 <e>
   <lg>
-    <l>rosojää</l>
+    <l comment="Not in analyzer">rosojää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183820,7 +183820,7 @@
 </e>
 <e>
   <lg>
-    <l>roukaista</l>
+    <l comment="Not in analyzer">roukaista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183831,7 +183831,7 @@
 </e>
 <e>
   <lg>
-    <l>rouko</l>
+    <l comment="Not in analyzer">rouko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183869,7 +183869,7 @@
 </e>
 <e>
   <lg>
-    <l>rouunta</l>
+    <l comment="Not in analyzer">rouunta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183970,7 +183970,7 @@
 </e>
 <e>
   <lg>
-    <l>rova</l>
+    <l comment="Not in analyzer">rova</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184107,7 +184107,7 @@
 </e>
 <e>
   <lg>
-    <l>ruijankeulankärki</l>
+    <l comment="Not in analyzer">ruijankeulankärki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184117,7 +184117,7 @@
 </e>
 <e>
   <lg>
-    <l>ruijankissankäpälä</l>
+    <l comment="Not in analyzer">ruijankissankäpälä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184127,7 +184127,7 @@
 </e>
 <e>
   <lg>
-    <l>ruijanpahtahanhikki</l>
+    <l comment="Not in analyzer">ruijanpahtahanhikki</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184771,7 +184771,7 @@
 </e>
 <e>
   <lg>
-    <l>runsaspuinen</l>
+    <l comment="Not in analyzer">runsaspuinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184809,7 +184809,7 @@
 </e>
 <e>
   <lg>
-    <l>sanakas</l>
+    <l comment="Not in analyzer">sanakas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184832,7 +184832,7 @@
 </e>
 <e>
   <lg>
-    <l>runsasvasainen</l>
+    <l comment="Not in analyzer">runsasvasainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185011,7 +185011,7 @@
 </e>
 <e>
   <lg>
-    <l>ruohostomaa</l>
+    <l comment="Not in analyzer">ruohostomaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185071,7 +185071,7 @@
 </e>
 <e>
   <lg>
-    <l>ruojus</l>
+    <l comment="Not in analyzer">ruojus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185707,7 +185707,7 @@
 </e>
 <e>
   <lg>
-    <l>rupeentua</l>
+    <l comment="Not in analyzer">rupeentua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185798,7 +185798,7 @@
 </e>
 <e>
   <lg>
-    <l>rusahtelu</l>
+    <l comment="Not in analyzer">rusahtelu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185818,7 +185818,7 @@
 </e>
 <e>
   <lg>
-    <l>rusautella</l>
+    <l comment="Not in analyzer">rusautella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -185838,7 +185838,7 @@
 </e>
 <e>
   <lg>
-    <l>rusennella</l>
+    <l comment="Not in analyzer">rusennella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -186089,7 +186089,7 @@
 </e>
 <e>
   <lg>
-    <l>rutikuivuus</l>
+    <l comment="Not in analyzer">rutikuivuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -187385,7 +187385,7 @@
 </e>
 <e>
   <lg>
-    <l>rähmäsilmäinen</l>
+    <l comment="Not in analyzer">rähmäsilmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188201,7 +188201,7 @@
 </e>
 <e>
   <lg>
-    <l>röhkintä</l>
+    <l comment="Not in analyzer">röhkintä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188284,7 +188284,7 @@
 </e>
 <e>
   <lg>
-    <l>rötkähtää</l>
+    <l comment="Not in analyzer">rötkähtää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188307,7 +188307,7 @@
 </e>
 <e>
   <lg>
-    <l>rötkäyttää</l>
+    <l comment="Not in analyzer">rötkäyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188771,7 +188771,7 @@
 </e>
 <e>
   <lg>
-    <l>saamelaisperäinen</l>
+    <l comment="Not in analyzer">saamelaisperäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188835,7 +188835,7 @@
 </e>
 <e>
   <lg>
-    <l>saamelaistaustainen</l>
+    <l comment="Not in analyzer">saamelaistaustainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188849,7 +188849,7 @@
 </e>
 <e>
   <lg>
-    <l>saamelaistua</l>
+    <l comment="Not in analyzer">saamelaistua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188929,7 +188929,7 @@
 </e>
 <e>
   <lg>
-    <l>saamennos</l>
+    <l comment="Not in analyzer">saamennos</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188939,7 +188939,7 @@
 </e>
 <e>
   <lg>
-    <l>saamentaa</l>
+    <l comment="Not in analyzer">saamentaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -190214,7 +190214,7 @@
 </e>
 <e>
   <lg>
-    <l>sakeasarvi</l>
+    <l comment="Not in analyzer">sakeasarvi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -191124,7 +191124,7 @@
 </e>
 <e>
   <lg>
-    <l>samanlevyinen</l>
+    <l comment="Not in analyzer">samanlevyinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -191781,7 +191781,7 @@
 </e>
 <e>
   <lg>
-    <l>sanarikas</l>
+    <l comment="Not in analyzer">sanarikas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -192216,7 +192216,7 @@
 </e>
 <e>
   <lg>
-    <l>sapilaat</l>
+    <l comment="Not in analyzer">sapilaat</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -192487,7 +192487,7 @@
 </e>
 <e>
   <lg>
-    <l>sarvikiela</l>
+    <l comment="Not in analyzer">sarvikiela</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -192748,7 +192748,7 @@
 </e>
 <e>
   <lg>
-    <l>satakruunuinen</l>
+    <l comment="Not in analyzer">satakruunuinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193137,7 +193137,7 @@
 </e>
 <e>
   <lg>
-    <l>saulakka</l>
+    <l comment="Not in analyzer">saulakka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193328,7 +193328,7 @@
 </e>
 <e>
   <lg>
-    <l>saverikko</l>
+    <l comment="Not in analyzer">saverikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193549,7 +193549,7 @@
 </e>
 <e>
   <lg>
-    <l>savupuu</l>
+    <l comment="Not in analyzer">savupuu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193560,7 +193560,7 @@
 </e>
 <e>
   <lg>
-    <l>savus</l>
+    <l comment="Not in analyzer">savus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193619,7 +193619,7 @@
 </e>
 <e>
   <lg>
-    <l>savustuttaa</l>
+    <l comment="Not in analyzer">savustuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -193777,7 +193777,7 @@
 </e>
 <e>
   <lg>
-    <l>seinempää</l>
+    <l comment="Not in analyzer">seinempää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194724,7 +194724,7 @@
 </e>
 <e>
   <lg>
-    <l>selfie</l>
+    <l comment="Not in analyzer">selfie</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194810,7 +194810,7 @@
 </e>
 <e>
   <lg>
-    <l>selityttää</l>
+    <l comment="Not in analyzer">selityttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -195292,7 +195292,7 @@
 </e>
 <e>
   <lg>
-    <l>sellulosa</l>
+    <l comment="Not in analyzer">sellulosa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -195348,7 +195348,7 @@
 </e>
 <e>
   <lg>
-    <l>setolkka</l>
+    <l comment="Not in analyzer">setolkka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -196156,7 +196156,7 @@
 </e>
 <e>
   <lg>
-    <l>Seulaset</l>
+    <l comment="Not in analyzer">Seulaset</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -196167,7 +196167,7 @@
 </e>
 <e>
   <lg>
-    <l>seulautua</l>
+    <l comment="Not in analyzer">seulautua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -197633,7 +197633,7 @@
 </e>
 <e>
   <lg>
-    <l>siita</l>
+    <l comment="Not in analyzer">siita</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -198211,7 +198211,7 @@
 </e>
 <e>
   <lg>
-    <l>sikempi</l>
+    <l comment="Not in analyzer">sikempi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -198254,7 +198254,7 @@
 </e>
 <e>
   <lg>
-    <l>sikimmäinen</l>
+    <l comment="Not in analyzer">sikimmäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -198276,7 +198276,7 @@
 </e>
 <e>
   <lg>
-    <l>sikiytyä</l>
+    <l comment="Not in analyzer">sikiytyä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -198935,7 +198935,7 @@
 </e>
 <e>
   <lg>
-    <l>silmäkulmanluu</l>
+    <l comment="Not in analyzer">silmäkulmanluu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -199237,7 +199237,7 @@
 </e>
 <e>
   <lg>
-    <l>silokarvainen</l>
+    <l comment="Not in analyzer">silokarvainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -199732,7 +199732,7 @@
 </e>
 <e>
   <lg>
-    <l>sinivalvátti</l>
+    <l comment="Not in analyzer">sinivalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -199873,7 +199873,7 @@
 </e>
 <e>
   <lg>
-    <l>sinni</l>
+    <l comment="Not in analyzer">sinni</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -200000,7 +200000,7 @@
 </e>
 <e>
   <lg>
-    <l>siperiansinivalvátti</l>
+    <l comment="Not in analyzer">siperiansinivalvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -200532,7 +200532,7 @@
 </e>
 <e>
   <lg>
-    <l>sisnakka</l>
+    <l comment="Not in analyzer">sisnakka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -200633,7 +200633,7 @@
 </e>
 <e>
   <lg>
-    <l>sisutella</l>
+    <l comment="Not in analyzer">sisutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -200854,7 +200854,7 @@
 </e>
 <e>
   <lg>
-    <l>sisäsältäpäin</l>
+    <l comment="Not in analyzer">sisäsältäpäin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -201402,7 +201402,7 @@
 </e>
 <e>
   <lg>
-    <l>siula</l>
+    <l comment="Not in analyzer">siula</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -202367,7 +202367,7 @@
 </e>
 <e>
   <lg>
-    <l>soimailla</l>
+    <l comment="Not in analyzer">soimailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -203238,7 +203238,7 @@
 </e>
 <e>
   <lg>
-    <l>somer</l>
+    <l comment="Not in analyzer">somer</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -203329,7 +203329,7 @@
 </e>
 <e>
   <lg>
-    <l>sonotus</l>
+    <l comment="Not in analyzer">sonotus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -203353,7 +203353,7 @@
 </e>
 <e>
   <lg>
-    <l>sontakotti</l>
+    <l comment="Not in analyzer">sontakotti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -203855,7 +203855,7 @@
 </e>
 <e>
   <lg>
-    <l>sormainen</l>
+    <l comment="Not in analyzer">sormainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -203994,7 +203994,7 @@
 </e>
 <e>
   <lg>
-    <l>sorrakka</l>
+    <l comment="Not in analyzer">sorrakka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -204422,7 +204422,7 @@
 </e>
 <e>
   <lg>
-    <l>sotakiihkoinen</l>
+    <l comment="Not in analyzer">sotakiihkoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -204983,7 +204983,7 @@
 </e>
 <e>
   <lg>
-    <l>soudatella</l>
+    <l comment="Not in analyzer">soudatella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -205102,7 +205102,7 @@
 </e>
 <e>
   <lg>
-    <l>soutukelpoinen</l>
+    <l comment="Not in analyzer">soutukelpoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -205674,7 +205674,7 @@
 </e>
 <e>
   <lg>
-    <l>stigmatisoida</l>
+    <l comment="Not in analyzer">stigmatisoida</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -205754,7 +205754,7 @@
 </e>
 <e>
   <lg>
-    <l>striimata</l>
+    <l comment="Not in analyzer">striimata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -206170,7 +206170,7 @@
 </e>
 <e>
   <lg>
-    <l>suikeropaju</l>
+    <l comment="Not in analyzer">suikeropaju</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -206333,7 +206333,7 @@
 </e>
 <e>
   <lg>
-    <l>suivakko</l>
+    <l comment="Not in analyzer">suivakko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -207977,7 +207977,7 @@
 </e>
 <e>
   <lg>
-    <l>suolaannuttaa</l>
+    <l comment="Not in analyzer">suolaannuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -208501,7 +208501,7 @@
 </e>
 <e>
   <lg>
-    <l>suomalais-volgalainen</l>
+    <l comment="Not in analyzer">suomalais-volgalainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -208694,7 +208694,7 @@
 </e>
 <e>
   <lg>
-    <l>suongeri</l>
+    <l comment="Not in analyzer">suongeri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -208741,7 +208741,7 @@
 </e>
 <e>
   <lg>
-    <l>suonikuntura</l>
+    <l comment="Not in analyzer">suonikuntura</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -208801,7 +208801,7 @@
 </e>
 <e>
   <lg>
-    <l>suontenkalkkeutuminen</l>
+    <l comment="Not in analyzer">suontenkalkkeutuminen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -209038,7 +209038,7 @@
 </e>
 <e>
   <lg>
-    <l>suorahko</l>
+    <l comment="Not in analyzer">suorahko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -210449,7 +210449,7 @@
 </e>
 <e>
   <lg>
-    <l>suumätä</l>
+    <l comment="Not in analyzer">suumätä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -210852,7 +210852,7 @@
 </e>
 <e>
   <lg>
-    <l>suuriluuloinen</l>
+    <l comment="Not in analyzer">suuriluuloinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -211417,7 +211417,7 @@
 </e>
 <e>
   <lg>
-    <l>sydämenmuotoinen</l>
+    <l comment="Not in analyzer">sydämenmuotoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -212002,7 +212002,7 @@
 </e>
 <e>
   <lg>
-    <l>sylkytellä</l>
+    <l comment="Not in analyzer">sylkytellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -213135,7 +213135,7 @@
 </e>
 <e>
   <lg>
-    <l>syvänteinen</l>
+    <l comment="Not in analyzer">syvänteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -213639,7 +213639,7 @@
 </e>
 <e>
   <lg>
-    <l>syömäpaikka</l>
+    <l comment="Not in analyzer">syömäpaikka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -214458,7 +214458,7 @@
 </e>
 <e>
   <lg>
-    <l>säkkikankainen</l>
+    <l comment="Not in analyzer">säkkikankainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -214656,7 +214656,7 @@
 </e>
 <e>
   <lg>
-    <l>säpikäs</l>
+    <l comment="Not in analyzer">säpikäs</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215508,7 +215508,7 @@
 </e>
 <e>
   <lg>
-    <l>sääskinen</l>
+    <l comment="Not in analyzer">sääskinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215533,7 +215533,7 @@
 </e>
 <e>
   <lg>
-    <l>savus</l>
+    <l comment="Not in analyzer">savus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215947,7 +215947,7 @@
 </e>
 <e>
   <lg>
-    <l>taakkahihna</l>
+    <l comment="Not in analyzer">taakkahihna</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215957,7 +215957,7 @@
 </e>
 <e>
   <lg>
-    <l>taakkahärkä</l>
+    <l comment="Not in analyzer">taakkahärkä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215967,7 +215967,7 @@
 </e>
 <e>
   <lg>
-    <l>taakkapororaito</l>
+    <l comment="Not in analyzer">taakkapororaito</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -215977,7 +215977,7 @@
 </e>
 <e>
   <lg>
-    <l>taakoittaa</l>
+    <l comment="Not in analyzer">taakoittaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -216032,7 +216032,7 @@
 </e>
 <e>
   <lg>
-    <l>taannehtivasti</l>
+    <l comment="Not in analyzer">taannehtivasti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218026,7 +218026,7 @@
 </e>
 <e>
   <lg>
-    <l>takamuksilleen</l>
+    <l comment="Not in analyzer">takamuksilleen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218250,7 +218250,7 @@
 </e>
 <e>
   <lg>
-    <l>takasiestin</l>
+    <l comment="Not in analyzer">takasiestin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218313,7 +218313,7 @@
 </e>
 <e>
   <lg>
-    <l>takautuvasti</l>
+    <l comment="Not in analyzer">takautuvasti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218469,7 +218469,7 @@
 </e>
 <e>
   <lg>
-    <l>takkala</l>
+    <l comment="Not in analyzer">takkala</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218524,7 +218524,7 @@
 </e>
 <e>
   <lg>
-    <l>takkuunnuttaa</l>
+    <l comment="Not in analyzer">takkuunnuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218845,7 +218845,7 @@
 </e>
 <e>
   <lg>
-    <l>tallauttaa</l>
+    <l comment="Not in analyzer">tallauttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218868,7 +218868,7 @@
 </e>
 <e>
   <lg>
-    <l>tallennella</l>
+    <l comment="Not in analyzer">tallennella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -218914,7 +218914,7 @@
 </e>
 <e>
   <lg>
-    <l>talletella</l>
+    <l comment="Not in analyzer">talletella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -219443,7 +219443,7 @@
 </e>
 <e>
   <lg>
-    <l>talventörröttäjä</l>
+    <l comment="Not in analyzer">talventörröttäjä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -220992,7 +220992,7 @@
 </e>
 <e>
   <lg>
-    <l>tarkkanenäinen</l>
+    <l comment="Not in analyzer">tarkkanenäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -221429,7 +221429,7 @@
 </e>
 <e>
   <lg>
-    <l>tartuskella</l>
+    <l comment="Not in analyzer">tartuskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -221440,7 +221440,7 @@
 </e>
 <e>
   <lg>
-    <l>tarttuilla</l>
+    <l comment="Not in analyzer">tarttuilla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -221754,7 +221754,7 @@
 </e>
 <e>
   <lg>
-    <l>tasankoinen</l>
+    <l comment="Not in analyzer">tasankoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -222233,7 +222233,7 @@
 </e>
 <e>
   <lg>
-    <l>tauloa</l>
+    <l comment="Not in analyzer">tauloa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -224734,7 +224734,7 @@
 </e>
 <e>
   <lg>
-    <l>testameantata</l>
+    <l comment="Not in analyzer">testameantata</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -224916,7 +224916,7 @@
 </e>
 <e>
   <lg>
-    <l>teurastuttaa</l>
+    <l comment="Not in analyzer">teurastuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -225015,7 +225015,7 @@
 </e>
 <e>
   <lg>
-    <l>tiedoksisaanti</l>
+    <l comment="Not in analyzer">tiedoksisaanti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -225272,7 +225272,7 @@
 </e>
 <e>
   <lg>
-    <l>tieliittymä</l>
+    <l comment="Not in analyzer">tieliittymä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -225647,7 +225647,7 @@
 </e>
 <e>
   <lg>
-    <l>tiettömyys</l>
+    <l comment="Not in analyzer">tiettömyys</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -225787,7 +225787,7 @@
 </e>
 <e>
   <lg>
-    <l>tieva</l>
+    <l comment="Not in analyzer">tieva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -226197,7 +226197,7 @@
 </e>
 <e>
   <lg>
-    <l>tiivislihainen</l>
+    <l comment="Not in analyzer">tiivislihainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -226465,7 +226465,7 @@
 </e>
 <e>
   <lg>
-    <l>tilaavievä</l>
+    <l comment="Not in analyzer">tilaavievä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227060,7 +227060,7 @@
 </e>
 <e>
   <lg>
-    <l>tinkijä</l>
+    <l comment="Not in analyzer">tinkijä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227401,7 +227401,7 @@
 </e>
 <e>
   <lg>
-    <l>tiuhta</l>
+    <l comment="Not in analyzer">tiuhta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227439,7 +227439,7 @@
 </e>
 <e>
   <lg>
-    <l>tiukennella</l>
+    <l comment="Not in analyzer">tiukennella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227580,7 +227580,7 @@
 </e>
 <e>
   <lg>
-    <l>tivailla</l>
+    <l comment="Not in analyzer">tivailla</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227743,7 +227743,7 @@
 </e>
 <e>
   <lg>
-    <l>todistettavasti</l>
+    <l comment="Not in analyzer">todistettavasti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -228659,7 +228659,7 @@
 </e>
 <e>
   <lg>
-    <l>toiskielinen</l>
+    <l comment="Not in analyzer">toiskielinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -228858,7 +228858,7 @@
 </e>
 <e>
   <lg>
-    <l>töräytellä</l>
+    <l comment="Not in analyzer">töräytellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -228941,7 +228941,7 @@
 </e>
 <e>
   <lg>
-    <l>toivoskella</l>
+    <l comment="Not in analyzer">toivoskella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -229176,7 +229176,7 @@
 </e>
 <e>
   <lg>
-    <l>tolpittaa</l>
+    <l comment="Not in analyzer">tolpittaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -229219,7 +229219,7 @@
 </e>
 <e>
   <lg>
-    <l>tomppelimainen</l>
+    <l comment="Not in analyzer">tomppelimainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -229503,7 +229503,7 @@
 </e>
 <e>
   <lg>
-    <l>torkunta</l>
+    <l comment="Not in analyzer">torkunta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -230477,7 +230477,7 @@
 </e>
 <e>
   <lg>
-    <l>tšuudi</l>
+    <l comment="Not in analyzer">tšuudi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -231310,7 +231310,7 @@
 </e>
 <e>
   <lg>
-    <l>tukevoittaa</l>
+    <l comment="Not in analyzer">tukevoittaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -231449,7 +231449,7 @@
 </e>
 <e>
   <lg>
-    <l>tukiosa</l>
+    <l comment="Not in analyzer">tukiosa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -231716,7 +231716,7 @@
 </e>
 <e>
   <lg>
-    <l>tukuttain</l>
+    <l comment="Not in analyzer">tukuttain</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -232578,7 +232578,7 @@
 </e>
 <e>
   <lg>
-    <l>tulomaa</l>
+    <l comment="Not in analyzer">tulomaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -232848,7 +232848,7 @@
 </e>
 <e>
   <lg>
-    <l>tummalahnaruoho</l>
+    <l comment="Not in analyzer">tummalahnaruoho</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -232986,7 +232986,7 @@
 </e>
 <e>
   <lg>
-    <l>tundramainen</l>
+    <l comment="Not in analyzer">tundramainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -234111,7 +234111,7 @@
 </e>
 <e>
   <lg>
-    <l>tuohustaa</l>
+    <l comment="Not in analyzer">tuohustaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -234535,7 +234535,7 @@
 </e>
 <e>
   <lg>
-    <l>tuonnottain</l>
+    <l comment="Not in analyzer">tuonnottain</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -235051,7 +235051,7 @@
 </e>
 <e>
   <lg>
-    <l>tuprautella</l>
+    <l comment="Not in analyzer">tuprautella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -235113,7 +235113,7 @@
 </e>
 <e>
   <lg>
-    <l>tupsumainen</l>
+    <l comment="Not in analyzer">tupsumainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -235123,7 +235123,7 @@
 </e>
 <e>
   <lg>
-    <l>tupsuuntua</l>
+    <l comment="Not in analyzer">tupsuuntua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -235754,7 +235754,7 @@
 </e>
 <e>
   <lg>
-    <l>turvehtia</l>
+    <l comment="Not in analyzer">turvehtia</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -237038,7 +237038,7 @@
 </e>
 <e>
   <lg>
-    <l>tykkyynnyttää</l>
+    <l comment="Not in analyzer">tykkyynnyttää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -237049,7 +237049,7 @@
 </e>
 <e>
   <lg>
-    <l>tykkyyntyä</l>
+    <l comment="Not in analyzer">tykkyyntyä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -237572,7 +237572,7 @@
 </e>
 <e>
   <lg>
-    <l>tyttörukka</l>
+    <l comment="Not in analyzer">tyttörukka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -237672,7 +237672,7 @@
 </e>
 <e>
   <lg>
-    <l>tyviluu</l>
+    <l comment="Not in analyzer">tyviluu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -237918,7 +237918,7 @@
 </e>
 <e>
   <lg>
-    <l>tyynnyttely</l>
+    <l comment="Not in analyzer">tyynnyttely</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -238186,7 +238186,7 @@
 </e>
 <e>
   <lg>
-    <l>työhalu</l>
+    <l comment="Not in analyzer">työhalu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -239434,7 +239434,7 @@
 </e>
 <e>
   <lg>
-    <l>tännempi</l>
+    <l comment="Not in analyzer">tännempi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -239610,7 +239610,7 @@
 </e>
 <e>
   <lg>
-    <l>täpläsuivakko</l>
+    <l comment="Not in analyzer">täpläsuivakko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -240166,7 +240166,7 @@
 </e>
 <e>
   <lg>
-    <l>täysikulma</l>
+    <l comment="Not in analyzer">täysikulma</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -240318,7 +240318,7 @@
 </e>
 <e>
   <lg>
-    <l>täysvalmiste</l>
+    <l comment="Not in analyzer">täysvalmiste</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -241630,7 +241630,7 @@
 </e>
 <e>
   <lg>
-    <l>ujoksua</l>
+    <l comment="Not in analyzer">ujoksua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -241655,7 +241655,7 @@
 </e>
 <e>
   <lg>
-    <l>ujostua</l>
+    <l comment="Not in analyzer">ujostua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -242443,7 +242443,7 @@
 </e>
 <e>
   <lg>
-    <l>ulku</l>
+    <l comment="Not in analyzer">ulku</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -242824,7 +242824,7 @@
 </e>
 <e>
   <lg>
-    <l>ummettua</l>
+    <l comment="Not in analyzer">ummettua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -243011,7 +243011,7 @@
 </e>
 <e>
   <lg>
-    <l>umpinen</l>
+    <l comment="Not in analyzer">umpinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -243033,7 +243033,7 @@
 </e>
 <e>
   <lg>
-    <l>umpiskeli</l>
+    <l comment="Not in analyzer">umpiskeli</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -243495,7 +243495,7 @@
 </e>
 <e>
   <lg>
-    <l>untuvaton</l>
+    <l comment="Not in analyzer">untuvaton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -244098,7 +244098,7 @@
 </e>
 <e>
   <lg>
-    <l>uru</l>
+    <l comment="Not in analyzer">uru</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -244604,7 +244604,7 @@
 </e>
 <e>
   <lg>
-    <l>usutella</l>
+    <l comment="Not in analyzer">usutella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -244886,7 +244886,7 @@
 </e>
 <e>
   <lg>
-    <l>uudistushaluinen</l>
+    <l comment="Not in analyzer">uudistushaluinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -246131,7 +246131,7 @@
 </e>
 <e>
   <lg>
-    <l>vaaranpää</l>
+    <l comment="Not in analyzer">vaaranpää</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -246811,7 +246811,7 @@
 </e>
 <e>
   <lg>
-    <l>vahva-asteinen</l>
+    <l comment="Not in analyzer">vahva-asteinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -246822,7 +246822,7 @@
 </e>
 <e>
   <lg>
-    <l>vahvakätinen</l>
+    <l comment="Not in analyzer">vahvakätinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -248077,7 +248077,7 @@
 </e>
 <e>
   <lg>
-    <l>vaivaiskoivikko</l>
+    <l comment="Not in analyzer">vaivaiskoivikko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -248119,7 +248119,7 @@
 </e>
 <e>
   <lg>
-    <l>vaivaispäästäinen</l>
+    <l comment="Not in analyzer">vaivaispäästäinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -249333,7 +249333,7 @@
 </e>
 <e>
   <lg>
-    <l>valiokoira</l>
+    <l comment="Not in analyzer">valiokoira</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -249868,7 +249868,7 @@
 </e>
 <e>
   <lg>
-    <l>valkokarvainen</l>
+    <l comment="Not in analyzer">valkokarvainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -249959,7 +249959,7 @@
 </e>
 <e>
   <lg>
-    <l>valkoturkkinen</l>
+    <l comment="Not in analyzer">valkoturkkinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -251422,7 +251422,7 @@
 </e>
 <e>
   <lg>
-    <l>valvátti</l>
+    <l comment="Not in analyzer">valvátti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -254401,7 +254401,7 @@
 </e>
 <e>
   <lg>
-    <l>vasotus</l>
+    <l comment="Not in analyzer">vasotus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -254731,7 +254731,7 @@
 </e>
 <e>
   <lg>
-    <l>vastakkaiskulmat</l>
+    <l comment="Not in analyzer">vastakkaiskulmat</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -254741,7 +254741,7 @@
 </e>
 <e>
   <lg>
-    <l>vastakkaissivut</l>
+    <l comment="Not in analyzer">vastakkaissivut</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -256125,7 +256125,7 @@
 </e>
 <e>
   <lg>
-    <l>veitallaan</l>
+    <l comment="Not in analyzer">veitallaan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -256206,7 +256206,7 @@
 </e>
 <e>
   <lg>
-    <l>veivari</l>
+    <l comment="Not in analyzer">veivari</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -256434,7 +256434,7 @@
 </e>
 <e>
   <lg>
-    <l>veljesmaa</l>
+    <l comment="Not in analyzer">veljesmaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -257231,7 +257231,7 @@
 </e>
 <e>
   <lg>
-    <l>verevöityä</l>
+    <l comment="Not in analyzer">verevöityä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -257706,7 +257706,7 @@
 </e>
 <e>
   <lg>
-    <l>verkostelija</l>
+    <l comment="Not in analyzer">verkostelija</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -257775,7 +257775,7 @@
 </e>
 <e>
   <lg>
-    <l>verkonlaudus</l>
+    <l comment="Not in analyzer">verkonlaudus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -257795,7 +257795,7 @@
 </e>
 <e>
   <lg>
-    <l>verkostella</l>
+    <l comment="Not in analyzer">verkostella</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -258544,7 +258544,7 @@
 </e>
 <e>
   <lg>
-    <l>vesihilpi</l>
+    <l comment="Not in analyzer">vesihilpi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -259722,7 +259722,7 @@
 </e>
 <e>
   <lg>
-    <l>vieko</l>
+    <l comment="Not in analyzer">vieko</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -260244,7 +260244,7 @@
 </e>
 <e>
   <lg>
-    <l>vieroporo</l>
+    <l comment="Not in analyzer">vieroporo</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -262639,7 +262639,7 @@
 </e>
 <e>
   <lg>
-    <l>vikisijä</l>
+    <l comment="Not in analyzer">vikisijä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -263226,7 +263226,7 @@
 </e>
 <e>
   <lg>
-    <l>villilohi</l>
+    <l comment="Not in analyzer">villilohi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -263460,7 +263460,7 @@
 </e>
 <e>
   <lg>
-    <l>vinosarvi</l>
+    <l comment="Not in analyzer">vinosarvi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -264334,7 +264334,7 @@
 </e>
 <e>
   <lg>
-    <l>virraton</l>
+    <l comment="Not in analyzer">virraton</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -264633,7 +264633,7 @@
 </e>
 <e>
   <lg>
-    <l>virtuaalimuisti</l>
+    <l comment="Not in analyzer">virtuaalimuisti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -264771,7 +264771,7 @@
 </e>
 <e>
   <lg>
-    <l>visto</l>
+    <l comment="Not in analyzer">visto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -264781,7 +264781,7 @@
 </e>
 <e>
   <lg>
-    <l>vistous</l>
+    <l comment="Not in analyzer">vistous</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -265387,7 +265387,7 @@
 </e>
 <e>
   <lg>
-    <l>voimaannuttaa</l>
+    <l comment="Not in analyzer">voimaannuttaa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -265677,7 +265677,7 @@
 </e>
 <e>
   <lg>
-    <l>voipitoisuus</l>
+    <l comment="Not in analyzer">voipitoisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -266320,7 +266320,7 @@
 </e>
 <e>
   <lg>
-    <l>vuolastua</l>
+    <l comment="Not in analyzer">vuolastua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -266373,7 +266373,7 @@
 </e>
 <e>
   <lg>
-    <l>vuoma</l>
+    <l comment="Not in analyzer">vuoma</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -266501,7 +266501,7 @@
 </e>
 <e>
   <lg>
-    <l>vuononsuu</l>
+    <l comment="Not in analyzer">vuononsuu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -266802,7 +266802,7 @@
 </e>
 <e>
   <lg>
-    <l>vuorottainen</l>
+    <l comment="Not in analyzer">vuorottainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -266857,7 +266857,7 @@
 </e>
 <e>
   <lg>
-    <l>vuorso</l>
+    <l comment="Not in analyzer">vuorso</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267255,7 +267255,7 @@
 </e>
 <e>
   <lg>
-    <l>vuottoraippa</l>
+    <l comment="Not in analyzer">vuottoraippa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267287,7 +267287,7 @@
 </e>
 <e>
   <lg>
-    <l>vuotuismuutto</l>
+    <l comment="Not in analyzer">vuotuismuutto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267821,7 +267821,7 @@
 </e>
 <e>
   <lg>
-    <l>vähähillainen</l>
+    <l comment="Not in analyzer">vähähillainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267883,7 +267883,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäjäkälinen</l>
+    <l comment="Not in analyzer">vähäjäkälinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267919,7 +267919,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäkalainen</l>
+    <l comment="Not in analyzer">vähäkalainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267945,7 +267945,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäkarvainen</l>
+    <l comment="Not in analyzer">vähäkarvainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267955,7 +267955,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäkermainen</l>
+    <l comment="Not in analyzer">vähäkermainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267965,7 +267965,7 @@
 </e>
 <e>
   <lg>
-    <l>vähälajisuus</l>
+    <l comment="Not in analyzer">vähälajisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268074,7 +268074,7 @@
 </e>
 <e>
   <lg>
-    <l>vähälumisuus</l>
+    <l comment="Not in analyzer">vähälumisuus</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268084,7 +268084,7 @@
 </e>
 <e>
   <lg>
-    <l>vähämaitoinen</l>
+    <l comment="Not in analyzer">vähämaitoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268180,7 +268180,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäpuinen</l>
+    <l comment="Not in analyzer">vähäpuinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268196,7 +268196,7 @@
 </e>
 <e>
   <lg>
-    <l>vähärahainen</l>
+    <l comment="Not in analyzer">vähärahainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268212,7 +268212,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäriekkoinen</l>
+    <l comment="Not in analyzer">vähäriekkoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268237,7 +268237,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäruotoinen</l>
+    <l comment="Not in analyzer">vähäruotoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268271,7 +268271,7 @@
 </e>
 <e>
   <lg>
-    <l>vähäteräksinen</l>
+    <l comment="Not in analyzer">vähäteräksinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268281,7 +268281,7 @@
 </e>
 <e>
   <lg>
-    <l>vähätietoinen</l>
+    <l comment="Not in analyzer">vähätietoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268311,7 +268311,7 @@
 </e>
 <e>
   <lg>
-    <l>vähävasainen</l>
+    <l comment="Not in analyzer">vähävasainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268342,7 +268342,7 @@
 </e>
 <e>
   <lg>
-    <l>vähävetinen</l>
+    <l comment="Not in analyzer">vähävetinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -268353,7 +268353,7 @@
 </e>
 <e>
   <lg>
-    <l>vähävirtainen</l>
+    <l comment="Not in analyzer">vähävirtainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -270334,7 +270334,7 @@
 </e>
 <e>
   <lg>
-    <l>väärinpäin</l>
+    <l comment="Not in analyzer">väärinpäin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -271346,7 +271346,7 @@
 </e>
 <e>
   <lg>
-    <l>yhteiskuntavastainen</l>
+    <l comment="Not in analyzer">yhteiskuntavastainen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -271795,7 +271795,7 @@
 </e>
 <e>
   <lg>
-    <l>yksihuoneinen</l>
+    <l comment="Not in analyzer">yksihuoneinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -272434,7 +272434,7 @@
 </e>
 <e>
   <lg>
-    <l>yksityisluontoinen</l>
+    <l comment="Not in analyzer">yksityisluontoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -272557,7 +272557,7 @@
 </e>
 <e>
   <lg>
-    <l>yleipätevästi</l>
+    <l comment="Not in analyzer">yleipätevästi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -272760,7 +272760,7 @@
 </e>
 <e>
   <lg>
-    <l>yleisrádio</l>
+    <l comment="Not in analyzer">yleisrádio</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -273407,7 +273407,7 @@
 </e>
 <e>
   <lg>
-    <l>ylimenevä</l>
+    <l comment="Not in analyzer">ylimenevä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -273929,7 +273929,7 @@
 </e>
 <e>
   <lg>
-    <l>yllytellä</l>
+    <l comment="Not in analyzer">yllytellä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -274822,7 +274822,7 @@
 </e>
 <e>
   <lg>
-    <l>ympäripuhua</l>
+    <l comment="Not in analyzer">ympäripuhua</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -274835,7 +274835,7 @@
 </e>
 <e>
   <lg>
-    <l>ympäripäissään</l>
+    <l comment="Not in analyzer">ympäripäissään</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -274927,7 +274927,7 @@
 </e>
 <e>
   <lg>
-    <l>ympäristötietoinen</l>
+    <l comment="Not in analyzer">ympäristötietoinen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -275359,7 +275359,7 @@
 </e>
 <e>
   <lg>
-    <l>ytimetön</l>
+    <l comment="Not in analyzer">ytimetön</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -275422,7 +275422,7 @@
 </e>
 <e>
   <lg>
-    <l>yöhämärät</l>
+    <l comment="Not in analyzer">yöhämärät</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -275539,7 +275539,7 @@
 </e>
 <e>
   <lg>
-    <l>yönpuoli</l>
+    <l comment="Not in analyzer">yönpuoli</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -275759,7 +275759,7 @@
 </e>
 <e>
   <lg>
-    <l>ähäkutti!</l>
+    <l comment="Not in analyzer">ähäkutti!</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -276275,7 +276275,7 @@
 </e>
 <e>
   <lg>
-    <l>änkyrimato</l>
+    <l comment="Not in analyzer">änkyrimato</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
