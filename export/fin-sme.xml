@@ -41445,7 +41445,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Ilmestyskirja</l>
+    <l pos="N" type="Prop">Ilmestyskirja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -45016,7 +45016,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Itämeri</l>
+    <l pos="N" type="Prop">Itämeri</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -110779,7 +110779,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Luoja</l>
+    <l pos="N" type="Prop">Luoja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132712,7 +132712,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Neuvostoliitto</l>
+    <l pos="N" type="Prop">Neuvostoliitto</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -134989,7 +134989,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Norja</l>
+    <l pos="N" type="Prop">Norja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -160281,7 +160281,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Pohjantähti</l>
+    <l pos="N" type="Prop">Pohjantähti</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -173547,7 +173547,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Raamattu</l>
+    <l pos="N" type="Prop">Raamattu</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -245552,7 +245552,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Vaaka</l>
+    <l pos="N" type="Prop">Vaaka</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -252331,7 +252331,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Vapahtaja</l>
+    <l pos="N" type="Prop">Vapahtaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -252380,7 +252380,7 @@
 </e>
 <e>
   <lg>
-    <l pos="N">Vapauttaja</l>
+    <l pos="N" type="Prop">Vapauttaja</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
