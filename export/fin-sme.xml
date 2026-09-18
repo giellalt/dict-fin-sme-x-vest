@@ -54427,7 +54427,7 @@
 </e>
 <e>
   <lg>
-    <l>kahdeksan</l>
+    <l pos="Num">kahdeksan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -54449,7 +54449,7 @@
 </e>
 <e>
   <lg>
-    <l>kahdeksankymmentä</l>
+    <l pos="Num">kahdeksankymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -54591,7 +54591,7 @@
 </e>
 <e>
   <lg>
-    <l>kahdestoista</l>
+    <l pos="Num">kahdestoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -55914,7 +55914,7 @@
 </e>
 <e>
   <lg>
-    <l>kaksi</l>
+    <l pos="Num">kaksi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -56008,7 +56008,7 @@
 </e>
 <e>
   <lg>
-    <l>kaksikymmentä</l>
+    <l pos="Num">kaksikymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -56135,7 +56135,7 @@
 </e>
 <e>
   <lg>
-    <l>kaksitoista</l>
+    <l pos="Num">kaksitoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78855,7 +78855,7 @@
 </e>
 <e>
   <lg>
-    <l>kolme</l>
+    <l pos="Num">kolme</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78871,7 +78871,7 @@
 </e>
 <e>
   <lg>
-    <l>kolmekymmentä</l>
+    <l pos="Num">kolmekymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78887,7 +78887,7 @@
 </e>
 <e>
   <lg>
-    <l>kolmesataa</l>
+    <l pos="Num">kolmesataa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -78915,7 +78915,7 @@
 </e>
 <e>
   <lg>
-    <l>kolmetoista</l>
+    <l pos="Num">kolmetoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -79057,7 +79057,7 @@
 </e>
 <e>
   <lg>
-    <l>kolmisenkymmentä</l>
+    <l pos="Num">kolmisenkymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -90218,7 +90218,7 @@
 </e>
 <e>
   <lg>
-    <l>kuudestoista</l>
+    <l pos="Num">kuudestoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -90998,7 +90998,7 @@
 </e>
 <e>
   <lg>
-    <l>kuusikymmentä</l>
+    <l pos="Num">kuusikymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -91060,7 +91060,7 @@
 </e>
 <e>
   <lg>
-    <l>kuusitoista</l>
+    <l pos="Num">kuusitoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -92176,7 +92176,7 @@
 </e>
 <e>
   <lg>
-    <l>kymmenen</l>
+    <l pos="Num">kymmenen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -131965,7 +131965,7 @@
 </e>
 <e>
   <lg>
-    <l>neljä</l>
+    <l pos="Num">neljä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -131981,7 +131981,7 @@
 </e>
 <e>
   <lg>
-    <l>neljäkolmatta</l>
+    <l pos="Num">neljäkolmatta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -131992,7 +131992,7 @@
 </e>
 <e>
   <lg>
-    <l>neljäkymmentä</l>
+    <l pos="Num">neljäkymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132128,7 +132128,7 @@
 </e>
 <e>
   <lg>
-    <l>neljästoista</l>
+    <l pos="Num">neljästoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -132138,7 +132138,7 @@
 </e>
 <e>
   <lg>
-    <l>neljätoista</l>
+    <l pos="Num">neljätoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -150019,7 +150019,7 @@
 </e>
 <e>
   <lg>
-    <l>parikymmentä</l>
+    <l pos="Num">parikymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -150081,7 +150081,7 @@
 </e>
 <e>
   <lg>
-    <l>parisataa</l>
+    <l pos="Num">parisataa</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -150097,7 +150097,7 @@
 </e>
 <e>
   <lg>
-    <l>parisen</l>
+    <l pos="Num">parisen</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -150190,7 +150190,7 @@
 </e>
 <e>
   <lg>
-    <l>parituhatta</l>
+    <l pos="Num">parituhatta</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -166961,7 +166961,7 @@
 </e>
 <e>
   <lg>
-    <l>puolitoista</l>
+    <l pos="Num">puolitoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -189492,7 +189492,7 @@
 </e>
 <e>
   <lg>
-    <l>sadas</l>
+    <l pos="Num">sadas</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194127,7 +194127,7 @@
 </e>
 <e>
   <lg>
-    <l>seitsemän</l>
+    <l pos="Num">seitsemän</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194153,7 +194153,7 @@
 </e>
 <e>
   <lg>
-    <l>seitsemänkymmentä</l>
+    <l pos="Num">seitsemänkymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194163,7 +194163,7 @@
 </e>
 <e>
   <lg>
-    <l>seitsemäntoista</l>
+    <l pos="Num">seitsemäntoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -194193,7 +194193,7 @@
 </e>
 <e>
   <lg>
-    <l>seitsemästoista</l>
+    <l pos="Num">seitsemästoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -228752,7 +228752,7 @@
 </e>
 <e>
   <lg>
-    <l>toistakymmentä</l>
+    <l pos="Num">toistakymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -230508,7 +230508,7 @@
 </e>
 <e>
   <lg>
-    <l>tuhannes</l>
+    <l pos="Num">tuhannes</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -262166,7 +262166,7 @@
 </e>
 <e>
   <lg>
-    <l>viisikymmentä</l>
+    <l pos="Num">viisikymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -262186,7 +262186,7 @@
 </e>
 <e>
   <lg>
-    <l>viisitoista</l>
+    <l pos="Num">viisitoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -270650,7 +270650,7 @@
 </e>
 <e>
   <lg>
-    <l>yhdeksän</l>
+    <l pos="Num">yhdeksän</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -270672,7 +270672,7 @@
 </e>
 <e>
   <lg>
-    <l>yhdeksänkymmentä</l>
+    <l pos="Num">yhdeksänkymmentä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -270683,7 +270683,7 @@
 </e>
 <e>
   <lg>
-    <l>yhdeksäntoista</l>
+    <l pos="Num">yhdeksäntoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -270848,7 +270848,7 @@
 </e>
 <e>
   <lg>
-    <l>yhdestoista</l>
+    <l pos="Num">yhdestoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -271761,7 +271761,7 @@
 </e>
 <e>
   <lg>
-    <l>yksi</l>
+    <l pos="Num">yksi</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -271883,7 +271883,7 @@
 </e>
 <e>
   <lg>
-    <l>yksikään</l>
+    <l pos="Num">yksikään</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -272309,7 +272309,7 @@
 </e>
 <e>
   <lg>
-    <l>yksitoista</l>
+    <l pos="Num">yksitoista</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
