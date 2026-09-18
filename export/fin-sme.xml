@@ -18265,7 +18265,7 @@
 </e>
 <e>
   <lg>
-    <l>esim.</l>
+    <l pos="N" type="ABBR">esim.</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -23855,7 +23855,7 @@
 </e>
 <e>
   <lg>
-    <l>hangoitteleva</l>
+    <l pos="A" type="PrsPrc">hangoitteleva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -29061,7 +29061,7 @@
 </e>
 <e>
   <lg>
-    <l>hermoileva</l>
+    <l pos="A" type="PrsPrc">hermoileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -33192,7 +33192,7 @@
 </e>
 <e>
   <lg>
-    <l>hoppuileva</l>
+    <l pos="A" type="PrsPrc">hoppuileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -34218,7 +34218,7 @@
 </e>
 <e>
   <lg>
-    <l>humalluttava</l>
+    <l pos="A" type="PrsPrc">humalluttava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -42622,7 +42622,7 @@
 </e>
 <e>
   <lg>
-    <l>innostuva</l>
+    <l pos="A" type="PrsPrc">innostuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -46659,7 +46659,7 @@
 </e>
 <e>
   <lg>
-    <l>jne.</l>
+    <l pos="N" type="ABBR">jne.</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -66464,7 +66464,7 @@
 </e>
 <e>
   <lg>
-    <l>kenottava</l>
+    <l pos="A" type="PrsPrc">kenottava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -70018,7 +70018,7 @@
 </e>
 <e>
   <lg>
-    <l>kiehuva</l>
+    <l pos="A" type="PrsPrc">kiehuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -75245,7 +75245,7 @@
 </e>
 <e>
   <lg>
-    <l>kiroileva</l>
+    <l pos="A" type="PrsPrc">kiroileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -80826,7 +80826,7 @@
 </e>
 <e>
   <lg>
-    <l>koreileva</l>
+    <l pos="A" type="PrsPrc">koreileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -84138,7 +84138,7 @@
 </e>
 <e>
   <lg>
-    <l>kovettuva</l>
+    <l pos="A" type="PrsPrc">kovettuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -84149,7 +84149,7 @@
 </e>
 <e>
   <lg>
-    <l>kuivettuva</l>
+    <l pos="A" type="PrsPrc">kuivettuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -87980,7 +87980,7 @@
 </e>
 <e>
   <lg>
-    <l>kuolaava</l>
+    <l pos="A" type="PrsPrc">kuolaava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -89555,7 +89555,7 @@
 </e>
 <e>
   <lg>
-    <l>kursaileva</l>
+    <l pos="A" type="PrsPrc">kursaileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -91701,7 +91701,7 @@
 </e>
 <e>
   <lg>
-    <l>kyllähän</l>
+    <l pos="Pcle">kyllähän</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -91723,7 +91723,7 @@
 </e>
 <e>
   <lg>
-    <l>kylläpä</l>
+    <l pos="Pcle">kylläpä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -105796,7 +105796,7 @@
 </e>
 <e>
   <lg>
-    <l>likaantuva</l>
+    <l pos="A" type="PrsPrc">likaantuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -108943,7 +108943,7 @@
 </e>
 <e>
   <lg>
-    <l>loppuva</l>
+    <l pos="A" type="PrsPrc">loppuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -117320,7 +117320,7 @@
 </e>
 <e>
   <lg>
-    <l>maistuva</l>
+    <l pos="A" type="PrsPrc">maistuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -119944,7 +119944,7 @@
 </e>
 <e>
   <lg>
-    <l>mekastava</l>
+    <l pos="A" type="PrsPrc">mekastava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -123316,7 +123316,7 @@
 </e>
 <e>
   <lg>
-    <l>miksikään</l>
+    <l pos="Pcle">miksikään</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -123963,7 +123963,7 @@
 </e>
 <e>
   <lg>
-    <l>mm.</l>
+    <l pos="N" type="ABBR">mm.</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -129490,7 +129490,7 @@
 </e>
 <e>
   <lg>
-    <l>mässäilevä</l>
+    <l pos="A" type="PrsPrc">mässäilevä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -133076,7 +133076,7 @@
 </e>
 <e>
   <lg>
-    <l>niinkin</l>
+    <l pos="Pcle">niinkin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -135646,7 +135646,7 @@
 </e>
 <e>
   <lg>
-    <l>ns.</l>
+    <l pos="N" type="ABBR">ns.</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -148117,7 +148117,7 @@
 </e>
 <e>
   <lg>
-    <l>paljonkaan</l>
+    <l pos="Pcle">paljonkaan</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -161707,7 +161707,7 @@
 </e>
 <e>
   <lg>
-    <l>polveileva</l>
+    <l pos="A" type="PrsPrc">polveileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -167414,7 +167414,7 @@
 </e>
 <e>
   <lg>
-    <l>pureksiva</l>
+    <l pos="A" type="PrsPrc">pureksiva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -183880,7 +183880,7 @@
 </e>
 <e>
   <lg>
-    <l>roukuva</l>
+    <l pos="A" type="PrsPrc">roukuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -184147,7 +184147,7 @@
 </e>
 <e>
   <lg>
-    <l>ruinaava</l>
+    <l pos="A" type="PrsPrc">ruinaava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -188214,7 +188214,7 @@
 </e>
 <e>
   <lg>
-    <l>röhkivä</l>
+    <l pos="A" type="PrsPrc">röhkivä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -189414,7 +189414,7 @@
 </e>
 <e>
   <lg>
-    <l>saava</l>
+    <l pos="A" type="PrsPrc">saava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -189956,7 +189956,7 @@
 </e>
 <e>
   <lg>
-    <l>sairasteleva</l>
+    <l pos="A" type="PrsPrc">sairasteleva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -204847,7 +204847,7 @@
 </e>
 <e>
   <lg>
-    <l>sotkeutuva</l>
+    <l pos="A" type="PrsPrc">sotkeutuva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -222807,7 +222807,7 @@
 </e>
 <e>
   <lg>
-    <l>teeskentelevä</l>
+    <l pos="A" type="PrsPrc">teeskentelevä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227070,7 +227070,7 @@
 </e>
 <e>
   <lg>
-    <l>tinkivä</l>
+    <l pos="A" type="PrsPrc">tinkivä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227590,7 +227590,7 @@
 </e>
 <e>
   <lg>
-    <l>tms.</l>
+    <l pos="N" type="ABBR">tms.</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -227786,7 +227786,7 @@
 </e>
 <e>
   <lg>
-    <l>toheloiva</l>
+    <l pos="A" type="PrsPrc">toheloiva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -230050,7 +230050,7 @@
 </e>
 <e>
   <lg>
-    <l>touhottava</l>
+    <l pos="A" type="PrsPrc">touhottava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -243370,7 +243370,7 @@
 </e>
 <e>
   <lg>
-    <l>unohteleva</l>
+    <l pos="A" type="PrsPrc">unohteleva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -246599,7 +246599,7 @@
 </e>
 <e>
   <lg>
-    <l>vahingoittava</l>
+    <l pos="A" type="PrsPrc">vahingoittava</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -259792,7 +259792,7 @@
 </e>
 <e>
   <lg>
-    <l>vieläkään</l>
+    <l pos="Pcle">vieläkään</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -263009,7 +263009,7 @@
 </e>
 <e>
   <lg>
-    <l>vilkuileva</l>
+    <l pos="A" type="PrsPrc">vilkuileva</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -267706,7 +267706,7 @@
 </e>
 <e>
   <lg>
-    <l>vähintäänkin</l>
+    <l pos="Pcle">vähintäänkin</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
@@ -274186,7 +274186,7 @@
 </e>
 <e>
   <lg>
-    <l>ylvästelevä</l>
+    <l pos="A" type="PrsPrc">ylvästelevä</l>
   </lg>
   <mg>
     <tg xml:lang="fin">
