@@ -13603,7 +13603,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>Herran ehtoollinen</re>
-      <t pos="V">rihpat</t>
+      <t pos="N">rihpat</t>
       <t>bassimállásat</t>
     </tg>
   </mg>
@@ -32955,7 +32955,7 @@
   <mg>
     <tg xml:lang="fin">
       <t>hommá</t>
-      <t pos="V">hommet</t>
+      <t pos="N">hommet</t>
     </tg>
   </mg>
 </e>
@@ -49866,7 +49866,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">skoret</t>
+      <t pos="N">skoret</t>
     </tg>
   </mg>
 </e>
@@ -54904,7 +54904,7 @@
     <tg xml:lang="fin">
       <t>rukkat</t>
       <t>rugat</t>
-      <t pos="V">botnit</t>
+      <t pos="N">botnit</t>
       <t>sumpu</t>
     </tg>
   </mg>
@@ -69387,7 +69387,7 @@
       <t>geahpesvihki</t>
       <t>raddedávda</t>
       <t>tuberkulosa</t>
-      <t pos="V">teret</t>
+      <t pos="N">teret</t>
     </tg>
   </mg>
 </e>
@@ -72999,7 +72999,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">skillet</t>
+      <t pos="N">skillet</t>
     </tg>
   </mg>
 </e>
@@ -82432,12 +82432,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>jotakin, johonkin</re>
-      <t t_type="Phrase">guoskat (+ akk.</t>
-    </tg>
-  </mg>
-  <mg>
-    <tg xml:lang="fin">
-      <t t_type="Phrase">+ ill.)</t>
+      <t t_type="Phrase">guoskat</t>
     </tg>
   </mg>
   <mg>
@@ -102841,7 +102836,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">jiellat</t>
+      <t pos="N">jiellat</t>
     </tg>
   </mg>
 </e>
@@ -102909,7 +102904,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">jiellat</t>
+      <t pos="N">jiellat</t>
       <t>jiellatmánná</t>
     </tg>
   </mg>
@@ -119847,7 +119842,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">meinnet</t>
+      <t pos="N">meinnet</t>
     </tg>
   </mg>
 </e>
@@ -121300,7 +121295,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">messet</t>
+      <t pos="N">messet</t>
       <t>meisset</t>
     </tg>
   </mg>
@@ -160406,7 +160401,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">botnit</t>
+      <t pos="A">botnit</t>
     </tg>
   </mg>
 </e>
@@ -168106,7 +168101,7 @@
   <mg>
     <tg xml:lang="fin">
       <t>hommá</t>
-      <t pos="V">hommet</t>
+      <t pos="N">hommet</t>
       <t>buđaldeamoš</t>
       <t>rasildeamoš</t>
     </tg>
@@ -181707,7 +181702,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">rihpat</t>
+      <t pos="N">rihpat</t>
       <t>konfirmašuvdna</t>
       <t>mánáidbeassan</t>
     </tg>
@@ -181759,7 +181754,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">rihpat</t>
+      <t pos="N">rihpat</t>
     </tg>
   </mg>
   <mg>
@@ -223574,7 +223569,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="V">stellet</t>
+      <t pos="N">stellet</t>
     </tg>
   </mg>
 </e>
@@ -232021,7 +232016,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>tulitikut</re>
-      <t pos="V">riššat</t>
+      <t pos="N">riššat</t>
       <t>dolat</t>
     </tg>
   </mg>
@@ -245557,7 +245552,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>eläinradan merkki</re>
-      <t pos="V">Viehkat</t>
+      <t pos="N">Viehkat</t>
     </tg>
   </mg>
 </e>
@@ -245568,7 +245563,7 @@
   <mg>
     <tg xml:lang="fin">
       <t>veakta</t>
-      <t pos="V">viehkat</t>
+      <t pos="N">viehkat</t>
     </tg>
   </mg>
 </e>
