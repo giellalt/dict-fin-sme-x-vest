@@ -23480,7 +23480,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>tuntea halua johonkin</re>
-      <t t_type="Phrase">háliiduvvat (+ ill.)</t>
+      <t pos="V" complement="Ill">háliiduvvat</t>
     </tg>
   </mg>
 </e>
@@ -29539,7 +29539,7 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t t_type="Phrase">ravgat nahkárat (+ lok.)</t>
+      <t t_type="Phrase" complement="Loc">ravgat nahkárat</t>
     </tg>
   </mg>
   <mg>
@@ -33700,8 +33700,8 @@
   <mg>
     <tg xml:lang="fin">
       <re>esim. narulla</re>
-      <t t_type="Phrase">fáškut (+ kom.)</t>
-      <t t_type="Phrase">fađđut (+ kom.)</t>
+      <t pos="V" complement="Com">fáškut</t>
+      <t pos="V" complement="Com">fađđut</t>
     </tg>
   </mg>
 </e>
@@ -39875,8 +39875,8 @@
     <tg xml:lang="fin">
       <re>+ adj.</re>
       <t pos="Adv">áibbas</t>
-      <t t_type="Phrase">ihán (+adj.)</t>
-      <t t_type="Phrase">ihána (+adj.)</t>
+      <t pos="Adv" complement="Adj">ihán</t>
+      <t pos="Adv" complement="Adj">ihána</t>
     </tg>
   </mg>
 </e>
@@ -55075,7 +55075,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>+ superl.</re>
-      <t t_type="Phrase">buot (+ superl.)</t>
+      <t pos="Adv" complement="Superl">buot</t>
       <xg>
         <x>kaikkein paras</x>
         <xt>buot buoremus</xt>
@@ -55807,7 +55807,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>johonkin</re>
-      <t t_type="Phrase">duohtadit (+ akk.)</t>
+      <t pos="V" complement="Acc">duohtadit</t>
     </tg>
   </mg>
 </e>
@@ -60838,11 +60838,14 @@
     <tg xml:lang="fin">
       <t pos="V">garvit</t>
       <t pos="V">garvvašit</t>
-      <t t_type="Phrase">beasadit (+ lok.)</t>
-      <xg>
-        <x>ruveta karttamaan (jotakin)</x>
-        <xt>báltut (+ lok.), spárkat (+ lok.)</xt>
-      </xg>
+      <t pos="V" complement="Loc">beasadit</t>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>ruveta karttamaan (jotakin)</re>
+      <t pos="V" complement="Loc">báltut</t>
+      <t pos="V" complement="Loc">spárkat</t>
     </tg>
   </mg>
 </e>
@@ -91755,7 +91758,7 @@
     <tg xml:lang="fin">
       <t pos="V">gallánit</t>
       <t t_type="Phrase">oažžut doarvái</t>
-      <t t_type="Phrase">ravgat bunci (+ lok.)</t>
+      <t t_type="Phrase" complement="Loc">ravgat bunci</t>
     </tg>
   </mg>
 </e>
@@ -91766,7 +91769,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>johonkin ruokaan</re>
-      <t t_type="Phrase">golpat (+ ill.)</t>
+      <t pos="V" complement="Ill">golpat</t>
     </tg>
   </mg>
   <mg>
@@ -135756,7 +135759,7 @@
     <tg xml:lang="fin">
       <t pos="V">nohkkat</t>
       <t pos="V">oađđát</t>
-      <t t_type="Phrase">rohttet nahkárat (+ lok.)</t>
+      <t t_type="Phrase" complement="Loc">rohttet nahkárat</t>
     </tg>
   </mg>
   <mg>
@@ -141184,7 +141187,7 @@
   <mg>
     <tg xml:lang="fin">
       <t pos="V">oahppat</t>
-      <t t_type="Phrase">beassat sisa (+ ill.)</t>
+      <t t_type="Phrase" complement="Ill">beassat sisa</t>
     </tg>
   </mg>
 </e>
@@ -162464,10 +162467,12 @@
     <tg xml:lang="fin">
       <re>tunturissa</re>
       <t pos="N">badjesiida</t>
-      <xg>
-        <x>paimentaa porojaan jonkun kanssa samassa porokylässä</x>
-        <xt>siiddastallat (+ kom.)</xt>
-      </xg>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>paimentaa porojaan jonkun kanssa samassa porokylässä</re>
+      <t pos="V" complement="Com">siiddastallat</t>
     </tg>
   </mg>
 </e>
@@ -189322,7 +189327,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t t_type="Phrase">sáhttit (+ inf)</t>
+      <t pos="V" complement="Inf">sáhttit</t>
     </tg>
   </mg>
   <mg>
@@ -189995,8 +190000,8 @@
   </mg>
   <mg>
     <tg xml:lang="fin">
-      <t t_type="Phrase">oččohallat (+ ill.)</t>
-      <t t_type="Phrase">fáhtehallat (+ ill.)</t>
+      <t pos="V" complement="Ill">oččohallat</t>
+      <t pos="V" complement="Ill">fáhtehallat</t>
     </tg>
   </mg>
 </e>
@@ -203192,7 +203197,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t t_type="Phrase">njágahit iežas (+ ill.)</t>
+      <t t_type="Phrase" complement="Ill">njágahit iežas</t>
       <t t_type="Phrase">njáhkat sisa</t>
       <t pos="V">infiltreret</t>
     </tg>
@@ -214739,8 +214744,8 @@
       <t pos="V">vearkat</t>
       <t pos="V">várkat</t>
       <t pos="V">rašástahttit</t>
-      <t t_type="Phrase">atnit (+ lok)</t>
-      <t t_type="Phrase">anildit (+ lok)</t>
+      <t pos="V" complement="Loc">atnit</t>
+      <t pos="V" complement="Loc">anildit</t>
     </tg>
   </mg>
   <mg>
@@ -238110,7 +238115,7 @@
   <mg>
     <tg xml:lang="fin">
       <re>+ ill.</re>
-      <t t_type="Phrase">duhtat (+ ill.</t>
+      <t pos="V" complement="Ill">duhtat</t>
       <xg>
         <x>tyytyi siihen, mitä oli saanut</x>
         <xt>duđai dasa, maid lei ožžon</xt>
@@ -244160,7 +244165,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t t_type="Phrase">eanet (+ pl.)</t>
+      <t pos="Adv" complement="Pl">eanet</t>
     </tg>
   </mg>
   <mg>
@@ -249137,7 +249142,7 @@
   <mg>
     <tg xml:lang="fin">
       <t pos="V">vuoidat</t>
-      <t t_type="Phrase">leaikut (+ ala)</t>
+      <t pos="Phrase">leaikut (+ ala)</t>
     </tg>
   </mg>
 </e>
@@ -262593,10 +262598,12 @@
     <tg xml:lang="fin">
       <t pos="V">ájihit</t>
       <t pos="V">skebmet</t>
-      <xg>
-        <x>joutua jonkun tai jonkin viivästyttämäksi</x>
-        <xt>skebmehallat (+ ill.)</xt>
-      </xg>
+    </tg>
+  </mg>
+  <mg>
+    <tg xml:lang="fin">
+      <re>joutua jonkun tai jonkin viivästyttämäksi</re>
+      <t pos="V" complement="Ill">skebmehallat</t>
     </tg>
   </mg>
 </e>
