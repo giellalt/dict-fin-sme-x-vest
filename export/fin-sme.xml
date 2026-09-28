@@ -14146,7 +14146,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dahjege</t>
+        <t pos="CC">dahjege</t>
         <t t_type="Phrase">nuppiiguin sániiguin</t>
       </tg>
     </mg>
@@ -14157,7 +14157,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dahjege</t>
+        <t pos="CC">dahjege</t>
         <t t_type="Phrase">nuppiiguin sániiguin</t>
       </tg>
     </mg>
@@ -19295,7 +19295,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ahte</t>
+        <t pos="CC">ahte</t>
       </tg>
     </mg>
   </e>
@@ -47488,7 +47488,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">goas</t>
-        <t>go</t>
+        <t pos="CS">go</t>
       </tg>
     </mg>
   </e>
@@ -47640,9 +47640,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>jos</t>
-        <t>jus</t>
-        <t>juos</t>
+        <t pos="CS">jos</t>
+        <t pos="CS">jus</t>
+        <t pos="CS">juos</t>
       </tg>
     </mg>
   </e>
@@ -47823,8 +47823,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vai</t>
-        <t>ahte</t>
+        <t pos="CC">vai</t>
+        <t pos="CC">ahte</t>
       </tg>
     </mg>
   </e>
@@ -82414,9 +82414,9 @@
     <mg>
       <tg xml:lang="fin">
         <re>sillä</re>
-        <t>dasgo</t>
-        <t>daningo</t>
-        <t>dannego</t>
+        <t pos="CS">dasgo</t>
+        <t pos="CS">daningo</t>
+        <t pos="CS">dannego</t>
       </tg>
     </mg>
     <mg>
@@ -84737,7 +84737,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>go</t>
+        <t pos="CS">go</t>
         <t pos="Adv">dego</t>
       </tg>
     </mg>
@@ -87072,7 +87072,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>go</t>
+        <t pos="CS">go</t>
       </tg>
     </mg>
   </e>
@@ -87425,7 +87425,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Po">dassáigo</t>
-        <t>dassážiigo</t>
+        <t pos="CS">dassážiigo</t>
       </tg>
     </mg>
   </e>
@@ -123370,7 +123370,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>jos</t>
+        <t pos="CS">jos</t>
         <t t_type="Phrase">jos juo fal</t>
       </tg>
     </mg>
@@ -127804,7 +127804,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhto</t>
+        <t pos="CC">muhto</t>
       </tg>
     </mg>
   </e>
@@ -128113,7 +128113,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>earágo</t>
+        <t pos="CS">earágo</t>
       </tg>
     </mg>
   </e>
@@ -139284,7 +139284,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vuoi</t>
+        <t pos="CS">vuoi</t>
       </tg>
     </mg>
   </e>
@@ -160026,7 +160026,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>plus</t>
+        <t pos="CS">plus</t>
       </tg>
     </mg>
   </e>
@@ -198749,9 +198749,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dasgo</t>
-        <t>dannego</t>
-        <t>dainnago</t>
+        <t pos="CS">dasgo</t>
+        <t pos="CS">dannego</t>
+        <t pos="CS">dainnago</t>
       </tg>
     </mg>
   </e>
@@ -216612,7 +216612,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dahje</t>
+        <t pos="CC">dahje</t>
       </tg>
     </mg>
   </e>
@@ -216866,7 +216866,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dahje</t>
+        <t pos="CC">dahje</t>
       </tg>
     </mg>
   </e>
@@ -246001,7 +246001,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhto</t>
+        <t pos="CC">muhto</t>
       </tg>
     </mg>
   </e>
@@ -247021,7 +247021,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vai</t>
+        <t pos="CC">vai</t>
         <xg>
           <x>onko tuo lohi vai meritaimen?</x>
           <xt>leago diet luossa vai guvžá?</xt>
@@ -247528,7 +247528,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vaikkoba</t>
+        <t pos="CS">vaikkoba</t>
       </tg>
     </mg>
   </e>
@@ -275071,7 +275071,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>plus</t>
+        <t pos="CS">plus</t>
       </tg>
     </mg>
   </e>
