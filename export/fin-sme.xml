@@ -16009,8 +16009,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vuosttas</t>
-        <t>vuosttaš</t>
+        <t pos="A" type="Ord">vuosttas</t>
+        <t pos="A" type="Ord">vuosttaš</t>
         <t>vuosttamus</t>
         <t pos="A">vuosttamuš</t>
         <t pos="A">ovddimus</t>
@@ -54488,7 +54488,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gávccát</t>
+        <t pos="A" type="Ord">gávccát</t>
       </tg>
     </mg>
   </e>
@@ -54598,7 +54598,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guoktenuppelogát</t>
+        <t pos="A" type="Ord">guoktenuppelogát</t>
       </tg>
     </mg>
   </e>
@@ -59201,7 +59201,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>nubbi</t>
+        <t pos="A" type="Ord">nubbi</t>
         <t t_type="Phrase">nubbi olmmoš</t>
         <t pos="N">lagamuš</t>
       </tg>
@@ -78838,7 +78838,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goalmmát</t>
+        <t pos="A" type="Ord">goalmmát</t>
         <xg>
           <x>kolmanneksi paras</x>
           <xt>goalmmádin buoremus</xt>
@@ -90211,7 +90211,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guđát</t>
+        <t pos="A" type="Ord">guđát</t>
       </tg>
     </mg>
   </e>
@@ -90231,7 +90231,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhttanuppelogát</t>
+        <t pos="A" type="Ord">guhttanuppelogát</t>
       </tg>
     </mg>
   </e>
@@ -92223,7 +92223,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>logát</t>
+        <t pos="A" type="Ord">logát</t>
       </tg>
     </mg>
   </e>
@@ -124280,7 +124280,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gallát</t>
+        <t pos="A" type="Ord">gallát</t>
       </tg>
     </mg>
     <mg>
@@ -132114,7 +132114,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealját</t>
+        <t pos="A" type="Ord">njealját</t>
       </tg>
     </mg>
   </e>
@@ -132124,7 +132124,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealljelogát</t>
+        <t pos="A" type="Ord">njealljelogát</t>
       </tg>
     </mg>
   </e>
@@ -132154,7 +132154,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealljenuppelogát</t>
+        <t pos="A" type="Ord">njealljenuppelogát</t>
       </tg>
     </mg>
   </e>
@@ -189527,7 +189527,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čuođát</t>
+        <t pos="A" type="Ord">čuođát</t>
       </tg>
     </mg>
   </e>
@@ -194211,7 +194211,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čihččet</t>
+        <t pos="A" type="Ord">čihččet</t>
       </tg>
     </mg>
   </e>
@@ -194231,7 +194231,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čiežanuppelogát</t>
+        <t pos="A" type="Ord">čiežanuppelogát</t>
       </tg>
     </mg>
   </e>
@@ -228458,7 +228458,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>nubbi</t>
+        <t pos="A" type="Ord">nubbi</t>
       </tg>
     </mg>
   </e>
@@ -261191,7 +261191,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viđát</t>
+        <t pos="A" type="Ord">viđát</t>
       </tg>
     </mg>
   </e>
@@ -270773,7 +270773,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovccát</t>
+        <t pos="A" type="Ord">ovccát</t>
       </tg>
     </mg>
     <mg>
@@ -270928,7 +270928,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>oktanuppelogát</t>
+        <t pos="A" type="Ord">oktanuppelogát</t>
       </tg>
     </mg>
   </e>
