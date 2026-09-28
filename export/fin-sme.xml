@@ -18064,7 +18064,7 @@
         <t>muhtun</t>
         <t>muhtin</t>
         <t>soamis</t>
-        <t>okta</t>
+        <t pos="Num">okta</t>
       </tg>
     </mg>
   </e>
@@ -54434,13 +54434,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gávcci</t>
+        <t pos="Num">gávcci</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kahdeksan ihmistä, kahdeksan joukko</re>
-        <t>gávccis</t>
+        <t pos="N" type="Coll">gávccis</t>
       </tg>
     </mg>
     <mg>
@@ -54456,8 +54456,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gávccilogi</t>
-        <t>gákcilogi</t>
+        <t pos="Num">gávccilogi</t>
+        <t pos="Num">gákcilogi</t>
       </tg>
     </mg>
   </e>
@@ -54508,7 +54508,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gávccátlohkái</t>
+        <t pos="Num">gávccátlohkái</t>
         <xg>
           <x>kahdeksatta kymmentä käyvä henkilö</x>
           <xt>gávccátlohjahkásaš olmmoš</xt>
@@ -55921,7 +55921,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guokte</t>
+        <t pos="Num">guokte</t>
       </tg>
     </mg>
   </e>
@@ -55992,8 +55992,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaksi ihmistä</re>
-        <t>guovttis</t>
-        <t>guovttos</t>
+        <t pos="N" type="Coll">guovttis</t>
+        <t pos="N" type="Coll">guovttos</t>
       </tg>
     </mg>
   </e>
@@ -56015,7 +56015,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guoktelogi</t>
+        <t pos="Num">guoktelogi</t>
       </tg>
     </mg>
   </e>
@@ -56142,7 +56142,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guoktenuppelohkái</t>
+        <t pos="Num">guoktenuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -78859,7 +78859,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goalmmátlohkái</t>
+        <t pos="Num">goalmmátlohkái</t>
         <xg>
           <x>kolmattakymmentä vuotta käyvä henkilö</x>
           <xt>goalmmátlohjahkásaš olmmoš</xt>
@@ -78873,13 +78873,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golbma</t>
+        <t pos="Num">golbma</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kolme ihmistä, kolmen joukko</re>
-        <t>golmmas</t>
+        <t pos="N" type="Coll">golmmas</t>
       </tg>
     </mg>
   </e>
@@ -78889,13 +78889,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golbmalogi</t>
+        <t pos="Num">golbmalogi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kolmenkymmenen joukko</re>
-        <t>golbmalogis</t>
+        <t pos="N" type="Coll">golbmalogis</t>
       </tg>
     </mg>
   </e>
@@ -78905,13 +78905,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golbmačuođi</t>
+        <t pos="Num">golbmačuođi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kolmensadan joukko</re>
-        <t>golbmačuođis</t>
+        <t pos="N" type="Coll">golbmačuođis</t>
       </tg>
     </mg>
   </e>
@@ -78933,13 +78933,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golbmanuppelohkái</t>
+        <t pos="Num">golbmanuppelohkái</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kolmentoista joukko</re>
-        <t>golbmanuppelogis</t>
+        <t pos="N" type="Coll">golbmanuppelogis</t>
       </tg>
     </mg>
   </e>
@@ -78969,7 +78969,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golmmas</t>
+        <t pos="N" type="Coll">golmmas</t>
       </tg>
     </mg>
   </e>
@@ -79085,7 +79085,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golmmas</t>
+        <t pos="N" type="Coll">golmmas</t>
       </tg>
     </mg>
   </e>
@@ -90241,7 +90241,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guđátlohkái</t>
+        <t pos="Num">guđátlohkái</t>
         <xg>
           <x>kuudettakymmentä käyvä henkilö</x>
           <xt>guđátlohjahkásaš olmmoš</xt>
@@ -90953,13 +90953,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhtta</t>
+        <t pos="Num">guhtta</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kuusi ihmistä, kuuden joukko</re>
-        <t>guđas</t>
+        <t pos="N" type="Coll">guđas</t>
       </tg>
     </mg>
   </e>
@@ -90980,7 +90980,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kuuden joukko</re>
-        <t>guđas</t>
+        <t pos="N" type="Coll">guđas</t>
       </tg>
     </mg>
   </e>
@@ -91011,7 +91011,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhttalogi</t>
+        <t pos="Num">guhttalogi</t>
       </tg>
     </mg>
   </e>
@@ -91073,7 +91073,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhttanuppelohkái</t>
+        <t pos="Num">guhttanuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -92189,13 +92189,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>logi</t>
+        <t pos="Num">logi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kymmenen ihmistä, kymmenen joukko</re>
-        <t>logis</t>
+        <t pos="N" type="Coll">logis</t>
       </tg>
     </mg>
     <mg>
@@ -92264,7 +92264,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">logemađe</t>
-        <t>logenáre</t>
+        <t pos="Num">logenáre</t>
       </tg>
     </mg>
     <mg>
@@ -124359,7 +124359,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ihmisistä</re>
-        <t>máŋggas</t>
+        <t pos="N" type="Coll">máŋggas</t>
         <xg>
           <x>moni oli tullut siihen kokoukseen</x>
           <xt>máŋggas ledje boahtán dan čoahkkimii</xt>
@@ -124442,7 +124442,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gallis</t>
+        <t pos="N" type="Coll">gallis</t>
         <xg>
           <x>kuinka monta henkilöä oli tullut siihen tapaamiseen?</x>
           <xt>gallis ledje boahtán dien deaivvadeapmái?</xt>
@@ -127910,7 +127910,7 @@
       <tg xml:lang="fin">
         <t>muhtun</t>
         <t>muhtin</t>
-        <t>okta</t>
+        <t pos="Num">okta</t>
       </tg>
     </mg>
   </e>
@@ -131991,13 +131991,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njeallje</t>
+        <t pos="Num">njeallje</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>neljä ihmistä, neljän joukko</re>
-        <t>njealjis</t>
+        <t pos="N" type="Coll">njealjis</t>
       </tg>
     </mg>
   </e>
@@ -132008,7 +132008,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaksikymmentä neljä</re>
-        <t>njealljegoalmmátlohkái</t>
+        <t pos="Num">njealljegoalmmátlohkái</t>
       </tg>
     </mg>
   </e>
@@ -132018,13 +132018,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealljelogi</t>
+        <t pos="Num">njealljelogi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>neljäkymmentä viisi</re>
-        <t>njealljelogivihtta</t>
+        <t pos="Num">njealljelogivihtta</t>
       </tg>
     </mg>
   </e>
@@ -132164,7 +132164,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealljenuppelohkái</t>
+        <t pos="Num">njealljenuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -132174,7 +132174,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>njealjátlohkái</t>
+        <t pos="Num">njealjátlohkái</t>
         <xg>
           <x>neljättäkymmentä vuotta käyvä henkilö</x>
           <xt>njealjátlohjahkásaš olmmoš</xt>
@@ -150022,7 +150022,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>pari ihmistä</re>
-        <t>moattis</t>
+        <t pos="N" type="Coll">moattis</t>
       </tg>
     </mg>
     <mg>
@@ -150051,7 +150051,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>moaddelogi</t>
+        <t pos="Num">moaddelogi</t>
       </tg>
     </mg>
     <mg>
@@ -150113,7 +150113,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>moaddečuođi</t>
+        <t pos="Num">moaddečuođi</t>
       </tg>
     </mg>
     <mg>
@@ -150222,7 +150222,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>moaddeduhát</t>
+        <t pos="Num">moaddeduhát</t>
       </tg>
     </mg>
   </e>
@@ -166995,7 +166995,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>beannot</t>
+        <t pos="Num">beannot</t>
       </tg>
     </mg>
   </e>
@@ -192606,13 +192606,13 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">čuohti</t>
-        <t>čuođi</t>
+        <t pos="Num">čuođi</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>sadan joukko</re>
-        <t>čuođis</t>
+        <t pos="N" type="Coll">čuođis</t>
       </tg>
     </mg>
     <mg>
@@ -194162,7 +194162,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čieža</t>
+        <t pos="Num">čieža</t>
       </tg>
     </mg>
     <mg>
@@ -194175,7 +194175,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>seitsemän joukko</re>
-        <t>čiežas</t>
+        <t pos="N" type="Coll">čiežas</t>
       </tg>
     </mg>
     <mg>
@@ -194191,7 +194191,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čiežalogi</t>
+        <t pos="Num">čiežalogi</t>
       </tg>
     </mg>
   </e>
@@ -194201,7 +194201,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čiežanuppelohkái</t>
+        <t pos="Num">čiežanuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -228785,19 +228785,19 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>nuppelohkái</t>
+        <t pos="Num">nuppelohkái</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>pitkälti toistakymmentä</re>
-        <t>máŋganuppelohkái</t>
+        <t pos="Num">máŋganuppelohkái</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>toistakymmentä ihmistä</re>
-        <t>nuppelogis</t>
+        <t pos="N" type="Coll">nuppelogis</t>
       </tg>
     </mg>
   </e>
@@ -244179,7 +244179,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>usea ihminen</re>
-        <t>máŋggas</t>
+        <t pos="N" type="Coll">máŋggas</t>
       </tg>
     </mg>
   </e>
@@ -261211,7 +261211,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viđátlohkái</t>
+        <t pos="Num">viđátlohkái</t>
         <xg>
           <x>viidettäkymmentä käyvä henkilö</x>
           <xt>viđátlohjahkásaš olmmoš</xt>
@@ -262201,7 +262201,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>viisi ihmistä, viiden joukko</re>
-        <t>viđas</t>
+        <t pos="N" type="Coll">viđas</t>
       </tg>
     </mg>
   </e>
@@ -262221,7 +262221,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>viđas</t>
+        <t pos="N" type="Coll">viđas</t>
       </tg>
     </mg>
   </e>
@@ -262241,7 +262241,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vihttalogi</t>
+        <t pos="Num">vihttalogi</t>
       </tg>
     </mg>
   </e>
@@ -262261,7 +262261,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>vihttanuppelohkái</t>
+        <t pos="Num">vihttanuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -270730,13 +270730,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovcci</t>
+        <t pos="Num">ovcci</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>yhdeksän ihmistä, yhdeksän joukko</re>
-        <t>ovccis</t>
+        <t pos="N" type="Coll">ovccis</t>
       </tg>
     </mg>
     <mg>
@@ -270752,8 +270752,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovccilogi</t>
-        <t>okcilogi</t>
+        <t pos="Num">ovccilogi</t>
+        <t pos="Num">okcilogi</t>
       </tg>
     </mg>
   </e>
@@ -270763,7 +270763,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovccinuppelohkái</t>
+        <t pos="Num">ovccinuppelohkái</t>
       </tg>
     </mg>
   </e>
@@ -270799,7 +270799,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovccátlohkái</t>
+        <t pos="Num">ovccátlohkái</t>
         <xg>
           <x>yhdeksättäkymmentä käyvä henkilö</x>
           <xt>ovccátlohjahkásaš olmmoš</xt>
@@ -271841,7 +271841,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>okta</t>
+        <t pos="Num">okta</t>
       </tg>
     </mg>
   </e>
@@ -272389,7 +272389,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>oktanuppelohkái</t>
+        <t pos="Num">oktanuppelohkái</t>
       </tg>
     </mg>
   </e>
