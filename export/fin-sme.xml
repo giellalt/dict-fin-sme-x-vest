@@ -45019,7 +45019,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="N">Nuortamearra</t>
+      <t pos="N" type="Prop">Nuortamearra</t>
     </tg>
   </mg>
 </e>
@@ -77741,7 +77741,7 @@
   <mg>
     <tg xml:lang="fin">
       <t pos="N">guovssonásti</t>
-      <t>Venus</t>
+      <t pos="N" type="Prop">Venus</t>
     </tg>
   </mg>
 </e>
@@ -123227,7 +123227,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>Mihkalmas</t>
+      <t pos="N" type="Prop">Mihkalmas</t>
     </tg>
   </mg>
 </e>
@@ -132710,7 +132710,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>Sovjetlihttu</t>
+      <t pos="N" type="Prop">Sovjetlihttu</t>
     </tg>
   </mg>
 </e>
@@ -134987,7 +134987,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>Norga</t>
+      <t pos="N" type="Prop">Norga</t>
     </tg>
   </mg>
 </e>
@@ -160279,9 +160279,9 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t>Boahjenásti</t>
-      <t>Boahji</t>
-      <t pos="N">Davvenásti</t>
+      <t pos="N" type="Prop">Boahjenásti</t>
+      <t pos="N" type="Prop">Boahji</t>
+      <t pos="N" type="Prop">Davvenásti</t>
     </tg>
   </mg>
 </e>
@@ -223804,7 +223804,7 @@
   </lg>
   <mg>
     <tg xml:lang="fin">
-      <t pos="N">Deatnu</t>
+      <t pos="N" type="Prop">Deatnu</t>
     </tg>
   </mg>
   <mg>
@@ -223817,7 +223817,7 @@
     <tg xml:lang="fin">
       <re>tenonlaakso</re>
       <t pos="N">deatnoroggi</t>
-      <t>Deanuleahki</t>
+      <t pos="N" type="Prop">Deanuleahki</t>
     </tg>
   </mg>
   <mg>
