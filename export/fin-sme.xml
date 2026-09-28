@@ -558,7 +558,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>aattona</re>
-        <t pos="N">ruohttan</t>
+        <t pos="Adv">ruohttan</t>
       </tg>
     </mg>
     <mg>
@@ -855,7 +855,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">áfáiduvvan</t>
+        <t pos="A">áfáiduvvan</t>
         <t pos="A">gámis</t>
       </tg>
     </mg>
@@ -21346,7 +21346,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>auringossa</re>
-        <t pos="N">báiton</t>
+        <t pos="A">báiton</t>
       </tg>
     </mg>
   </e>
@@ -31076,7 +31076,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">bivastuvvan</t>
+        <t pos="A">bivastuvvan</t>
         <t>bivastat-</t>
       </tg>
     </mg>
@@ -34184,7 +34184,7 @@
       <tg xml:lang="fin">
         <t pos="Adv">gárremiin</t>
         <t pos="Adv">gárrenoaivvis</t>
-        <t pos="N">juhkan</t>
+        <t pos="Adv">juhkan</t>
         <t>juhkanvuođas</t>
         <t pos="Adv">oaivvis</t>
       </tg>
@@ -36935,7 +36935,7 @@
       <tg xml:lang="fin">
         <t pos="A">čálggas</t>
         <t>čálgalan</t>
-        <t pos="N">čálgan</t>
+        <t pos="A">čálgan</t>
       </tg>
     </mg>
   </e>
@@ -49913,7 +49913,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">juhkan</t>
+        <t pos="A">juhkan</t>
         <t pos="Adv">juhkanoaivvis</t>
         <t pos="Adv">gárremiin</t>
         <t pos="Adv">gárrenoaivvis</t>
@@ -51149,7 +51149,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>erit. henkisesti</re>
-        <t pos="N">bázahallan</t>
+        <t pos="A">bázahallan</t>
       </tg>
     </mg>
   </e>
@@ -60969,7 +60969,7 @@
       <tg xml:lang="fin">
         <t pos="A">guorbbas</t>
         <t pos="A">snuorddas</t>
-        <t pos="N">snurdon</t>
+        <t pos="A">snurdon</t>
       </tg>
     </mg>
     <mg>
@@ -67683,7 +67683,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">gaskan</t>
+        <t pos="Pr">gaskan</t>
         <xg>
           <x>kesken työn</x>
           <xt>gaskan barggu</xt>
@@ -67692,10 +67692,20 @@
           <x>kesken syönnin</x>
           <xt>gaskan bora</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Adv">gaskan</t>
         <xg>
           <x>työ jäi kesken</x>
           <xt>bargu bázii gaskan</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="Po">gaskan</t>
         <xg>
           <x>kahden kesken</x>
           <xt>guovttá gaskan</xt>
@@ -78154,7 +78164,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">oahppan</t>
+        <t pos="A">oahppan</t>
         <t>hárjánan</t>
       </tg>
     </mg>
@@ -251633,7 +251643,7 @@
         <t pos="N">sivavuloš</t>
         <t pos="A">doaibmaváttot</t>
         <t pos="A">doaibmahehttejuvvon</t>
-        <t pos="N">bázahallan</t>
+        <t pos="A">bázahallan</t>
       </tg>
     </mg>
   </e>
@@ -269985,7 +269995,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="N">váiban</t>
+        <t pos="A">váiban</t>
         <t pos="A">váibbas</t>
       </tg>
     </mg>
