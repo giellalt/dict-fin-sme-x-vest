@@ -1972,7 +1972,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goittotge</t>
+        <t pos="Pcle">goittotge</t>
         <t pos="Adv">goitge</t>
       </tg>
     </mg>
@@ -1983,7 +1983,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goittot</t>
+        <t pos="Pcle">goittot</t>
         <t pos="Adv">ainjuo</t>
       </tg>
     </mg>
@@ -13498,7 +13498,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">várra</t>
-        <t>ammal</t>
+        <t pos="Pcle">ammal</t>
         <t pos="Adv">kánske</t>
         <xg>
           <x>ehkä tulee</x>
@@ -13703,7 +13703,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ammahal</t>
+        <t pos="Pcle">ammahal</t>
       </tg>
     </mg>
   </e>
@@ -38225,7 +38225,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>son</t>
+        <t pos="Pron">son</t>
       </tg>
     </mg>
   </e>
@@ -47803,7 +47803,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>amat</t>
+        <t pos="Pcle">amat</t>
       </tg>
     </mg>
   </e>
@@ -54978,9 +54978,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>almma</t>
-        <t>amma</t>
-        <t>ama</t>
+        <t pos="Pcle">almma</t>
+        <t pos="Pcle">amma</t>
+        <t pos="Pcle">ama</t>
       </tg>
     </mg>
     <mg>
@@ -55059,7 +55059,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ammal</t>
+        <t pos="Pcle">ammal</t>
       </tg>
     </mg>
   </e>
@@ -55408,9 +55408,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>almma</t>
-        <t>ama</t>
-        <t>ammal</t>
+        <t pos="Pcle">almma</t>
+        <t pos="Pcle">ama</t>
+        <t pos="Pcle">ammal</t>
       </tg>
     </mg>
   </e>
@@ -66537,7 +66537,7 @@
       <tg xml:lang="fin">
         <t pos="N">várra</t>
         <t pos="Adv">kánske</t>
-        <t>ammal</t>
+        <t pos="Pcle">ammal</t>
         <xg>
           <x>kenties tulee</x>
           <xt>soaitá ~ sáhttá ~ dáidá boahtit</xt>
@@ -84875,9 +84875,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goittotge</t>
-        <t>goittot</t>
-        <t>goit</t>
+        <t pos="Pcle">goittotge</t>
+        <t pos="Pcle">goittot</t>
+        <t pos="Pcle">goit</t>
       </tg>
     </mg>
   </e>
@@ -84887,10 +84887,10 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goittotge</t>
-        <t>goittot</t>
+        <t pos="Pcle">goittotge</t>
+        <t pos="Pcle">goittot</t>
         <t pos="Adv">goitge</t>
-        <t>goit</t>
+        <t pos="Pcle">goit</t>
         <t pos="Adv">liikká</t>
         <t pos="Adv">aŋkke</t>
         <t pos="Adv">almmatge</t>
@@ -91724,8 +91724,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>galahan</t>
-        <t>galahal</t>
+        <t pos="Pcle">galahan</t>
+        <t pos="Pcle">galahal</t>
       </tg>
     </mg>
   </e>
@@ -91746,7 +91746,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>galahal</t>
+        <t pos="Pcle">galahal</t>
       </tg>
     </mg>
   </e>
@@ -134305,7 +134305,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>na</t>
+        <t pos="Pcle">na</t>
         <xg>
           <x>no mitä sitten tapahtui?</x>
           <xt>na mii dasto dáhpáhuvai?</xt>
@@ -201381,7 +201381,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">dattetge</t>
-        <t>goittotge</t>
+        <t pos="Pcle">goittotge</t>
         <t pos="Adv">almmatge</t>
         <t pos="Adv">aŋkke</t>
       </tg>
@@ -201394,7 +201394,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="Adv">dattetge</t>
-        <t>goittotge</t>
+        <t pos="Pcle">goittotge</t>
         <t pos="Adv">almmatge</t>
         <t pos="Adv">aŋkke</t>
       </tg>
@@ -229096,7 +229096,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>almma</t>
+        <t pos="Pcle">almma</t>
         <t pos="Adv">almmatge</t>
         <t pos="Adv">áinnas</t>
       </tg>
@@ -253464,7 +253464,7 @@
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <t>ammahal</t>
+        <t pos="Pcle">ammahal</t>
       </tg>
     </mg>
   </e>
@@ -259907,7 +259907,7 @@
       <tg xml:lang="fin">
         <t>njorrehat</t>
         <t pos="N">duolvačáhcebohcci</t>
-        <t>kloáhka</t>
+        <t pos="N">kloáhkka</t>
       </tg>
     </mg>
   </e>
