@@ -692,7 +692,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>vars. Australian alkuasukas</re>
-        <t>aborigiinna</t>
+        <t pos="N">aborigiidna</t>
       </tg>
     </mg>
   </e>
@@ -4988,7 +4988,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>eamiássi</t>
+        <t pos="N" type="NomAg">eamiássi</t>
       </tg>
     </mg>
   </e>
@@ -6460,7 +6460,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>angiinna</t>
+        <t pos="N">angiidna</t>
       </tg>
     </mg>
   </e>
@@ -7963,7 +7963,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">árka</t>
-        <t>báberárkka</t>
+        <t pos="N">báberárka</t>
       </tg>
     </mg>
   </e>
@@ -10499,8 +10499,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">ploget</t>
-        <t t_type="Phrase">boltut luotta</t>
-        <t>geainnu</t>
+        <t t_type="Phrase">boltut luotta, geainnu</t>
       </tg>
     </mg>
   </e>
@@ -18317,7 +18316,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ovdamearkka</t>
+        <t pos="N">ovdamearka</t>
       </tg>
     </mg>
   </e>
@@ -21012,7 +21011,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>glutena</t>
+        <t pos="N">gluten</t>
       </tg>
     </mg>
   </e>
@@ -59303,7 +59302,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>eamiássi</t>
+        <t pos="N" type="NomAg">eamiássi</t>
       </tg>
     </mg>
   </e>
@@ -62815,8 +62814,8 @@
     <mg>
       <tg xml:lang="fin">
         <t>geahčahat</t>
-        <t>geahččiidbáikkit</t>
-        <t>gehččiidbáikkit</t>
+        <t pos="N" nr="PlT">geahččiidbáikkit</t>
+        <t pos="N" nr="PlT">gehččiidbáikkit</t>
       </tg>
     </mg>
   </e>
@@ -78506,7 +78505,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>vesilinnuista</re>
-        <t>ollesbuokči</t>
+        <t pos="N" type="NomAg">ollesbuokči</t>
       </tg>
     </mg>
   </e>
@@ -83816,8 +83815,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>čorpma</t>
-        <t t_type="Phrase">goapmira dievva</t>
+        <t t_type="Phrase">čorpma, goapmira dievva</t>
         <t pos="N">čorbmadoarvi</t>
       </tg>
     </mg>
@@ -111232,7 +111230,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>luonddudili</t>
+        <t pos"N">luonddudilli</t>
       </tg>
     </mg>
     <mg>
@@ -132432,7 +132430,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>golggosdássedeattu</t>
+        <t pos="N">golggosdássedeaddu</t>
       </tg>
     </mg>
   </e>
@@ -141095,19 +141093,18 @@
       <tg xml:lang="fin">
         <re>itämurteissa</re>
         <t pos="N">vuolla</t>
+        <xg>
+          <x>joi olutta</x>
+          <xt>jugai vuola</xt>
+        </xg>
       </tg>
-    </mg>
-    <mg>
       <tg xml:lang="fin">
         <re>länsimurteissa</re>
         <t pos="N">vuola</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <re>joi olutta</re>
-        <t t_type="Phrase">jugai vuola</t>
-        <t>vuollaga</t>
+        <xg>
+          <x>joi olutta</x>
+          <xt>jugai vuollaga</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -149178,8 +149175,7 @@
         <t pos="V">bostit</t>
         <t pos="V">bánahallat</t>
         <t pos="V">duolvadit</t>
-        <t t_type="Phrase">njeaidit soapmása gutni</t>
-        <t>beaggima</t>
+        <t t_type="Phrase">njeaidit soapmása gutni, beaggima</t>
       </tg>
     </mg>
   </e>
@@ -155642,8 +155638,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>pienestä pitäen</re>
-        <t>uhccivuođa</t>
-        <t t_type="Phrase">unnivuođa rájes</t>
+        <t t_type="Phrase">uhccivuođa, unnivuođa rájes</t>
       </tg>
     </mg>
   </e>
@@ -157391,8 +157386,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>pikkulapsesta lähtien</re>
-        <t>uhccivuođa</t>
-        <t t_type="Phrase">unnivuođa rájes</t>
+        <t t_type="Phrase">uhccivuođa, unnivuođa rájes</t>
       </tg>
     </mg>
   </e>
@@ -190015,9 +190009,7 @@
       <tg xml:lang="fin">
         <t pos="V">skihpat</t>
         <t t_type="Phrase">leat seaŋggabuorrin</t>
-        <t t_type="Phrase">eallit buoza</t>
-        <t>skiba</t>
-        <t>lisa</t>
+        <t t_type="Phrase">eallit buoza, skiba, lisa</t>
       </tg>
     </mg>
   </e>
@@ -193908,13 +193900,13 @@
     <mg>
       <tg xml:lang="fin">
         <re>seinän puolelle</re>
-        <t>seainnebeallái</t>
+        <t pos="Adv">seainnebeallái</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>seinän puolta (ohi)</re>
-        <t>seainnebeale</t>
+        <t pos="Adv">seainnebeale</t>
       </tg>
     </mg>
   </e>
