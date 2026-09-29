@@ -17081,8 +17081,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>eará</t>
-        <t>iežá</t>
+        <t pos="Pron" type="Indef">eará</t>
+        <t pos="Pron" type="Indef">iežá</t>
       </tg>
     </mg>
   </e>
@@ -18061,9 +18061,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhtun</t>
-        <t>muhtin</t>
-        <t>soamis</t>
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
+        <t pos="Pron" type="Indef">soamis</t>
         <t pos="Num">okta</t>
       </tg>
     </mg>
@@ -26402,7 +26402,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>sii</t>
+        <t pos="Pron" type="Pers">sii</t>
       </tg>
     </mg>
   </e>
@@ -26413,7 +26413,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaksi</re>
-        <t>soai</t>
+        <t pos="Pron" type="Pers">soai</t>
       </tg>
     </mg>
   </e>
@@ -44537,7 +44537,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>ieš</t>
+        <t pos="Pron" type="Refl">ieš</t>
       </tg>
     </mg>
   </e>
@@ -44623,7 +44623,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>iešguhtege</t>
+        <t pos="Pron" type="Indef">iešguhtege</t>
       </tg>
     </mg>
   </e>
@@ -46881,11 +46881,11 @@
   </e>
   <e>
     <lg>
-      <l pos="Pcle">johon</l>
+      <l pos="Pron">johon</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>masa</t>
+        <t pos="Pron" type="Rel">masa</t>
       </tg>
     </mg>
   </e>
@@ -46895,7 +46895,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juosat</t>
+        <t pos="Pron" type="Indef">juosat</t>
         <t t_type="Phrase">gosa nu</t>
       </tg>
     </mg>
@@ -46906,7 +46906,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juosat</t>
+        <t pos="Pron" type="Indef">juosat</t>
         <t t_type="Phrase">gosa nu</t>
       </tg>
     </mg>
@@ -47200,13 +47200,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mii</t>
+        <t pos="Pron" type="Rel">mii</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>ihmisestä</re>
-        <t>gii</t>
+        <t pos="Pron" type="Rel">gii</t>
       </tg>
     </mg>
   </e>
@@ -47217,7 +47217,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>jokainen</re>
-        <t>juohke</t>
+        <t pos="Pron" type="Indef">juohke</t>
       </tg>
     </mg>
   </e>
@@ -47228,7 +47228,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>joka ikinen</re>
-        <t>juohkehaš</t>
+        <t pos="Pron" type="Indef">juohkehaš</t>
       </tg>
     </mg>
     <mg>
@@ -47335,8 +47335,8 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="N">juoga</t>
-        <t>muhtun</t>
-        <t>muhtin</t>
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
       </tg>
     </mg>
   </e>
@@ -47379,7 +47379,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juonin</t>
+        <t pos="Pron" type="Indef">juonin</t>
         <t t_type="Phrase">manin nu</t>
       </tg>
     </mg>
@@ -47390,7 +47390,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juonin</t>
+        <t pos="Pron" type="Indef">juonin</t>
         <t t_type="Phrase">manin nu</t>
       </tg>
     </mg>
@@ -47401,9 +47401,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhtun</t>
-        <t>muhtin</t>
-        <t>soamis</t>
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
+        <t pos="Pron" type="Indef">soamis</t>
       </tg>
     </mg>
   </e>
@@ -47414,7 +47414,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>ei kovin monta</re>
-        <t>soames</t>
+        <t pos="Pron" type="Indef">soames</t>
         <xg>
           <x>oli vain muutama poro</x>
           <xt>lei dušše soames boazu</xt>
@@ -47454,7 +47454,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>makkár</t>
+        <t pos="Pron" type="Indef">makkár</t>
         <t pos="A">makkáraš</t>
       </tg>
     </mg>
@@ -47465,7 +47465,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>soapmásis</t>
+        <t pos="Pron" type="Indef">soapmásis</t>
         <t t_type="Phrase">geas nu</t>
       </tg>
     </mg>
@@ -47476,7 +47476,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>soapmásii</t>
+        <t pos="Pron" type="Indef">soapmásii</t>
         <t t_type="Phrase">geasa nu</t>
       </tg>
     </mg>
@@ -47509,7 +47509,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juobbágoabbá</t>
+        <t pos="Pron" type="Indef">juobbágoabbá</t>
         <t t_type="Phrase">goabbá nu</t>
       </tg>
     </mg>
@@ -47520,7 +47520,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juonin</t>
+        <t pos="Pron" type="Dem">juonin</t>
         <t t_type="Phrase">manin nu</t>
       </tg>
     </mg>
@@ -47531,7 +47531,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juonin</t>
+        <t pos="Pron" type="Dem">juonin</t>
         <t t_type="Phrase">manin nu</t>
       </tg>
     </mg>
@@ -47553,7 +47553,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juosat</t>
+        <t pos="Pron" type="Indef">juosat</t>
         <t t_type="Phrase">gosa nu</t>
       </tg>
     </mg>
@@ -47564,7 +47564,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juosat</t>
+        <t pos="Pron" type="Indef">juosat</t>
         <t t_type="Phrase">gosa nu</t>
       </tg>
     </mg>
@@ -47702,7 +47702,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mas</t>
+        <t pos="Pron" type="Rel">mas</t>
       </tg>
     </mg>
   </e>
@@ -47712,7 +47712,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juostá</t>
+        <t pos="Pron" type="Indef">juostá</t>
         <t t_type="Phrase">gos nu</t>
       </tg>
     </mg>
@@ -47723,7 +47723,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juostá</t>
+        <t pos="Pron" type="Indef">juostá</t>
         <t t_type="Phrase">gos nu</t>
       </tg>
     </mg>
@@ -47747,7 +47747,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juoidá</t>
+        <t pos="Pron" type="Indef">juoidá</t>
         <t t_type="Phrase">maid nu</t>
       </tg>
     </mg>
@@ -47758,7 +47758,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>soapmása</t>
+        <t pos="Pron" type="Indef">soapmása</t>
         <t t_type="Phrase">gean nu</t>
       </tg>
     </mg>
@@ -59185,13 +59185,13 @@
     <mg>
       <tg xml:lang="fin">
         <re>minun kanssani</re>
-        <t>muinna</t>
+        <t pos="Pron" type="Pers">muinna</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>muiden kanssa</re>
-        <t>earáiguin</t>
+        <t pos="Pron" type="Indef">earáiguin</t>
       </tg>
     </mg>
   </e>
@@ -66278,8 +66278,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>geastege</t>
-        <t>geasge</t>
+        <t pos="Pron" type="Indef">geastege</t>
+        <t pos="Pron" type="Indef">geasge</t>
       </tg>
     </mg>
   </e>
@@ -85206,14 +85206,14 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>gii</t>
-        <t>guhte</t>
+        <t pos="Pron" type="Interr">gii</t>
+        <t pos="Pron" type="Interr">guhte</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>rajallisesta joukosta</re>
-        <t>guhtemuš</t>
+        <t pos="Pron" type="Interr">guhtemuš</t>
         <xg>
           <x>kuka teidän perheenne lapsista on vanhin</x>
           <xt>guhtemuš din bearraša mánáin lea boarráseamos</xt>
@@ -85228,37 +85228,37 @@
     <mg>
       <tg xml:lang="fin">
         <re>kuka</re>
-        <t>gii</t>
+        <t pos="Pron" type="Interr">gii</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>ketä, kenen</re>
-        <t>gean</t>
+        <t pos="Pron" type="Interr">gean</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenellä</re>
-        <t>geas</t>
+        <t pos="Pron" type="Interr">geas</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenelle</re>
-        <t>geasa</t>
+        <t pos="Pron" type="Interr">geasa</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenen kanssa</re>
-        <t>geainna</t>
+        <t pos="Pron" type="Interr">geainna</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenenä, keneksi</re>
-        <t>geanin</t>
+        <t pos="Pron" type="Interr">geanin</t>
       </tg>
     </mg>
   </e>
@@ -85269,31 +85269,31 @@
     <mg>
       <tg xml:lang="fin">
         <re>kukaan</re>
-        <t>giige</t>
+        <t pos="Pron" type="Indef">giige</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
-        <re>ketään, kenenkään,</re>
-        <t>geange</t>
+        <re>ketään, kenenkään</re>
+        <t pos="Pron" type="Interr">geange</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenelläkään</re>
-        <t>geasge</t>
+        <t pos="Pron" type="Interr">geasge</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenellekään</re>
-        <t>geasage</t>
+        <t pos="Pron" type="Interr">geasage</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kenenkään kanssa</re>
-        <t>geainnage</t>
+        <t pos="Pron" type="Interr">geainnage</t>
       </tg>
     </mg>
   </e>
@@ -85331,8 +85331,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhtege</t>
-        <t>iešguhtege</t>
+        <t pos="Pron" type="Indef">guhtege</t>
+        <t pos="Pron" type="Indef">iešguhtege</t>
       </tg>
     </mg>
   </e>
@@ -85906,7 +85906,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>guhtege</t>
+        <t pos="Pron" type="Indef">guhtege</t>
       </tg>
     </mg>
   </e>
@@ -87000,31 +87000,31 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goabbá</t>
+        <t pos="Pron" type="Interr">goabbá</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kumman</re>
-        <t>goappá</t>
+        <t pos="Pron" type="Interr">goappá</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kummalla</re>
-        <t>goappás</t>
+        <t pos="Pron" type="Interr">goappás</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kummalle</re>
-        <t>goabbái</t>
+        <t pos="Pron" type="Interr">goabbái</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>kumman kanssa</re>
-        <t>goappáin</t>
+        <t pos="Pron" type="Interr">goappáin</t>
       </tg>
     </mg>
   </e>
@@ -87034,8 +87034,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>goabbáge</t>
-        <t>goabbánai</t>
+        <t pos="Pron" type="Indef">goabbáge</t>
+        <t pos="Pron" type="Indef">goabbánai</t>
       </tg>
     </mg>
   </e>
@@ -92603,7 +92603,7 @@
         <t pos="A">máinnašuvvon</t>
         <t pos="A">gažaldatvuloš</t>
         <t pos="A">jearaldatvuloš</t>
-        <t>diet</t>
+        <t pos="Pron" type="Dem">diet</t>
         <xg>
           <x>kyseisestä asiasta ei ole vielä keskusteltu</x>
           <xt>dien áššis ii leat vel ságastallojuvvon</xt>
@@ -119736,7 +119736,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mii</t>
+        <t pos="Pron" type="Pers">mii</t>
       </tg>
     </mg>
   </e>
@@ -119747,7 +119747,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaksi</re>
-        <t>moai</t>
+        <t pos="Pron" type="Pers">moai</t>
       </tg>
     </mg>
   </e>
@@ -123208,7 +123208,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>masage</t>
+        <t pos="Pron" type="Indef">masage</t>
         <xg>
           <x>ei mihinkään voi täysin luottaa</x>
           <xt>ii masage sáhte ollásit luohttit</xt>
@@ -123360,13 +123360,13 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mii</t>
+        <t pos="Pron" type="Interr">mii</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>rajallisesta joukosta</re>
-        <t>guhtemuš</t>
+        <t pos="Pron" type="Interr">guhtemuš</t>
         <xg>
           <x>mikä noista autoista on sinun?</x>
           <xt>guhtemuš duoin biillain lea du?</xt>
@@ -123391,9 +123391,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mihkkige</t>
-        <t>mihkkege</t>
-        <t>miige</t>
+        <t pos="Pron" type="Indef">mihkkige</t>
+        <t pos="Pron" type="Indef">mihkkege</t>
+        <t pos="Pron" type="Indef">miige</t>
       </tg>
     </mg>
   </e>
@@ -123443,7 +123443,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>makkár</t>
+        <t pos="Pron" type="Indef">makkár</t>
         <t pos="A">makkáraš</t>
       </tg>
     </mg>
@@ -123601,7 +123601,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>makkárge</t>
+        <t pos="Pron" type="Indef">makkárge</t>
         <t pos="A">makkárašge</t>
       </tg>
     </mg>
@@ -123660,7 +123660,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mun</t>
+        <t pos="Pron" type="Pers">mun</t>
       </tg>
     </mg>
   </e>
@@ -123712,9 +123712,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>mastige</t>
-        <t>mastege</t>
-        <t>masge</t>
+        <t pos="Pron" type="Indef">mastige</t>
+        <t pos="Pron" type="Indef">mastege</t>
+        <t pos="Pron" type="Indef">masge</t>
       </tg>
     </mg>
   </e>
@@ -123976,9 +123976,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>maidige</t>
-        <t>maidege</t>
-        <t>maidge</t>
+        <t pos="Pron" type="Indef">maidige</t>
+        <t pos="Pron" type="Indef">maidege</t>
+        <t pos="Pron" type="Indef">maidge</t>
       </tg>
     </mg>
   </e>
@@ -124296,7 +124296,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>monenneksiko</re>
-        <t>galládin</t>
+        <t pos="A" type="Ord">galládin</t>
       </tg>
     </mg>
   </e>
@@ -127859,8 +127859,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>eará</t>
-        <t>iežá</t>
+        <t pos="Pron" type="Indef">eará</t>
+        <t pos="Pron" type="Indef">iežá</t>
       </tg>
     </mg>
     <mg>
@@ -127918,8 +127918,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhtun</t>
-        <t>muhtin</t>
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
         <t pos="Num">okta</t>
       </tg>
     </mg>
@@ -128133,9 +128133,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>muhtun</t>
-        <t>muhtin</t>
-        <t>soamis</t>
+        <t pos="Pron" type="Indef">muhtun</t>
+        <t pos="Pron" type="Indef">muhtin</t>
+        <t pos="Pron" type="Indef">soamis</t>
       </tg>
     </mg>
   </e>
@@ -150026,7 +150026,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>lukumäärästä</re>
-        <t>moadde</t>
+        <t pos="Pron" type="Indef">moadde</t>
       </tg>
     </mg>
     <mg>
@@ -191049,7 +191049,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>yksi ja sama</re>
-        <t>oktahat</t>
+        <t pos="Pron" type="Indef">oktahat</t>
       </tg>
     </mg>
   </e>
@@ -195283,9 +195283,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dakkár</t>
+        <t pos="Pron" type="Dem">dakkár</t>
         <t pos="A">dakkáraš</t>
-        <t>diekkár</t>
+        <t pos="Pron" type="Dem">diekkár</t>
         <t pos="A">diekkáraš</t>
       </tg>
     </mg>
@@ -195823,9 +195823,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dakkár</t>
+        <t pos="Pron" type="Dem">dakkár</t>
         <t pos="A">dakkáraš</t>
-        <t>diekkár</t>
+        <t pos="Pron" type="Dem">diekkár</t>
         <t pos="A">diekkáraš</t>
       </tg>
     </mg>
@@ -197192,8 +197192,8 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dasa</t>
-        <t>diesa</t>
+        <t pos="Pron" type="Dem">dasa</t>
+        <t pos="Pron" type="Dem">diesa</t>
       </tg>
     </mg>
   </e>
@@ -197269,9 +197269,9 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>das</t>
+        <t pos="Pron" type="Dem">das</t>
         <t pos="Adv">die</t>
-        <t>dies</t>
+        <t pos="Pron" type="Dem">dies</t>
         <t pos="Adv">diekko</t>
       </tg>
     </mg>
@@ -199969,7 +199969,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>don</t>
+        <t pos="Pron" type="Pers">don</t>
       </tg>
     </mg>
   </e>
@@ -222664,7 +222664,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dii</t>
+        <t pos="Pron" type="Pers">dii</t>
       </tg>
     </mg>
   </e>
@@ -222675,7 +222675,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kaksi</re>
-        <t>doai</t>
+        <t pos="Pron" type="Pers">doai</t>
       </tg>
     </mg>
   </e>
@@ -228608,7 +228608,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>nubbin</t>
+        <t pos="A" type="Ord">nubbin</t>
       </tg>
     </mg>
     <mg>
@@ -234158,7 +234158,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>duosa</t>
+        <t pos="Pron" type="Dem">duosa</t>
       </tg>
     </mg>
   </e>
@@ -234320,7 +234320,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>duokkár</t>
+        <t pos="Pron" type="Dem">duokkár</t>
         <t pos="A">duokkáraš</t>
       </tg>
     </mg>
@@ -234459,7 +234459,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>duokkár</t>
+        <t pos="Pron" type="Dem">duokkár</t>
         <t pos="A">duokkáraš</t>
       </tg>
     </mg>
@@ -239207,7 +239207,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dása</t>
+        <t pos="Pron" type="Dem">dása</t>
       </tg>
     </mg>
   </e>
@@ -239299,7 +239299,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dákkár</t>
+        <t pos="Pron" type="Dem">dákkár</t>
         <t pos="A">dákkáraš</t>
       </tg>
     </mg>
@@ -239324,7 +239324,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dákkár</t>
+        <t pos="Pron" type="Dem">dákkár</t>
         <t pos="A">dakkáraš</t>
       </tg>
     </mg>
@@ -239335,25 +239335,25 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>dát</t>
+        <t pos="Pron" type="Dem">dát</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>tämä näin</re>
-        <t>dá-dát</t>
+        <t pos="Pron" type="Dem">dá-dát</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>tässä näin</re>
-        <t>dá-dás</t>
+        <t pos="Pron" type="Dem">dá-dás</t>
       </tg>
     </mg>
     <mg>
       <tg xml:lang="fin">
         <re>tähän näin</re>
-        <t>dá-dása</t>
+        <t pos="Pron" type="Dem">dá-dása</t>
       </tg>
     </mg>
   </e>
@@ -244183,7 +244183,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>máŋga</t>
+        <t pos="Pron" type="Indef">máŋga</t>
       </tg>
     </mg>
     <mg>
@@ -271973,7 +271973,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>oktage</t>
+        <t pos="Pron" type="Indef">oktage</t>
       </tg>
     </mg>
   </e>
