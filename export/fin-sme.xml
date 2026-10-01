@@ -22093,7 +22093,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">haksostit</t>
-        <t>leavggihit</t>
+        <t pos="V">leavggihit</t>
       </tg>
     </mg>
   </e>
@@ -22108,7 +22108,7 @@
         <t pos="V">háisut</t>
         <t pos="V">háissiidit</t>
         <t pos="V">leavgit</t>
-        <t>leavggistit</t>
+        <t pos="V">leavggistit</t>
       </tg>
     </mg>
     <mg>
@@ -24595,7 +24595,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>boasttooahpalaš</t>
+        <t pos="A">boasttooahpalaš</t>
         <t pos="A">vearreoahpalaš</t>
       </tg>
     </mg>
@@ -31525,7 +31525,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>geasehahttit</t>
+        <t pos="V">geasehahttit</t>
         <t pos="V">runddihit</t>
       </tg>
     </mg>
@@ -32968,7 +32968,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>hommástallat</t>
+        <t pos="V">hommástallat</t>
         <t pos="V">rasildit</t>
         <t pos="V">guovzat</t>
       </tg>
@@ -34225,7 +34225,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>juhkaluhtti</t>
+        <t pos="A">juhkaluhtti</t>
         <xg>
           <x>humalluttava juoma</x>
           <xt>juhkaluhtti jugus</xt>
@@ -34388,7 +34388,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>panna huohottamaan</re>
-        <t>sáđahit</t>
+        <t pos="V">sáđahit</t>
         <t pos="V">sagahit</t>
       </tg>
     </mg>
@@ -54631,7 +54631,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>skoahpalahttit</t>
+        <t pos="V">skoahpalahttit</t>
       </tg>
     </mg>
   </e>
@@ -56848,7 +56848,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">skálahit</t>
-        <t>skoalahit</t>
+        <t pos="V">skoalahit</t>
         <t pos="V">šloaŋkkuhit</t>
         <t pos="V">ráđahit</t>
       </tg>
@@ -56861,7 +56861,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">skálahit</t>
-        <t>skoalahit</t>
+        <t pos="V">skoalahit</t>
         <t pos="V">šloaŋkkuhit</t>
         <t pos="V">ráđahit</t>
       </tg>
@@ -62813,7 +62813,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>geahčahat</t>
+        <t pos="N">geahčahat</t>
         <t pos="N" nr="PlT">geahččiidbáikkit</t>
         <t pos="N" nr="PlT">gehččiidbáikkit</t>
       </tg>
@@ -74309,7 +74309,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>prentehat</t>
+        <t pos="N">prentehat</t>
       </tg>
     </mg>
   </e>
@@ -76914,7 +76914,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>kädellä</re>
-        <t>iskalastit</t>
+        <t pos="V">iskalastit</t>
       </tg>
     </mg>
   </e>
@@ -77167,8 +77167,8 @@
     <mg>
       <tg xml:lang="fin">
         <re>lyhyesti</re>
-        <t>gáđđestit</t>
-        <t>skuđđestit</t>
+        <t pos="V">gáđđestit</t>
+        <t pos="V">skuđđestit</t>
         <t pos="V">skuđustit</t>
       </tg>
     </mg>
@@ -81379,7 +81379,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>vähän</re>
-        <t>allelaččas</t>
+        <t pos="Adv">allelaččas</t>
         <t pos="Adv">alibuččas</t>
       </tg>
     </mg>
@@ -88259,7 +88259,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>äkillisesti</re>
-        <t>jámistit</t>
+        <t pos="V">jámistit</t>
         <t pos="V">nohkastit</t>
       </tg>
     </mg>
@@ -91753,7 +91753,7 @@
     <mg>
       <tg xml:lang="fin">
         <t pos="V">dolkadit</t>
-        <t>dolkkahit</t>
+        <t pos="V">dolkkahit</t>
         <t pos="V">suivvastuhttit</t>
       </tg>
     </mg>
@@ -94697,15 +94697,15 @@
         <t pos="V">duolmmadit</t>
         <t pos="V">loaiddadit</t>
         <t pos="V">háhccut</t>
-        <t>háhcuhit</t>
+        <t pos="V">háhcuhit</t>
         <t pos="V">hárčut</t>
         <t pos="V">hárččuhit</t>
         <t pos="V">hárrut</t>
-        <t>hárruhit</t>
+        <t pos="V">hárruhit</t>
         <t pos="V">reahccut</t>
         <t pos="V">loaggut</t>
         <t pos="V">jarfut</t>
-        <t>jarffuhit</t>
+        <t pos="V">jarffuhit</t>
       </tg>
     </mg>
     <mg>
@@ -104181,7 +104181,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>hetkisen</re>
-        <t>vuoiŋŋastastit</t>
+        <t pos="V">vuoiŋŋastastit</t>
       </tg>
     </mg>
   </e>
@@ -116476,7 +116476,7 @@
     <mg>
       <tg xml:lang="fin">
         <re>hetkeksi</re>
-        <t>velledastit</t>
+        <t pos="V">velledastit</t>
         <t pos="V">vellestit</t>
         <t pos="V">njulgestit</t>
       </tg>
@@ -139361,7 +139361,7 @@
       <tg xml:lang="fin">
         <re>makuulle</re>
         <t pos="V">njulgestit</t>
-        <t>velledastit</t>
+        <t pos="V">velledastit</t>
       </tg>
     </mg>
   </e>
@@ -139500,7 +139500,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>rivttesmielalaš</t>
+        <t pos="A">rivttesmielalaš</t>
         <t pos="A">vuoiggalaš</t>
       </tg>
     </mg>
@@ -157485,7 +157485,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>uhcamielalaš</t>
+        <t pos="A">uhcamielalaš</t>
       </tg>
     </mg>
   </e>
@@ -168151,7 +168151,7 @@
         <t pos="V">buđaldit</t>
         <t pos="V">rasildit</t>
         <t pos="V">rosset</t>
-        <t>hommástallat</t>
+        <t pos="V">hommástallat</t>
       </tg>
     </mg>
   </e>
@@ -168166,7 +168166,7 @@
         <t pos="V">buđaldit</t>
         <t pos="V">rasildit</t>
         <t pos="V">rosset</t>
-        <t>hommástallat</t>
+        <t pos="V">hommástallat</t>
       </tg>
     </mg>
   </e>
@@ -172966,7 +172966,7 @@
       <tg xml:lang="fin">
         <t pos="V">borggihit</t>
         <t pos="V">soiccihit</t>
-        <t>coiccihit</t>
+        <t pos="V">coiccihit</t>
       </tg>
     </mg>
   </e>
@@ -183216,7 +183216,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>boahkohahttit</t>
+        <t pos="V">boahkohahttit</t>
         <xg>
           <x>rokotutti lapsensa ja samalla kertää myös itsensä</x>
           <xt>boahkohahtii mánás ja seammás maiddái iežas</xt>
@@ -188453,7 +188453,7 @@
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>reavgguhit</t>
+        <t pos="V">reavgguhit</t>
         <xg>
           <x>häntä röyhtäytti toden teolla</x>
           <xt>su nu reavgguhii</xt>
@@ -192102,7 +192102,7 @@
         <t pos="V">njivkkádit</t>
         <t pos="V">njivkkihit</t>
         <t pos="V">civkkádit</t>
-        <t>civkkihit</t>
+        <t pos="V">civkkihit</t>
         <t pos="V">beaškalit</t>
         <t pos="V">bávkalit</t>
         <t pos="V">beavkalit</t>
@@ -235175,7 +235175,7 @@
       <tg xml:lang="fin">
         <t pos="V">fáluhit</t>
         <t pos="V">návdut</t>
-        <t>návdduhit</t>
+        <t pos="V">návdduhit</t>
         <t pos="V">geaigguhit</t>
       </tg>
     </mg>
@@ -237459,7 +237459,7 @@
       <tg xml:lang="fin">
         <t pos="V">fáluhit</t>
         <t pos="V">návdut</t>
-        <t>návdduhit</t>
+        <t pos="V">návdduhit</t>
         <t pos="V">geaigguhit</t>
       </tg>
     </mg>
@@ -238667,7 +238667,7 @@
         <t pos="V">barggildit</t>
         <t pos="V">buđaldit</t>
         <t pos="V">rasildit</t>
-        <t>hommástallat</t>
+        <t pos="V">hommástallat</t>
       </tg>
     </mg>
   </e>
@@ -259496,7 +259496,7 @@
         <t pos="V">ravget</t>
         <t pos="V">rohttet</t>
         <t pos="V">rohttestit</t>
-        <t>raŋustit</t>
+        <t pos="V">raŋustit</t>
         <t pos="V">raŋistit</t>
         <t pos="V">ragihit</t>
       </tg>
