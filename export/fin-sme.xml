@@ -3870,7 +3870,7 @@
   </e>
   <e>
     <lg>
-      <l>alapuolelta</l>
+      <l pos="Adv">alapuolelta</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -6592,7 +6592,7 @@
   </e>
   <e>
     <lg>
-      <l>annettava</l>
+      <l pos="A">annettava</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -13698,7 +13698,7 @@
   </e>
   <e>
     <lg>
-      <l>eiköhän</l>
+      <l comment="Declined form in analyser">eiköhän</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -15467,7 +15467,7 @@
   </e>
   <e>
     <lg>
-      <l>enimmillään</l>
+      <l comment="Declined form in analyser">enimmillään</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -18917,7 +18917,7 @@
   </e>
   <e>
     <lg>
-      <l>eteläisempi</l>
+      <l pos="A" type="Comp">eteläisempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -25208,7 +25208,7 @@
   </e>
   <e>
     <lg>
-      <l>harottua</l>
+      <l comment="Declined form in analyser">harottua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -25577,7 +25577,7 @@
   </e>
   <e>
     <lg>
-      <l>harvimmin</l>
+      <l comment="Declined form in analyser">harvimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -27950,7 +27950,7 @@
   </e>
   <e>
     <lg>
-      <l>helpompi</l>
+      <l pos="A" type="Comp">helpompi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -30153,7 +30153,7 @@
   </e>
   <e>
     <lg>
-      <l>hienoin</l>
+      <l pos="A" type="Superl">hienoin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -30181,7 +30181,7 @@
   </e>
   <e>
     <lg>
-      <l>hienompi</l>
+      <l pos="A" type="Comp">hienompi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -30454,7 +30454,7 @@
   </e>
   <e>
     <lg>
-      <l>hihakas</l>
+      <l comment="Declined form in analyser">hihakas</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -32013,7 +32013,7 @@
   </e>
   <e>
     <lg>
-      <l>hirveän</l>
+      <l comment="Declined form in analyser">hirveän</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -32191,7 +32191,7 @@
   </e>
   <e>
     <lg>
-      <l>hiukkasen</l>
+      <l comment="Declined form in analyser">hiukkasen</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -33972,7 +33972,7 @@
   </e>
   <e>
     <lg>
-      <l>huljuttua</l>
+      <l comment="Declined form in analyser">huljuttua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -39294,7 +39294,7 @@
   </e>
   <e>
     <lg>
-      <l>höpöillä</l>
+      <l comment="Declined form in analyser">höpöillä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -39498,7 +39498,7 @@
   </e>
   <e>
     <lg>
-      <l>höyläämätön</l>
+      <l pos="A">höyläämätön</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -40478,7 +40478,7 @@
   </e>
   <e>
     <lg>
-      <l>ikkunasta</l>
+      <l pos="Adv">ikkunasta</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -41129,12 +41129,12 @@
   </e>
   <e>
     <lg>
-      <l>ilmankos</l>
+      <l pos="Adv">ilmankos</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
         <re>ei ihme että</re>
-        <t pos="N">oavdu</t>
+        <t pos="Adv">oavdu</t>
         <xg>
           <x>voitti lotossa rutkasti rahaa, ilmankos hankki komean menopelin</x>
           <xt>vuittii lottos ruhtalána, oavdu dat gal gákkastii diekkár fiinna fievrru</xt>
@@ -43642,7 +43642,7 @@
   </e>
   <e>
     <lg>
-      <l>isoin</l>
+      <l pos="A" type="Superl">isoin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -43826,7 +43826,7 @@
   </e>
   <e>
     <lg>
-      <l>isompi</l>
+      <l pos="A" type="Comp">isompi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -44618,7 +44618,7 @@
   </e>
   <e>
     <lg>
-      <l>itsekukin</l>
+      <l comment="Declined form in analyser">itsekukin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -46619,7 +46619,7 @@
   </e>
   <e>
     <lg>
-      <l>jauhottua</l>
+      <l comment="Declined form in analyser">jauhottua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -47788,31 +47788,31 @@
   </e>
   <e>
     <lg>
-      <l>jotten</l>
+      <l pos="CS">jotten</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>aman</t>
+        <t pos="V">aman</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l>jottet</l>
+      <l pos="CS">jottet</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="Pcle">amat</t>
+        <t pos="V">amat</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l>jottei</l>
+      <l pos="CS">jottei</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t pos="A">amas</t>
+        <t pos="V">amas</t>
       </tg>
     </mg>
   </e>
@@ -49304,7 +49304,7 @@
   </e>
   <e>
     <lg>
-      <l>juoksetin</l>
+      <l comment="Declined form in analyser">juoksetin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -50031,7 +50031,7 @@
   </e>
   <e>
     <lg>
-      <l>jutaa</l>
+      <l comment="Declined form in analyser">jutaa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -51377,7 +51377,7 @@
   </e>
   <e>
     <lg>
-      <l>jälkiä</l>
+      <l comment="Declined form in analyser">jälkiä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -51646,7 +51646,7 @@
   </e>
   <e>
     <lg>
-      <l>jännitin</l>
+      <l comment="Declined form in analyser">jännitin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -54503,7 +54503,7 @@
   </e>
   <e>
     <lg>
-      <l>kahdeksattakymmentä</l>
+      <l pos="Num">kahdeksattakymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -56879,7 +56879,7 @@
   </e>
   <e>
     <lg>
-      <l>rämistin</l>
+      <l comment="Declined form in analyser">rämistin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -65907,7 +65907,7 @@
   </e>
   <e>
     <lg>
-      <l>keloa</l>
+      <l comment="Declined form in analyser">keloa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -67562,7 +67562,7 @@
   </e>
   <e>
     <lg>
-      <l>kesi</l>
+      <l comment="Declined form in analyser">kesi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -67796,7 +67796,7 @@
   </e>
   <e>
     <lg>
-      <l>keski-</l>
+      <l pos="N">keski-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -72821,7 +72821,7 @@
   </e>
   <e>
     <lg>
-      <l>kilistin</l>
+      <l comment="Declined form in analyser">kilistin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -73837,11 +73837,11 @@
   </e>
   <e>
     <lg>
-      <l pos="Pcle">kippis</l>
+      <l pos="Interj">kippis</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
-        <t>skool</t>
+        <t pos"Interj">skol</t>
       </tg>
     </mg>
   </e>
@@ -74518,7 +74518,7 @@
   </e>
   <e>
     <lg>
-      <l>kirjoitettava</l>
+      <l pos="A">kirjoitettava</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -77057,7 +77057,7 @@
   </e>
   <e>
     <lg>
-      <l>kohdin</l>
+      <l comment="Declined form in analyser">kohdin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -78864,7 +78864,7 @@
   </e>
   <e>
     <lg>
-      <l>kolmattakymmentä</l>
+      <l pos="Num">kolmattakymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81366,7 +81366,7 @@
   </e>
   <e>
     <lg>
-      <l>korkeammalla</l>
+      <l comment="Declined form in analyser">korkeammalla</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81387,7 +81387,7 @@
   </e>
   <e>
     <lg>
-      <l>korkeammalle</l>
+      <l comment="Declined form in analyser">korkeammalle</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81408,7 +81408,7 @@
   </e>
   <e>
     <lg>
-      <l>korkeampi</l>
+      <l pos="A" type="Comp">korkeampi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -81459,7 +81459,7 @@
   </e>
   <e>
     <lg>
-      <l>korkein</l>
+      <l pos="A" type="Superl">korkein</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -83990,7 +83990,7 @@
   </e>
   <e>
     <lg>
-      <l>kovemmin</l>
+      <l comment="Declined form in analyser">kovemmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -84144,7 +84144,7 @@
   </e>
   <e>
     <lg>
-      <l>kuivettunut</l>
+      <l comment="Declined form in analyser">kuivettunut</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -84177,7 +84177,7 @@
   </e>
   <e>
     <lg>
-      <l>kovimmin</l>
+      <l comment="Declined form in analyser">kovimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -90244,7 +90244,7 @@
   </e>
   <e>
     <lg>
-      <l>kuudettakymmentä</l>
+      <l pos="Num">kuudettakymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -93052,7 +93052,7 @@
   </e>
   <e>
     <lg>
-      <l>kyynelsilmin</l>
+      <l comment="Declined form in analyser">kyynelsilmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96083,7 +96083,7 @@
   </e>
   <e>
     <lg>
-      <l>laajempi</l>
+      <l pos="A" type="Comp">laajempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96421,7 +96421,7 @@
   </e>
   <e>
     <lg>
-      <l>ladattuna</l>
+      <l comment="Declined form in analyser">ladattuna</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -96434,7 +96434,7 @@
   </e>
   <e>
     <lg>
-      <l>ladatuksi</l>
+      <l comment="Declined form in analyser">ladatuksi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -102306,7 +102306,7 @@
   </e>
   <e>
     <lg>
-      <l>leikkiväinen</l>
+      <l comment="Declined form in analyser">leikkiväinen</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -103767,7 +103767,7 @@
   </e>
   <e>
     <lg>
-      <l>levein</l>
+      <l pos="A" type="Superl">levein</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -103899,7 +103899,7 @@
   </e>
   <e>
     <lg>
-      <l>leveämpi</l>
+      <l pos="A" type="Comp">leveämpi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -108268,7 +108268,7 @@
   </e>
   <e>
     <lg>
-      <l>loivempi</l>
+      <l pos="A" type="Comp">loivempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -109457,7 +109457,7 @@
   </e>
   <e>
     <lg>
-      <l>luetuksi</l>
+      <l comment="Declined form in analyser">luetuksi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112355,7 +112355,7 @@
   </e>
   <e>
     <lg>
-      <l>lyhyempi</l>
+      <l pos="A" type="Comp">lyhyempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112378,7 +112378,7 @@
   </e>
   <e>
     <lg>
-      <l>lyhyin</l>
+      <l pos="A" type="Superl">lyhyin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -112947,7 +112947,7 @@
   </e>
   <e>
     <lg>
-      <l>läheisempi</l>
+      <l pos="A" type="Comp">läheisempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -114408,7 +114408,7 @@
   </e>
   <e>
     <lg>
-      <l>läntisempi</l>
+      <l pos="A" type="Comp">läntisempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -120067,7 +120067,7 @@
   </e>
   <e>
     <lg>
-      <l>melkoisen</l>
+      <l comment="Declined form in analyser">melkoisen</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -120515,7 +120515,7 @@
   </e>
   <e>
     <lg>
-      <l>mentävä</l>
+      <l pos="A">mentävä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -124313,7 +124313,7 @@
   </e>
   <e>
     <lg>
-      <l>monestiko</l>
+      <l comment="Declined form in analyser">monestiko</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -125594,7 +125594,7 @@
   </e>
   <e>
     <lg>
-      <l>mukaansa</l>
+      <l pos="Adv">mukaansa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -132175,7 +132175,7 @@
   </e>
   <e>
     <lg>
-      <l>neljättäkymmentä</l>
+      <l pos="Num">neljättäkymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -134037,7 +134037,7 @@
   </e>
   <e>
     <lg>
-      <l>niukempi</l>
+      <l pos="A" type="Comp">niukempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -136268,7 +136268,7 @@
   </e>
   <e>
     <lg>
-      <l>nuorempi</l>
+      <l pos="A" type="Comp">nuorempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -136933,7 +136933,7 @@
   </e>
   <e>
     <lg>
-      <l>nyky-</l>
+      <l pos="N">nyky-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139520,7 +139520,7 @@
   </e>
   <e>
     <lg>
-      <l>oikeampi</l>
+      <l pos="A" type="Comp">oikeampi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139593,7 +139593,7 @@
   </e>
   <e>
     <lg>
-      <l>oikeellisin</l>
+      <l pos="A" type="Superl">oikeellisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -139614,7 +139614,7 @@
   </e>
   <e>
     <lg>
-      <l>oikeimmin</l>
+      <l comment="Declined form in analyser">oikeimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -145515,7 +145515,7 @@
   </e>
   <e>
     <lg>
-      <l>pahin</l>
+      <l pos="A" type="Superl">pahin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -146252,7 +146252,7 @@
   </e>
   <e>
     <lg>
-      <l>painavampi</l>
+      <l pos="A" type="Comp">painavampi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -146262,7 +146262,7 @@
   </e>
   <e>
     <lg>
-      <l>painavin</l>
+      <l pos="A" type="Superl">painavin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -147483,7 +147483,7 @@
   </e>
   <e>
     <lg>
-      <l>paksuin</l>
+      <l pos="A" type="Superl">paksuin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -147572,7 +147572,7 @@
   </e>
   <e>
     <lg>
-      <l>paksumpi</l>
+      <l pos="A" type="Comp">paksumpi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -148237,7 +148237,7 @@
   </e>
   <e>
     <lg>
-      <l>palkia</l>
+      <l pos="V">palkia</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -148869,7 +148869,7 @@
   </e>
   <e>
     <lg>
-      <l>palttua</l>
+      <l comment="Declined form in analyser">palttua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -155291,7 +155291,7 @@
   </e>
   <e>
     <lg>
-      <l>pidempi</l>
+      <l pos="A" type="Comp">pidempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -155515,7 +155515,7 @@
   </e>
   <e>
     <lg>
-      <l>pienempi</l>
+      <l pos="A" type="Comp">pienempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -155652,7 +155652,7 @@
   </e>
   <e>
     <lg>
-      <l>pienin</l>
+      <l pos="A" type="Superl">pienin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -158920,7 +158920,7 @@
   </e>
   <e>
     <lg>
-      <l>pisimmin</l>
+      <l comment="Declined form in analyser">pisimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -160493,7 +160493,7 @@
   </e>
   <e>
     <lg>
-      <l>pohjoisempi</l>
+      <l pos="A" type="Comp">pohjoisempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -160517,7 +160517,7 @@
   </e>
   <e>
     <lg>
-      <l>pohjoisin</l>
+      <l pos="A" type="Superl">pohjoisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -167110,7 +167110,7 @@
   </e>
   <e>
     <lg>
-      <l>puolta</l>
+      <l comment="Declined form in analyser">puolta</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -171148,7 +171148,7 @@
   </e>
   <e>
     <lg>
-      <l>pärjäämätön</l>
+      <l pos="A">pärjäämätön</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -172117,7 +172117,7 @@
   </e>
   <e>
     <lg>
-      <l>pääsauvoja</l>
+      <l comment="Declined form in analyser">pääsauvoja</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -172541,7 +172541,7 @@
   </e>
   <e>
     <lg>
-      <l>päätettävä</l>
+      <l pos="A">päätettävä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -173456,7 +173456,7 @@
   </e>
   <e>
     <lg>
-      <l>raajoa</l>
+      <l pos="V">raajoa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -176322,7 +176322,7 @@
   </e>
   <e>
     <lg>
-      <l>rantatyven</l>
+      <l comment="Declined form in analyser">rantatyven</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -178679,7 +178679,7 @@
   </e>
   <e>
     <lg>
-      <l>reikiä</l>
+      <l comment="Declined form in analyser">reikiä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -178806,7 +178806,7 @@
   </e>
   <e>
     <lg>
-      <l>reiästä</l>
+      <l pos="Adv">reiästä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -183670,7 +183670,7 @@
   </e>
   <e>
     <lg>
-      <l>rosoilla</l>
+      <l comment="Declined form in analyser">rosoilla</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -186690,7 +186690,7 @@
   </e>
   <e>
     <lg>
-      <l>rykimä</l>
+      <l comment="Declined form in analyser">rykimä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -193337,7 +193337,7 @@
   </e>
   <e>
     <lg>
-      <l>sauvoja</l>
+      <l comment="Declined form in analyser">sauvoja</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -197863,7 +197863,7 @@
   </e>
   <e>
     <lg>
-      <l>siivoimmin</l>
+      <l comment="Declined form in analyser">siivoimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -197873,7 +197873,7 @@
   </e>
   <e>
     <lg>
-      <l>siivommin</l>
+      <l comment="Declined form in analyser">siivommin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -198040,7 +198040,7 @@
   </e>
   <e>
     <lg>
-      <l>sijais-</l>
+      <l comment="Declined form in analyser">sijais-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -208282,7 +208282,7 @@
   </e>
   <e>
     <lg>
-      <l>suolia</l>
+      <l comment="Declined form in analyser">suolia</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -209247,7 +209247,7 @@
   </e>
   <e>
     <lg>
-      <l>suorempi</l>
+      <l pos="A" type="Comp">suorempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -209273,7 +209273,7 @@
   </e>
   <e>
     <lg>
-      <l>suorin</l>
+      <l pos="A" type="Superl">suorin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -210775,7 +210775,7 @@
   </e>
   <e>
     <lg>
-      <l>suurempi</l>
+      <l pos="A" type="Comp">suurempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -215916,7 +215916,7 @@
   </e>
   <e>
     <lg>
-      <l>taajoa</l>
+      <l pos="V">taajoa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -216747,7 +216747,7 @@
   </e>
   <e>
     <lg>
-      <l>taikaa</l>
+      <l comment="Declined form in analyser">taikaa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -221584,7 +221584,7 @@
   </e>
   <e>
     <lg>
-      <l>tarvittava</l>
+      <l pos="A">tarvittava</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -242198,7 +242198,7 @@
   </e>
   <e>
     <lg>
-      <l>ulkomuistista</l>
+      <l pos="Adv">ulkomuistista</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -244183,7 +244183,7 @@
   </e>
   <e>
     <lg>
-      <l>useammat</l>
+      <l comment="Declined form in analyser">useammat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -244228,7 +244228,7 @@
   </e>
   <e>
     <lg>
-      <l>useat</l>
+      <l pos="A" nr="PlT">useat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -244238,7 +244238,7 @@
   </e>
   <e>
     <lg>
-      <l>useimmat</l>
+      <l comment="Declined form in analyser">useimmat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -246946,7 +246946,7 @@
   </e>
   <e>
     <lg>
-      <l>vahvistettava</l>
+      <l pos="A">vahvistettava</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -248374,7 +248374,7 @@
   </e>
   <e>
     <lg>
-      <l>vajaat</l>
+      <l pos="A" nr="PlT">vajaat</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -249710,7 +249710,7 @@
   </e>
   <e>
     <lg>
-      <l>valkaistua</l>
+      <l comment="Declined form in analyser">valkaistua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -253040,7 +253040,7 @@
   </e>
   <e>
     <lg>
-      <l>varhaisempi</l>
+      <l pos="A" type="Comp">varhaisempi</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -253050,7 +253050,7 @@
   </e>
   <e>
     <lg>
-      <l>varhaisimmin</l>
+      <l comment="Declined form in analyser">varhaisimmin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -253060,7 +253060,7 @@
   </e>
   <e>
     <lg>
-      <l>varhaisin</l>
+      <l pos="A" type="Superl">varhaisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -255007,7 +255007,7 @@
   </e>
   <e>
     <lg>
-      <l>vastasyyhyn</l>
+      <l pos="Adv">vastasyyhyn</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -260242,7 +260242,7 @@
   </e>
   <e>
     <lg>
-      <l>viertä</l>
+      <l comment="Declined form in analyser">viertä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -260785,7 +260785,7 @@
   </e>
   <e>
     <lg>
-      <l>viheriöityä</l>
+      <l comment="Declined form in analyser">viheriöityä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -261204,7 +261204,7 @@
   </e>
   <e>
     <lg>
-      <l>viidettäkymmentä</l>
+      <l pos="Num">viidettäkymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -261372,7 +261372,7 @@
   </e>
   <e>
     <lg>
-      <l>viikkokauden</l>
+      <l pos="Adv">viikkokauden</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -261383,7 +261383,7 @@
   </e>
   <e>
     <lg>
-      <l>viikkokausia</l>
+      <l pos="Adv">viikkokausia</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -265796,7 +265796,7 @@
   </e>
   <e>
     <lg>
-      <l>voissa</l>
+      <l pos="Adv">voissa</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -267018,7 +267018,7 @@
   </e>
   <e>
     <lg>
-      <l>vuosikausia</l>
+      <l pos="Adv">vuosikausia</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -267339,7 +267339,7 @@
   </e>
   <e>
     <lg>
-      <l>vuottua</l>
+      <l pos="V">vuottua</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -267926,7 +267926,7 @@
   </e>
   <e>
     <lg>
-      <l>vähäisin</l>
+      <l pos="A" type="Superl">vähäisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -268065,7 +268065,7 @@
   </e>
   <e>
     <lg>
-      <l>vähästä</l>
+      <l comment="Declined form in analyser">vähästä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -270792,7 +270792,7 @@
   </e>
   <e>
     <lg>
-      <l>yhdeksättäkymmentä</l>
+      <l pos="Num">yhdeksättäkymmentä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -272663,7 +272663,7 @@
   </e>
   <e>
     <lg>
-      <l>yleisin</l>
+      <l pos="A" type="Superl">yleisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -274295,7 +274295,7 @@
   </e>
   <e>
     <lg>
-      <l>ylä-</l>
+      <l pos"N">ylä-</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -275529,7 +275529,7 @@
   </e>
   <e>
     <lg>
-      <l>yökylmät</l>
+      <l pos="A" nr="PlT">yökylmät</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
@@ -275585,7 +275585,7 @@
   </e>
   <e>
     <lg>
-      <l>yöllä</l>
+      <l pos="Adv">yöllä</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
