@@ -25318,19 +25318,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">harrilauta</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>harrilaudalla pyynti on nykyään kielletty Tenossa</x>
-          <xt>uhterbivdu lea dán áigge gildojuvvon Deanus</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">harriperho</l>
     </lg>
     <mg>
@@ -30993,19 +30980,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">jeastaguoppar</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">hiivatti</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>hiivatin hyvä</x>
-          <xt>oalle buorre</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -38195,19 +38169,6 @@
   </e>
   <e>
     <lg>
-      <l t_type="Phrase">hänen kaltaisensa ihminen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>hänen kaltaisensa ihminen ei ole kovin valmis muuttamaan muualle</x>
-          <xt>sonnagaš ii leat nu gearggus fárret eará sadjái</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="Adv">hännillä</l>
     </lg>
     <mg>
@@ -39532,20 +39493,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V">höyryttää</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <re>esim. ruoan valmistuksessa</re>
-        <xg>
-          <x>höyryttää vihanneksia</x>
-          <xt>lievladit ruotnasiid</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">höyrytä</l>
     </lg>
     <mg>
@@ -39917,19 +39864,6 @@
         <xg>
           <x>ihmeellisen kaunis</x>
           <xt>imaš čáppis ~ čáppat</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">ihmeitätekevä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>sillä on ihmeitätekevä vaikutus</x>
-          <xt>das lea ipmašiiddahkki váikkuhus</xt>
         </xg>
       </tg>
     </mg>
@@ -47687,19 +47621,6 @@
       <tg xml:lang="sme">
         <t pos="Pron" type="Indef">juostá</t>
         <t t_type="Phrase">gos nu</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">jossitella</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>sinä olet taas siinä jossittelemassa</x>
-          <xt>don leat vuot das joshallamin</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -72471,19 +72392,6 @@
   </e>
   <e>
     <lg>
-      <l pos="A">kiitettävä</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>kiitettävät arvosanat</x>
-          <xt>giittehahtti árvosánit</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="A">kiitollinen</l>
     </lg>
     <mg>
@@ -73496,19 +73404,6 @@
         <t pos="V">gurpat</t>
         <t pos="V">gurpet</t>
         <t pos="V">giemardit</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l comment="Not in analyzer">-kin</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>hänkin oli siellä</x>
-          <xt>songe lei doppe, sonnai lei doppe, son maid lei doppe</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -77580,7 +77475,7 @@
         <t pos="A">meariheapme</t>
         <t pos="A">govttoheapme</t>
         <t pos="A">seaibbeheapme</t>
-        <xg xml:lang="fin">
+        <xg>
           <x>tuo on sinulta kohtuuton vaatimus</x>
           <xt>diet lea dus seaibbehis gáibádus</xt>
         </xg>
@@ -102714,19 +102609,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leivänmurunen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>oli kokonaan syönyt sen leivän, ei ollut jäänyt murustakaan</x>
-          <xt>lei buot borran dan láibbi, ii lean báhcán ii smadjige</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">leivänpaahdin</l>
     </lg>
     <mg>
@@ -110782,19 +110664,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">luohkkálatnja</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">-luokkalainen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>viidesluokkalaiset lähtivät luokkaretkelle</x>
-          <xt>viđátluohkkálaččat vulge luohkkámátkái</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -119738,19 +119607,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">meikäläinen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>meikäläinen ei siitä välittänyt</x>
-          <xt>munnagaš ii das beroštan</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l comment="Not in analyzer">meinailla</l>
     </lg>
     <mg>
@@ -124478,33 +124334,6 @@
       <tg xml:lang="sme">
         <t pos="A">máŋggabealat</t>
         <t pos="A">máŋggabeallásaš</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">monisatainen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <re>monisatapäinen</re>
-        <xg>
-          <x>monisatapäinen ihmisjoukko</x>
-          <xt>máŋggačuođat olmmošjoavku</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">moniselitteinen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>moniselitteinen tulkinta asiasta</x>
-          <xt>máŋggačilggot dulkojupmi áššis</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -137914,19 +137743,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">nealgebálká</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nälkävuosi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>pitkä kuin nälkävuosi</x>
-          <xt>guhkki dego nealgejahki</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -163740,19 +163556,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pressu</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>kattoi heinäsuovan pressulla</x>
-          <xt>lovddii stávrrá presennegiin</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">preteriti</l>
     </lg>
     <mg>
@@ -179084,19 +178887,6 @@
   </e>
   <e>
     <lg>
-      <l pos="A">republikaaninen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>republikaaninen puolue</x>
-          <xt>republikánalaš bellodat</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">reputtaa</l>
     </lg>
     <mg>
@@ -185378,7 +185168,7 @@
     </mg>
     <mg>
       <tg xml:lang="sme">
-        <re>roaiskkát</re>
+        <t pos="N" nr="PlT">roaiskkát</t>
         <xg>
           <x>sai selkäsaunan</x>
           <xt>oaččui roiskkáid</xt>
@@ -211267,20 +211057,6 @@
   </e>
   <e>
     <lg>
-      <l t_type="Phrase">sydämensä pohjasta</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <re>adv.</re>
-        <xg>
-          <x>kiitti häntä sydämensä pohjasta</x>
-          <xt>giittii su váimmovuođus</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">sydämentahdistin</l>
     </lg>
     <mg>
@@ -223298,19 +223074,6 @@
   </e>
   <e>
     <lg>
-      <l pos="A">telepaattinen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>telepaattiset kyvyt</x>
-          <xt>telepáhtalaš attáldagat</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">telepatia</l>
     </lg>
     <mg>
@@ -228413,19 +228176,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">toisenvarainen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>toisenvarainen eliö</x>
-          <xt>nuppissorjavaš ealán</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="Adv">toisin</l>
     </lg>
     <mg>
@@ -231887,19 +231637,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="V">dulkot</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">tulkinnanvarainen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>tuo on aika tulkinnanvarainen asia</x>
-          <xt>diet lea viehka máŋggačilggot ášši</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -239045,19 +238782,6 @@
         <xg>
           <x>täkäläiset eivät käyttäydy tuolla tavalla</x>
           <xt>dáppeolbmot eai láhtte nie</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l t_type="Phrase">täkäläinen poro</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>tuo kyllä tuntuisi olevan täkäläinen poro</x>
-          <xt>diet gal orošii leamen dáppeboazu</xt>
         </xg>
       </tg>
     </mg>
@@ -267376,19 +267100,6 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">vähemmäksi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>kyttyrälohi on kovasti runsastunut Tenossa, pitäisi pyytää vähemmäksi</x>
-          <xt>ruoššaluossa lea sakka laskan Deanus, galggašii bivdit geahpebun</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="Adv">vähemmän</l>
     </lg>
     <mg>
@@ -273661,19 +273372,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">badjeleksponeren</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">ylivertainen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sme">
-        <xg>
-          <x>ylivertaisen taitava</x>
-          <xt>guođilmas čeahppi</xt>
-        </xg>
       </tg>
     </mg>
   </e>
