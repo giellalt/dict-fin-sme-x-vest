@@ -1705,12 +1705,12 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">aikaisin</l>
+      <l pos="A" type="Superl">aikaisin</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
         <re>superl.</re>
-        <t pos="Adv">áramus</t>
+        <t pos="A" type="Der/Superl">áramus</t>
       </tg>
     </mg>
   </e>
@@ -139517,7 +139517,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">oikein</l>
+      <l pos="A" type="Superl">oikein</l>
     </lg>
     <mg>
       <tg xml:lang="fin">
